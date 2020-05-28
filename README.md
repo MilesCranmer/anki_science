@@ -19,12 +19,12 @@ General:
 ## Subjects
 
 Physics/Astro:
-- physics_and_astronomy/Physics_GRE.apkg
-    - (https://ankiweb.net/shared/info/1148323968)
-- wiki_scrape/astronomy.apkg
-    - Scraped from https://en.wikipedia.org/wiki/Glossary_of_astronomy and the summaries of each page.
 - wiki_scrape/physics.apkg
     - Scraped from https://en.wikipedia.org/wiki/Glossary_of_physics and the summaries of each page.
+- wiki_scrape/astronomy.apkg
+    - Scraped from https://en.wikipedia.org/wiki/Glossary_of_astronomy and the summaries of each page.
+- physics_and_astronomy/Physics_GRE.apkg
+    - (https://ankiweb.net/shared/info/1148323968)
 - physics_and_astronomy/Nuclear_physics.apkg
     - (https://ankiweb.net/shared/info/1486083654)
 
