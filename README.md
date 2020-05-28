@@ -20,9 +20,8 @@ General:
 
 Physics/Astro:
 - physics_and_astronomy/comprehensive_astrophysics.apkg
-    - Miles Cranmer's Anki deck for a PhD comprehensive exam. Based on Josh Winn's "Astrophysical Literacy" document. 
-    - Answers pull from COSMOS, Wikipedia, and other sources.
-    - Help from Eric Moseley and Oliver Philcox.
+    - Anki deck for PhD comprehensive exam. Based on Josh Winn's "Astrophysical Literacy" document. 
+    - Answers pulled from COSMOS, Wikipedia, and other sources, with additional help from Eric Moseley and Oliver Philcox.
 - wiki_scrape/physics.apkg
     - Scraped from https://en.wikipedia.org/wiki/Glossary_of_physics and the summaries of each page.
 - wiki_scrape/astronomy.apkg
