@@ -1,0 +1,645 @@
+Abbe number
+Absorbance
+Archimedes' principle
+Atomic orbital
+Avogadro constant
+Avogadro number
+Avogadro's law
+Babinet's principle
+Balmer series
+Battery (electricity)
+Beam (structure)
+Bernoulli's equation
+Bernoulli's principle
+Bessel function
+Big Bang
+Bohr model
+Boltzmann constant
+Bose–Einstein condensate (BEC)
+Boyle's law
+Bragg's law
+Bra–ket notation
+Brewster's angle
+Brownian motion
+Bulk modulus
+Carnot cycle
+Cartesian coordinate system
+Celsius scale
+Center of pressure (fluid mechanics)
+Centigrade (temperature)
+Coherence (physics)
+Compton scattering
+Coulomb's law
+Crest (physics)
+Critical angle (optics)
+Curie temperature
+DC motor
+Dalton's law
+Darcy–Weisbach equation
+Deflection (engineering)
+Deformation (mechanics)
+Dispersion (optics)
+Doppler effect
+Drag (physics)
+Dynamics (mechanics)
+Elasticity (physics)
+Electric field
+Electric intensity
+Electrical impedance
+Electrical reactance#Inductive reactance
+Faraday (unit)
+Faraday constant
+Fermat's principle
+Fermi surface
+Flavour (particle physics)
+Flux#Terminology
+Focus (optics)
+For Inspiration and Recognition of Science and Technology
+Fraunhofer lines
+Friction#Coefficient of friction
+Function (mathematics)
+Graham's law of diffusion
+Gravitational acceleration
+Ground (electricity)
+Hamilton's principle
+Hamiltonian mechanics
+Helmholtz free energy
+Henderson–Hasselbalch equation
+Henry's law
+Higgs boson
+Huygens–Fresnel principle
+International System of Units
+Josephson effect
+Kelvin
+Kirchhoff's circuit laws
+Kirchhoff's equations
+LC circuit
+Lagrangian mechanics
+Laplace transform
+Laplace–Runge–Lenz vector
+Lens (optics)#Types of simple lenses
+Lenz's law
+Liouville's theorem (conformal mappings)
+M-theory
+Mach number
+Maclaurin series
+Matrix (mathematics)
+Maxwell's equations
+Moment (physics)
+Momentum#Conservation
+Navier–Stokes equations
+Newton's law of universal gravitation
+Newton's laws of motion
+Newtonian fluid
+Newtonian mechanics
+Nth root
+Nuclear fission
+Nuclear fusion
+Ohm
+Ohm's law
+Paraffin wax
+Parity (physics)
+Pascal's law
+Pauli exclusion principle
+Planck constant (h)
+Planck units
+Planck's law
+Plasma (physics)
+Plasticity (physics)
+Power (physics)
+Pulse (physics)
+Radius of curvature (optics)
+Rydberg formula
+Schrödinger equation
+Screw (simple machine)
+Seebeck effect
+Series and parallel circuit
+Series and parallel circuits
+Snell's law
+Spectral color
+Speed#Average speed
+Standard Model
+Stress (mechanics)
+Sublimation (phase transition)
+Tensile Modulus
+Tesla (unit)
+Van de Graaff generator
+Vector (mathematics and physics)
+Volta potential
+W and Z bosons
+Weber (unit)
+Wedge (mechanical device)
+Work hardening
+X-ray
+Young’s modulus
+Zeeman effect
+ab initio methods (nuclear physics)
+absolute electrode potential
+absolute humidity
+absolute magnitude
+absolute motion
+absolute pressure
+absolute scale
+absolute zero
+absorption spectroscopy
+accelerating expansion of the universe
+acceleration
+accelerometer
+acoustics
+adhesion
+adiabatic cooling
+adiabatic heating
+adiabatic process
+aerodynamics
+afocal system
+air mass
+air mass (astronomy)
+air mass (solar energy)
+albedo
+alloy
+alpha decay
+alpha particle (α)
+alternating current (AC)
+ammeter
+amorphous solid
+ampere (A)
+amplifier
+amplitude
+angle of incidence (optics)
+angle of reflection
+angular acceleration
+angular displacement
+angular frequency
+angular momentum
+angular velocity
+anion
+annihilation
+anode
+anti-gravity
+antimatter
+antineutron
+antiparticle
+antiproton
+antiquark
+arc length
+area moment of inertia
+astronomical unit
+astrophysics
+atom
+atomic line filter
+atomic mass
+atomic mass unit
+atomic nucleus
+atomic number (Z)
+atomic orbital
+atomic packing factor
+atomic physics
+atomic structure
+atomic weight (A)
+attenuation coefficient
+audio frequency
+axion
+azimuthal quantum number
+background radiation
+ballistics
+barometer
+baryon
+bending
+bending moment
+beta decay
+beta particle
+binding energy
+binomial random variable
+biocatalysis
+biophysics
+black body
+black-body radiation
+block and tackle
+boiling point
+boiling point elevation
+boson
+bremsstrahlung
+british thermal unit (btu)
+brittleness
+buoyancy
+cGh physics
+calculus
+capacitance
+capacitive reactance
+cathode
+cathode ray
+cation
+celestial mechanics
+center of curvature
+center of gravity
+center of mass
+central force motion
+central limit theorem
+centrifugal force
+centripetal force
+chain reaction
+change of base rule
+charge carrier
+chemical physics
+chromatic aberration
+circular motion
+classical mechanics
+cohesion (chemistry)
+cold fusion
+complex harmonic motion
+composite particle
+concave lens
+condensation point
+condensed matter physics
+conservation law
+constructive interference
+continuous spectrum
+continuum mechanics
+convection
+convex lens
+cosmic background radiation
+coulomb (C)
+covalent bond
+creep (deformation)
+crest factor
+critical mass
+current density
+current length
+curvilinear motion
+cyclotron
+damped vibration
+damping
+dark energy
+dark matter
+decibel
+definite integral
+density
+derivative
+desert (particle physics)
+destructive interference
+diamagnetism
+dielectric
+diffraction
+direct current (DC)
+displacement (fluid)
+displacement (vector)
+distance
+drift velocity
+ductility
+dyne
+econophysics
+elastic collision
+elastic energy
+elastic instability
+elastic modulus
+electric charge
+electric circuit
+electric current
+electric displacement field
+electric field
+electric field gradient
+electric generator
+electric motor
+electric potential
+electric power
+electrical and electronics engineering
+electrical conductor
+electrical insulator
+electrical network
+electrical potential energy
+electrical resistance
+electricity
+electro-optic effect
+electrochemical cell
+electrodynamics
+electrolytic cell
+electromagnet
+electromagnetic field
+electromagnetic induction
+electromagnetic radiation
+electromagnetic spectrum
+electromagnetic wave equation
+electromagnetism
+electromechanics
+electromotive force (<math>\mathcal{E}</math>)
+electron
+electron capture
+electron pair
+electron paramagnetic resonance
+electronegativity
+electronics
+electronvolt (eV)
+electrostatics
+electrostriction
+elementary charge
+elementary particle
+emission spectrum
+emissivity
+endothermic
+energy
+energy level
+engineering physics
+enthalpy
+entropy
+equilibrant force
+equipartition
+escape velocity
+excited state
+exothermic
+experimental physics
+falling bodies
+farad
+fermion
+ferrimagnetism
+ferromagnetism
+field line
+first law of thermodynamics
+fluid
+fluid mechanics
+fluid physics
+fluid statics
+fluorescence
+flux
+focal length
+force (F)
+force carrier
+frame of reference
+free body diagram
+free fall
+freezing point
+frequency
+frequency modulation
+friction
+fundamental forces
+fundamental frequency
+fundamental theorem of calculus
+gamma ray
+gas
+general relativity
+geophysics
+gluon
+gravitation
+gravitational constant (G)
+gravitational energy
+gravitational field
+gravitational potential
+gravitational wave
+graviton
+gravity
+ground reaction force
+ground state
+group velocity
+hadron
+half-life
+harmonic mean
+heat
+heat transfer
+hertz
+homeokinetics
+horsepower
+hydrostatics
+ice point
+indefinite integral
+inductance
+inertia
+infrasound
+integral
+integral transform
+invariant mass
+ion
+ionic bond
+ionization
+ionization chamber
+ionizing radiation
+isotope
+joule
+kinematics
+kinetic energy
+laminar flow
+laser
+lepton
+lever
+light
+line of force
+linear actuator
+linear algebra
+linear elasticity
+liquid
+liquid crystal (LC)
+longitudinal wave
+machine
+machine element
+magnetic field
+magnetism
+magnetostatics
+mass
+mass balance
+mass density
+mass flux
+mass moment of inertia
+mass number
+mass spectrometry
+material properties
+materials science
+mathematical physics
+mathematics
+matter
+measure of central tendency
+mechanical energy
+mechanical equilibrium
+mechanical filter
+mechanical wave
+mechanics
+melting
+meson
+modulus of elasticity
+molar concentration
+molar mass
+molecular physics
+molecule
+moment of inertia
+motion (physics)
+muon
+nanoengineering
+nanotechnology
+neurophysics
+neutrino
+neutron
+neutron cross-section
+newton (unit)
+normal force
+nuclear force
+nuclear physics
+nuclear reaction
+nuclear transmutation
+nucleon
+nuclide
+optical tweezers
+optically detected magnetic resonance
+optics
+particle
+particle accelerator
+particle displacement
+particle physics
+pendulum
+periodic table of the elements
+phase (matter)
+phase (waves)
+phase equilibrium
+phenomenology (physics)
+phosphorescence
+photoelectric effect
+photon
+photonics
+physical chemistry
+physical constant
+physical quantity
+physics
+piezoelectricity
+pion
+plasma physics
+pneumatics
+positron
+potential energy
+pressure
+probability
+probability distribution
+probability theory
+proton
+psi particle
+pulley
+pulse wave
+quantization (physics)
+quantum
+quantum chromodynamics
+quantum electrodynamics
+quantum field theory
+quantum gravity
+quantum mechanics
+quantum number
+quantum physics
+quantum state
+quark
+quasiparticle
+radiant energy
+radiation
+radioactive decay
+radionuclide
+redshift
+refraction
+refractive index
+relative atomic mass
+relativistic mechanics
+rigid body
+rotational energy
+rotational speed
+scalar (physics)
+scattering
+science
+second law of thermodynamics
+shadow matter
+shear modulus
+shear strength
+shear stress
+shortwave radiation
+simple harmonic motion
+simple machine
+siphon
+solar cell
+solid
+solid mechanics
+solid-state physics
+solubility
+sound
+special relativity
+specific activity
+speed
+speed of light (c)
+speed of sound
+spherical aberration
+spin quantum number
+stable isotope ratio
+stable nuclide
+standard atomic weight
+standing wave
+state of matter
+statics
+statistical mechanics
+stiffness
+strength of materials
+stress–strain curve
+string duality
+string theory
+structural load
+subatomic particle
+superconductivity
+superconductor
+superhard material
+superposition principle
+supersymmetry (SUSY)
+surface tension
+temperature
+tensile strength
+test particle
+theoretical physics
+theory of everything
+theory of relativity
+thermal conduction
+thermal equilibrium
+thermal radiation
+thermionic emission
+thermodynamic equilibrium
+thermodynamic free energy
+thermodynamics
+thermometer
+third law of thermodynamics
+threshold frequency
+torque
+total internal reflection
+toughness
+trajectory
+transducer
+transmission medium
+transverse wave
+trigonometry
+trimean
+triple point
+truncated mean
+uncertainty principle
+uniform circular motion
+uniform motion
+unit vector
+utility frequency
+vacuum
+valence electron
+valence shell
+valley of stability
+variable capacitor
+variable resistor
+vector space
+velocity
+virtual image
+virtual particle
+viscoelasticity
+viscosity
+visible light
+volt (V)
+voltage
+voltmeter
+volume
+watt (W)
+wave
+wave equation
+wave function
+wave function collapse
+wavelength
+wave–particle duality
+weak interaction
+weight
+wheel and axle
+white body
+wind
+wind shear
+work (physics)
+work function
+ångström (Å)

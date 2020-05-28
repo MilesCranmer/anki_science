@@ -1,0 +1,1586 @@
+{{short description|Wikipedia glossary}}
+{{Use dmy dates|date=July 2018}}
+
+This '''glossary of physics''' is a list of definitions of terms and concepts relevant to [[physics]], its sub-disciplines, and related fields, including [[mechanics]], [[materials science]], [[nuclear physics]], [[particle physics]], and [[thermodynamics]].
+
+For more inclusive glossaries concerning related fields of science and technology, see [[Glossary of chemistry terms]], [[Glossary of astronomy]], [[Glossary of areas of mathematics]], and [[Glossary of engineering]].
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|extlinks=yes}}
+{{TopicTOC-Physics}}
+
+==A==
+
+{{glossary}}
+{{term|[[ab initio methods (nuclear physics)|ab initio]]}}
+{{defn|A mathematical model which seeks to describe {{gli|nucleus|atomic nuclei}} by solving the non-relativistic {{gli|Schrödinger equation}} for all constituent {{gli|nucleon|nucleons}} and the {{gli|nuclear force|forces}} that exist between them. Such methods yield precise results for very light nuclei but become more approximate for heavier nuclei.}}
+{{term|[[Abbe number]]}}
+{{ghat|Also called the '''V-number''' or '''constringence'''.}} 
+{{defn|In {{gli|optics}} and lens design, a measure of a transparent material's {{gli|dispersion}} (a variation of {{gli|refractive index}} versus {{gli|wavelength}}). High values of V indicate low dispersion.}}
+{{term|[[absolute electrode potential]]}}
+{{defn|In [[electrochemistry]], the electrode potential of a metal measured with respect to a universal reference system (without any additional metal–solution interface).}}
+{{term|[[absolute humidity]]}}
+{{defn|The ratio of the water vapor in a sample of air to the {{gli|volume}} of the sample.}}
+{{term|[[absolute magnitude]]}}
+{{defn|Is a measure of the [[luminosity]] of a [[celestial object]], on a [[Logarithmic scale|logarithmic]] [[Magnitude (astronomy)|astronomical magnitude]] scale. An object's absolute magnitude is defined to be equal to the [[apparent magnitude]] that the object would have if it were viewed from a distance of exactly 10&nbsp;[[parsecs]] (32.6 [[light-year]]s), with no [[Extinction (astronomy)|extinction]] (or dimming) of its light due to absorption by [[Cosmic dust|interstellar dust]] particles.}}
+{{term|[[absolute motion]]}}
+{{defn|}}
+{{term|[[absolute pressure]]}}
+{{defn|Is zero-referenced against a perfect vacuum, using an [[absolute scale]], so it is equal to gauge pressure plus atmospheric pressure.}}
+{{term|[[absolute scale]]}}
+{{defn|Is a system of [[measurement]] that begins at a minimum, or zero point, and progresses in only one direction. An absolute scale differs from an arbitrary, or "relative," scale, which begins at some point selected by a person and can progress in both directions. An absolute scale begins at a natural minimum, leaving only one direction in which to progress.}}
+{{term|[[absolute zero]]}}
+{{defn|The theoretical lowest possible {{gli|temperature}}, understood by international agreement as equivalent to 0 {{gli|Kelvin}} or {{convert|-273.15|C|F}}. More formally, it is the theoretical lower limit of the {{gli|thermodynamic temperature}} scale, at which {{gli|enthalpy}} and {{gli|entropy}} of a cooled [[ideal gas]] reach their minimum values and the fundamental particles of nature have minimal vibrational motion.}}
+{{term|[[absorption spectroscopy]]}}
+{{defn|Refers to [[spectroscopy|spectroscopic]] techniques that measure the [[absorption (electromagnetic radiation)|absorption]] of [[electromagnetic radiation|radiation]], as a function of [[frequency]] or [[wavelength]], due to its interaction with a sample. The sample absorbs energy, i.e., photons, from the radiating field. The intensity of the absorption varies as a function of frequency, and this variation is the [[Absorption spectroscopy#Absorption spectrum|absorption spectrum]]. Absorption spectroscopy is performed across the [[electromagnetic spectrum]].}}
+{{term|[[Absorbance|absorptivity]]}}
+{{defn|}}
+{{term|[[accelerating expansion of the universe]]}}
+{{defn|Is the observation that the [[Metric expansion of space|expansion]] of the [[universe]] is such that the velocity at which a distant galaxy is receding from the observer is continuously increasing with time.<ref name="NYT-20170220">{{cite news |last=Overbye |first=Dennis |authorlink=Dennis Overbye |title=Cosmos Controversy: The Universe Is Expanding, but How Fast? |url=https://www.nytimes.com/2017/02/20/science/hubble-constant-universe-expanding-speed.html |date=20 February 2017 |work=[[The New York Times]] |accessdate=21 February 2017 }}</ref><ref name="AM-20170818">{{cite web |last=Scharping |first=Nathaniel |title=Gravitational Waves Show How Fast The Universe is Expanding |url=http://www.astronomy.com/news/2017/10/gravitational-waves-show-how-fast-the-universe-is-expanding |date=18 October 2017 |website=[[Astronomy (magazine)|Astronomy]] |accessdate=18 October 2017 }}</ref><ref name="ES-20180311">{{cite web |last1=Weaver |first1=Donna |last2=Villard |first2=Ray |title=Measuring universe expansion reveals mystery – Is something unpredicted going on in the depths of space? |url=http://earthsky.org/space/measuring-universe-expansion-reveals-mystery |date=11 March 2018 |website=[[Earth & Sky]] |accessdate=11 March 2018 }}</ref><ref>{{cite web|url=http://curious.astro.cornell.edu/the-universe/cosmology-and-the-big-bang/104-the-universe/cosmology-and-the-big-bang/expansion-of-the-universe/616-is-the-universe-expanding-faster-than-the-speed-of-light-intermediate|title=Is the universe expanding faster than the speed of light?}}</ref>}}
+{{term|[[acceleration]]}}
+{{defn|The rate at which the {{gli|velocity}} of a body changes with time.}}
+{{term|[[Gravitational acceleration|acceleration due to gravity]]}}
+{{defn|The acceleration on an object caused by the force of {{gli|gravitation}}.}}
+{{term|[[accelerometer]]}}
+{{defn|An instrument used to measure the proper {{gli|acceleration}} of a body irrespective of other forces.}}
+{{term|[[acoustics]]}}
+{{defn|The branch of physics dealing with the production, transmission and effects of {{gli|sound}}.}}
+{{term|[[adhesion]]}}
+{{defn|The tendency of dissimilar particles or surfaces to cling to one another. Contrast ''{{gli|cohesion}}''.}}
+{{term|[[adiabatic cooling]]}}
+{{defn|defn=}}
+{{term|[[adiabatic heating]]}}
+{{defn|defn=}}{{term|[[adiabatic process]]}}
+{{defn|defn=Occurs without transfer of [[heat]] or [[mass]] of substances between a [[thermodynamic system]] and its surroundings. In an adiabatic process, energy is transferred to the surroundings only as [[Work (thermodynamics)|work]].<ref name="Carathéodory">{{cite journal|authorlink=Constantin Carathéodory|last=Carathéodory |first=C. |date=1909 |title=Untersuchungen über die Grundlagen der Thermodynamik |journal=Mathematische Annalen |volume=67 |issue=3 |pages=355–386 |doi=10.1007/BF01450409}}. A translation may be found [http://neo-classical-physics.info/uploads/3/0/6/5/3065888/caratheodory_-_thermodynamics.pdf here].  Also a mostly reliable [https://books.google.com/books?id=xwBRAAAAMAAJ&q=Investigation+into+the+foundations translation is to be found] in {{cite book|last=Kestin |first=J. |date=1976 |title=The Second Law of Thermodynamics |publisher=Dowden, Hutchinson & Ross |location=Stroudsburg, PA |isbn=}}</ref><ref name="Bailyn 21">{{cite book|last=Bailyn |first=M. |date=1994 |title=A Survey of Thermodynamics |publisher=American Institute of Physics Press |location=New York, NY|isbn=0-88318-797-3 |page=21}}</ref> The adiabatic process provides a rigorous conceptual basis for the theory used to expound the [[first law of thermodynamics]], and as such it is a key concept in [[thermodynamics]].}}
+{{term|[[aerodynamics]]}}
+{{defn|Is the study of the motion of [[air]], particularly its interaction with a solid object, such as an [[airplane]] wing. It is a sub-field of [[fluid dynamics]] and [[gas dynamics]], and many aspects of aerodynamics theory are common to these fields. }}
+{{term|[[afocal system]]}}
+{{defn|defn= In [[optics]] an '''afocal system''' (a system without focus) is an optical system that produces no net convergence or divergence of the beam, i.e. has an infinite [[effective focal length]].<ref>[https://books.google.com/books?id=4nxMduNT8-gC&pg=PA379&dq=afocal&lr=&cd=14#v=onepage&q=afocal&f=false Daniel Malacara, Zacarias Malacara, Handbook of optical design. Page 379]</ref> This type of system can be created with a pair of optical elements where the distance between the elements is equal to the sum of each element's [[focal length]] (''d'' = ''f''<sub>1</sub>+''f''<sub>2</sub>).}}
+
+{{term|[[air mass (astronomy)]]}}
+{{defn|defn=In [[astronomy]], '''air mass''' or '''airmass''' is the "amount of air that one is looking through"<ref>Green, Daniel W. E. 1992. Magnitude Corrections for Atmospheric Extinction. International Comet Quarterly 14, July 1992, 55–59.</ref> when seeing a star or other celestial source below [[Earth's atmosphere]]. It is formulated as the integral of air density along the light [[ray (optics)|ray]].}}
+
+{{term|[[air mass|air mass (meteorology)]]}}
+{{defn|defn=In [[meteorology]], an '''air mass''' is a volume of [[air]] defined by its [[temperature]] and [[water vapor]] content.  Air masses cover many hundreds or thousands of miles and adapt to the characteristics of the surface below them. They are classified according to latitude and their continental or maritime source regions.  Colder air masses are termed polar or arctic, while warmer air masses are deemed tropical. Continental and superior air masses are dry while maritime and monsoon air masses are moist.   [[Weather front]]s separate air masses with different density (temperature and/or moisture) characteristics. Once an air mass moves away from its source region, underlying vegetation and water bodies can quickly modify its character. Classification schemes tackle an air mass' characteristics, as well as modification.}} 
+
+{{term|[[air mass (solar energy)|air mass coefficient]]}}
+{{defn|defn=Defines the direct optical path length through the [[Earth's atmosphere]], expressed as a ratio relative to the path length vertically upwards, i.e. at the [[zenith]].
+The air mass coefficient can be used to help characterize the solar spectrum after [[solar radiation]] has traveled through the atmosphere.}}
+
+{{term|[[albedo]]}}
+{{defn|The fraction of the total {{gli|light}} incident on a reflecting surface, especially a [[celestial body]], which is reflected back in all directions.}}
+{{term|[[alloy]]}}
+{{defn|A chemical mixture of a metal with one or more other metals or other elements.}}
+{{term|[[alpha decay]]}}
+{{defn|defn= Or '''α-decay''', is a type of [[radioactivity|radioactive decay]] in which an [[atomic nucleus]] emits an [[alpha particle]] (helium nucleus) and thereby transforms or 'decays' into a different atomic nucleus, with a [[mass number]] that is reduced by four and an [[atomic number]] that is reduced by two. An alpha particle is identical to the nucleus of a [[helium-4]] atom, which consists of two [[proton]]s and two [[neutron]]s. It has a charge of {{val|+2|ul=e}} and a mass of {{val|4|ul=u}}. }}
+{{term|[[alpha particle]] (α)}}
+{{ghat|Also symbolized by '''α<sup>2+</sup>''', '''{{chem|He|2+}}''', and '''{{nuclide|helium|4|charge=2+}}'''.}}
+{{defn|A type of {{gli|subatomic particle}} consisting of two {{gli|proton|protons}} and two {{gli|neutron|neutrons}} bound together into a particle identical to the {{gli|atomic nucleus|nucleus}} of a [[helium-4]] {{gli|ion}}. Alpha particles are classically produced in the process of {{gli|radioactive decay|radioactive}} {{gli|alpha decay}}, but may also be produced in other ways and given the same name.}}
+{{term|[[alternating current]] (AC)}}
+{{defn|A form of {{gli|electric current}} in which the movement of {{gli|electric charge}} periodically reverses direction. Contrast ''{{gli|direct current}}''.}}
+{{term|[[ammeter]]}}
+{{defn|An instrument that is used to measure {{gli|electric current}}.}}
+{{term|[[amorphous solid]]}}
+{{defn|A type of solid which does not have a definite geometrical shape. Or its non-crystalline solid.}}
+{{term|[[ampere]] (A)}}
+{{ghat|Often abbreviated as '''amp'''.}}
+{{defn|The {{gli|SI}} base unit of {{gli|electric current}}, defined as one {{gli|coulomb}} of {{gli|electric charge}} per second.}}
+
+{{term|[[amplifier]]}}
+{{defn|defn=An '''amplifier''', '''electronic amplifier''' or (informally) '''amp''' is an electronic device that can increase the [[power (physics)|power]] of a [[Signal (information theory)|signal]] (a time-varying [[voltage]] or [[Electric current|current]]). It is a [[two-port network|two-port]] electronic circuit that uses electric power from a [[power supply]] to increase the [[amplitude]] of a signal applied to its input terminals, producing a proportionally greater amplitude signal at its output.  The amount of amplification provided by an amplifier is measured by its [[gain (electronics)|gain]]: the ratio of output voltage, current, or power to input.  An amplifier is a circuit that has a [[power gain]] greater than one.<ref name="Crecraft">{{cite book| last1  = Crecraft| first1 = David| last2  = Gorham| first2 = David| title  = Electronics, 2nd Ed.| publisher = CRC Press| date   = 2003| location = | pages  = 168| language = | url    = https://books.google.com/books?id=Yq66DDW4f8IC&pg=PA168&dq=amplifier+power| doi    = | id     = | isbn   = 978-0748770366}}</ref><ref name="Agarwal">{{cite book | last1  = Agarwal| first1 = Anant  | last2  = Lang  | first2 = Jeffrey | title  = Foundations of Analog and Digital Electronic Circuits| publisher = Morgan Kaufmann| date   = 2005| location = | pages  = 331| language = | url    = https://books.google.com/books?id=lGgP7FDEv3AC&pg=PA331&dq=amplifier+power| doi    = | id     = | isbn   = 978-0080506814}}</ref><ref name="Glisson">{{cite book | last1  = Glisson | first1 = Tildon H. | title  = Introduction to Circuit Analysis and Design | publisher = Springer Science and Business Media | date   = 2011 | location = | language = | url    = https://books.google.com/books?id=7nNjaH9B0_0C&pg=PA197&dq=amplifier+power | doi    = | id  = | isbn   = 978-9048194438}}</ref>}}
+
+{{term|[[amplitude]]}}
+{{defn|The height of a {{gli|wave}} measured from its center (normal) position.}}
+
+{{term|[[angle of incidence (optics)|angle of incidence]]}}
+{{defn|defn=In [[geometric optics]], the '''angle of incidence''' is the angle between a [[incident ray|ray incident]] on a surface and the line perpendicular to the surface at the point of incidence, called the [[surface normal|normal]].  The ray can be formed by any wave: [[light wave|optical]], [[sound wave|acoustic]], [[microwave]], [[X-ray]], etc.}}
+
+{{term|[[angle of reflection]]}}
+{{defn|defn=Reflection is the change in direction of a [[wavefront]] at an [[wikt:interface|interface]] between two different [[medium (optics)|media]] so that the wavefront returns into the medium from which it originated. Common examples include the reflection of [[light]], [[sound]] and [[water wave]]s. The ''law of reflection'' says that for [[specular reflection]] the angle at which the wave is incident on the surface equals the angle at which it is reflected. [[Mirror]]s exhibit specular reflection.}}
+
+{{term|[[ångström]] (Å)}}
+{{defn|A unit of length primarily used to measure {{gli|subatomic particle|subatomic particles}} that is equal to 10<sup>−10</sup> meters (one ten-billionth of a meter) or 0.1 nanometers.}}
+{{term|[[angular acceleration]]}}
+{{defn|defn=Is the time rate of change of [[angular velocity]]. In three dimensions, it is a [[pseudovector]]. In [[SI]] units, it is measured in [[radians]] per [[second]] squared (rad/s{{sup|2}}), and is usually denoted by the Greek letter [[alpha (letter)|alpha]] ([[α]]).<ref>{{cite web |url=http://theory.uwinnipeg.ca/physics/circ/node3.html |title=Angular Velocity and Acceleration |publisher=Theory.uwinnipeg.ca |accessdate=2015-04-13 |archive-url=https://web.archive.org/web/20120222015414/http://theory.uwinnipeg.ca/physics/circ/node3.html |archive-date=2012-02-22 |url-status=dead }}</ref>. Just like angular velocity, there are two types of angular acceleration: spin angular acceleration and orbital angular acceleration, representing the time rate of change of spin angular velocity and orbital angular velocity respectively. Unlike linear acceleration, angular acceleration need not be caused by a net external [[torque]]. For example, a figure skater can speed up her rotation (thereby obtaining an angular acceleration) simply by contracting her arms inwards, which involves no ''external'' torque.}}
+{{term|[[angular displacement]]}}
+{{defn|defn=Angular displacement of a body is the [[angle]] in [[radian]]s ([[degree (angle)|degree]]s, [[turn (geometry)|revolutions]]) through which a point revolves around a centre or line has been rotated in a specified sense about a specified [[rotation|axis]].}} 
+{{term|[[angular frequency]]}}
+{{defn|defn=Angular frequency ''ω'' (also referred to by the terms angular speed, radial frequency, circular frequency, orbital frequency, radian frequency, and pulsatance) is a scalar measure of rotation rate. It refers to the [[angular displacement]] per unit time (e.g., in rotation) or the rate of change of the phase of a sinusoidal waveform (e.g., in oscillations and waves), or as the rate of change of the argument of the sine function.
+
+Angular frequency (or angular speed) is the magnitude of the vector quantity ''[[angular velocity]]''. The term '''angular frequency vector''' <math>\vec{\omega}</math> is sometimes used as a synonym for the vector quantity angular velocity.<ref name="UP1">{{cite book
+  | last = Cummings
+  | first = Karen
+  | authorlink = 
+  |author2=Halliday, David
+  | title = Understanding physics
+  | publisher = John Wiley & Sons Inc., authorized reprint to Wiley - India
+  | date = 2007
+  | location = New Delhi
+  | pages = 449, 484, 485, 487
+  | url = https://books.google.com/?id=rAfF_X9cE0EC&printsec=copyright
+  | doi = 
+  | id = 
+  | isbn =978-81-265-0882-2 }}(UP1)</ref>
+
+One [[Turn (geometry)|revolution]] is equal to 2π [[radian]]s, hence<ref name=UP1/><ref>{{cite book
+  | last = Holzner
+  | first = Steven
+  | authorlink = 
+  | title = Physics for Dummies
+  | publisher = Wiley Publishing Inc
+  | year = 2006
+  | location = Hoboken, New Jersey
+  | pages = [https://archive.org/details/physicsfordummie00holz/page/201 201]
+  | url = https://archive.org/details/physicsfordummie00holz
+  | url-access = registration
+  | quote = angular frequency.
+  | doi = 
+  | id = 
+  | isbn =978-0-7645-5433-9 }}</ref>
+
+:<math>\omega = {{2 \pi} \over T} = {2 \pi f} , </math>
+where:
+:''ω'' is the angular frequency or angular speed (measured in [[radians per second]]),
+:''T'' is the [[Frequency|period]] (measured in [[second]]s),
+:''f'' is the [[ordinary frequency]] (measured in [[hertz]]) (sometimes symbolised with [[nu (letter)|''ν'']]).}}
+{{term|[[angular momentum]]}}
+{{defn|defn=(Rarely, moment of momentum or rotational momentum) is the rotational equivalent of [[linear momentum]]. It is an important quantity in physics because it is a [[Conservation law|conserved quantity]]—the total angular momentum of a closed system remains constant.}}
+{{term|[[angular velocity]]}}
+{{defn|defn=Refers to how fast an object rotates or revolves relative to another point, i.e. how fast the angular position or orientation of an object changes with time. There are two types of angular velocity: orbital angular velocity and spin angular velocity. Spin angular velocity refers to how fast a rigid body rotates with respect to its centre of rotation. Orbital angular velocity refers to how fast a rigid body's centre of rotation revolves about a fixed origin, i.e. the time rate of change of its angular position relative to the origin. In general, angular velocity is measured in angle per unit time, e.g. [[radians per second]]. The  [[SI]] unit of angular velocity is expressed as radians/sec with the radian having a dimensionless value of unity, thus the SI units of angular velocity are listed as ''1/sec''. Angular velocity is usually represented by the symbol [[omega]] (ω, sometimes Ω). By convention, positive angular velocity indicates counter-clockwise rotation, while negative is clockwise.}}
+{{term|[[anion]]}}
+{{defn|A negatively charged {{gli|ion}}. Contrast ''{{gli|cation}}''.}}
+{{term|[[annihilation]]}}
+{{defn|defn=In [[particle physics]], annihilation is the process that occurs when a [[subatomic particle]] collides with its respective [[antiparticle]] to produce other particles, such as an [[electron]] colliding with a [[positron]] to produce two [[photon]]s.<ref>
+{{cite web |title=Antimatter |url=http://www.lbl.gov/abc/Antimatter.html |publisher=[[Lawrence Berkeley National Laboratory]] |accessdate=3 September 2008
+ |archiveurl=https://web.archive.org/web/20080823180515/http://www.lbl.gov/abc/Antimatter.html
+ |archivedate=23 August 2008  |url-status=live}}</ref> The total [[energy]] and [[momentum]] of the initial pair are conserved in the process and distributed among a set of other particles in the final state. Antiparticles have exactly opposite additive [[quantum number]]s from particles, so the sums of all quantum numbers of such an original pair are zero. Hence, any set of particles may be produced whose total quantum numbers are also zero as long as [[conservation of energy]] and [[conservation of momentum]] are obeyed.<ref name=Particleadventure.org>{{cite web |title=The Standard Model – Particle decays and annihilations |url=http://particleadventure.org/eedd.html |work=The Particle Adventure: The Fundamentals of Matter and Force |publisher=[[Lawrence Berkeley National Laboratory]] |accessdate=17 October 2011}}</ref>}}
+{{term|[[anode]]}}
+{{defn|The electrode through which a conventional {{gli|current|electric current}} flows into a polarized electrical device; the direction of current flow is, by convention, opposite to the direction of {{gli|electron}} flow, and so electrons flow ''out of'' the anode. In a [[galvanic cell]], the anode is the negative terminal or pole which emits electrons toward the external part of an {{gli|electrical circuit}}. However, in an {{gli|electrolytic cell}}, the anode is the wire or plate having excess ''positive'' charge, so named because negatively charged {{gli|anion|anions}} tend to move towards it. Contrast ''{{gli|cathode}}''.}}
+{{term|[[anti-gravity]]}}
+{{defn|defn=(Also known as ''non-gravitational field'') is a theory of creating a place or object that is free from the force of [[gravity]]. It does not refer to the lack of weight under gravity experienced in [[free fall]] or [[orbit]], or to balancing the force of gravity with some other force, such as electromagnetism or aerodynamic lift.}}
+{{term|[[antimatter]]}}
+{{defn|}}
+{{term|[[antineutron]]}}
+{{defn|defn=Is the [[antiparticle]] of the [[neutron]] with symbol {{SubatomicParticle|Antineutron}}. It differs from the neutron only in that some of its properties have [[additive inverse|equal magnitude but opposite sign]]. It has the same [[mass]] as the neutron, and no net [[electric charge]], but has opposite [[baryon number]] (+1 for neutron, −1 for the antineutron). This is because the antineutron is composed of [[antiquark]]s, while neutrons are composed of [[quark]]s. The antineutron consists of one [[up antiquark]] and two [[down antiquark]]s.}}
+{{term|[[antiparticle]]}}
+{{defn|defn=In [[particle physics]], every type of [[particle]] has an associated antiparticle with the same [[mass]] but with opposite [[charge (physics)|physical charges]] (such as [[electric charge]]). For example, the antiparticle of the [[electron]] is the [[antielectron]] (which is often referred to as ''positron''). While the electron has a negative electric charge, the positron has a positive electric charge, and is produced naturally in certain types of [[radioactive decay]].  The opposite is also true: the antiparticle of the positron is the electron.  Some particles, such as the [[photon]], are their own antiparticle. Otherwise, for each pair of antiparticle partners, one is designated as normal matter (the kind all matter usually interacted with is made of), and the other (usually given the prefix "anti-") as ''[[antimatter]]''.}}
+{{term|[[antiproton]]}}
+{{defn|}}
+{{term|[[antiquark]]}}
+{{defn|defn=For every quark flavor there is a corresponding type of [[antiparticle]], known as an antiquark, that differs from the quark only in that some of its properties (such as the electric charge) have [[additive inverse|equal magnitude but opposite sign]].}}
+{{term|[[arc length]]}}
+{{defn|}}
+{{term|[[Archimedes' principle]]}}
+{{defn|defn=States that the upward [[buoyancy|buoyant force]] that is exerted on a body immersed in a [[fluid]], whether fully or partially submerged, is equal to the [[weight]] of the fluid that the body [[displacement (fluid)|displaces]] and acts in the upward direction at the center of mass of the displaced fluid.<ref name="khanacademy.org">{{cite web|url=https://www.khanacademy.org/science/physics/fluids/buoyant-force-and-archimedes-principle/a/buoyant-force-and-archimedes-principle-article|title=What is buoyant force?|website=Khan Academy}}</ref>}} 
+{{term|[[area moment of inertia]]}}
+{{defn|}}
+{{term|[[astronomical unit]]}}
+{{defn|defn=(Symbol: '''au''',<ref name="IAUresB2">{{citation |title=RESOLUTION B2 on the re-definition of the astronomical unit of length |publisher=International Astronomical Union |place=Beijing, China |date=31 August 2012 | url = http://www.iau.org/static/resolutions/IAU2012_English.pdf |quote=The XXVIII General Assembly of International Astronomical Union … recommends … 5. that the unique symbol "au" be used for the astronomical unit.}}</ref><ref name="mnras_style">{{cite web | url=http://www.oxfordjournals.org/our_journals/mnras/for_authors/#6.4%20Miscellaneous%20journal%20style | title=Monthly Notices of the Royal Astronomical Society: Instructions for Authors | website=Oxford Journals | accessdate=20 March 2015 | quote=The units of length/distance are Å, nm, µm, mm, cm, m, km, au, light-year, pc.}}</ref><ref> "Manuscript Preparation: AJ & ApJ Author Instructions". American Astronomical Society. Retrieved 29 October 2016. Use standard abbreviations for ... natural units (e.g., au, pc, cm).</ref> '''ua''',<ref>[[ISO 80000-3]], Quantities and units – Space and time</ref> or '''AU''') is a [[unit of length]], roughly the distance from [[Earth]] to the [[Sun]]. However, that distance varies as Earth orbits the Sun, from a maximum ([[aphelion]]) to a minimum ([[perihelion]]) and back again once a year. Originally conceived as the average of Earth's aphelion and perihelion, since 2012 it has been defined as exactly 149,597,870,700 metres, or about {{convert|150|e6km|e6mi|abbr=off}}.<ref>{{citation | title=RESOLUTION B2 on the re-definition of the astronomical unit of length |publisher=International Astronomical Union |place=Beijing |date=31 August 2012 | url = http://www.iau.org/static/resolutions/IAU2012_English.pdf |quote=The XXVIII General Assembly of International Astronomical Union recommends [adopted] that the astronomical unit be re-defined to be a conventional unit of length equal to exactly 149,597,870,700 metres, in agreement with the value adopted in IAU 2009 Resolution B2}}</ref> The astronomical unit is used primarily for measuring distances within the [[Solar System]] or around other stars. It is also a fundamental component in the definition of another unit of astronomical length, the [[parsec]].}} 
+{{term|[[astrophysics]]}}
+{{defn|The branch of [[astronomy]] that deals with the physics of the [[Universe]], especially with the nature of celestial bodies rather than their positions or motions in space.}}
+{{term|[[attenuation coefficient]]}}
+{{defn|}}
+{{term|[[atom]]}}
+{{defn|A basic unit of {{gli|matter}} that consists of a dense central nucleus surrounded by a cloud of negatively charged {{gli|electron|electrons}}. The atomic nucleus contains a mix of positively charged {{gli|proton|protons}} and electrically neutral {{gli|neutron|neutrons}}.}}
+{{term|[[atomic line filter]]}}
+{{defn|}}
+{{term|[[atomic mass]]}}
+{{defn|}}
+{{term|[[atomic mass unit]]}}
+{{defn|One-twelfth the mass of an atom of the {{gli|isotope}} {{chem|12|6|[[carbon|C]]}}.}}
+{{term|[[atomic number]] (Z)}}
+{{defn|The number of {{gli|proton|protons}} found in the nucleus of an {{gli|atom}}. It is most often used to classify elements within the [[periodic table]].}}
+{{term|[[atomic orbital]]}}
+{{defn|}}
+{{term|[[atomic packing factor]]}}
+{{defn|}}
+{{term|[[atomic physics]]}}
+{{defn|A branch of physics that studies {{gli|atom|atoms}} as isolated systems of {{gli|electron|electrons}} and an {{gli|nucleus|atomic nucleus}}. Compare ''{{gli|nuclear physics}}''.}}
+{{term|[[atomic structure]]}}
+{{defn|}}
+{{term|[[atomic weight]] (A)}}
+{{defn|The sum total of {{gli|proton|protons}} (or {{gli|electron|electrons}}) and {{gli|neutron|neutrons}} within an {{gli|atom}}.}}
+{{term|[[audio frequency]]}}
+{{defn|}}
+{{term|[[Speed#Average speed|average speed]]}}
+{{defn|}}
+{{term|[[Avogadro constant]]}}
+{{defn|In chemistry and physics, the Avogadro constant (named after the scientist Amedeo Avogadro) is the ratio of the number of constituent particles in a substance, usually atoms or molecules, to the amount of substance, of which the SI unit is the mole.  It is defined to be exactly {{val|6.02214076|e=23|u=mol-1}}.}}
+{{term|[[Avogadro number]]}}
+{{defn|The number of molecules in 1&nbsp;mol of substance, equaling exactly {{val|6.02214076|e=23}}.}}
+{{term|[[Avogadro's law]]}}
+{{defn|A physical law which states that volumes of gases which are equal to each other at the same temperature and pressure will contain equal numbers of molecules.}}
+{{term|[[axion]]}}
+{{defn|A hypothetical {{gli|subatomic particle}} postulated to account for the rarity of processes that break charge-parity symmetry. It is very light, electrically neutral, and pseudoscalar.}}
+{{term|[[azimuthal quantum number]]}}
+{{defn|}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==B==
+
+{{glossary}}
+{{term|[[Babinet's principle]]}}
+{{defn|A theorem concerning diffraction which states that the diffraction pattern from an opaque body is identical to that from a hole of the same size and shape except for the overall forward beam intensity.}}
+{{term|[[background radiation]]}}
+{{defn|The ubiquitous ionising radiation to which the general population is exposed.}}
+{{term|[[ballistics]]}}
+{{defn|}}
+{{term|[[Balmer series]]}}
+{{defn|defn=Or Balmer lines, in [[atomic physics]], is one of a set of [[hydrogen spectral series|six named series]] describing the [[spectral line]] emissions of the [[hydrogen atom]]. The Balmer series is calculated using the Balmer formula, an [[empirical]] equation discovered by [[Johann Balmer]] in 1885.}} 
+{{term|[[barometer]]}}
+{{defn|A scientific instrument used in [[meteorology]] to measure [[atmospheric pressure]]. Pressure tendency can forecast short-term changes in the weather.}}
+{{term|[[baryon]]}}
+{{defn| A [[subatomic particle]] such as a [[proton]] or a [[neutron]], made of (usually) three [[quarks]]. Nearly all [[matter]] you are likely to encounter is baryonic matter.}}
+{{term|[[Battery (electricity)|battery]]}}
+{{defn|A combination of two or more electrical cells which produces {{gli|electricity}}.}}
+{{term|[[Beam (structure)|beam]]}}
+{{defn|A structural element that is capable of withstanding load primarily by resisting bending.Beams are traditionally descriptions of building or civil engineering structural elements, but smaller structures such as truck or automobile frames, machine frames, and other mechanical or structural systems contain beam structures that are designed and analyzed in a similar fashion.}}
+{{term|[[bending]]}}
+{{ghat|Also known as '''flexure'''.}} 
+{{defn|The behavior of a slender structural element subjected to an external load applied perpendicularly to a longitudinal axis of the element.}}
+{{term|[[bending moment]]}}
+{{defn|defn=Is the reaction induced in a [[structural element]] when an external [[force]] or [[Moment of force|moment]] is applied to the element causing the element to [[bending|bend]].<ref> Gere, J.M.; Timoshenko, S.P. (1996), Mechanics of Materials:Forth edition, Nelson Engineering, ISBN 0534934293</ref><ref>  Beer, F.; Johnston, E.R. (1984), Vector mechanics for engineers: statics, McGraw Hill, pp. 62–76</ref> The most common or simplest structural element subjected to bending moments is the [[Beam (structure)|beam]].}}
+{{term|[[Bernoulli's equation|Bernoulli equation]]}}
+{{defn|}}
+{{term|[[Bernoulli's principle]]}}
+{{defn|defn=In [[fluid dynamics]], Bernoulli's principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in [[pressure]] or a decrease in the [[fluid]]'s [[potential energy]].<ref name="Clancy1975">{{cite book |last=Clancy |first=L.J. |authorlink=Laurence Joseph Clancy |title=Aerodynamics |url=https://books.google.com/books?id=zaNTAAAAMAAJ |year=1975 |publisher=Wiley |isbn=978-0-470-15837-1}}</ref>{{rp|at=Ch.3}}<ref name="Batchelor2000">{{cite book |last=Batchelor |first=G.K. |authorlink=George Batchelor |title=An Introduction to Fluid Dynamics |url=https://books.google.com/books?id=Rla7OihRvUgC&pg=PA156 |year=2000 |publisher=[[Cambridge University Press]] |location=Cambridge |isbn=978-0-521-66396-0}}</ref>{{rp|at= § 3.5|pp=156–164}}}}
+{{term|[[Bessel function]]}}
+{{defn|defn=Bessel functions, first defined by the mathematician [[Daniel Bernoulli]] and then generalized by [[Friedrich Bessel]], are canonical solutions {{math|''y''(''x'')}} of Bessel's [[differential equation]]
+
+: <math>x^2 \frac{d^2 y}{dx^2} + x \frac{dy}{dx} + \left(x^2 - \alpha^2 \right)y = 0</math>
+
+for an arbitrary [[complex number]] {{mvar|α}}, the ''order'' of the Bessel function. Although {{mvar|α}} and {{math|−''α''}} produce the same differential equation, it is conventional to define different Bessel functions for these two values in such a way that the Bessel functions are mostly smooth functions of {{mvar|α}}.
+
+The most important cases are when {{mvar|α}} is an [[integer]] or [[half-integer]]. Bessel functions for integer {{mvar|α}} are also known as cylinder functions or the '''[[cylindrical harmonics]]''' because they appear in the solution to [[Laplace's equation]] in [[cylindrical coordinates]]. '''[[Spherical Bessel functions]]''' with half-integer {{mvar|α}} are obtained when the [[Helmholtz equation]] is solved in [[spherical coordinates]].}}
+{{term|[[beta decay]]}}
+{{defn|defn=In [[nuclear physics]], beta decay (''β''-decay) is a type of [[radioactive decay]] in which a [[beta particle]] (fast energetic [[electron]] or [[positron]]) is emitted from an [[atomic nucleus]], transforming the original [[nuclide]] to its [[isobar (nuclide)|isobar]].}}
+{{term|[[beta particle]]}}
+{{defn|A high-energy, high-speed {{gli|electron}} or {{gli|positron}} emitted by certain types of radioactive atomic nuclei.}}
+{{term|[[Big Bang]]}}
+{{defn|The prevailing cosmological model that describes the early development of the [[Universe]].}}
+{{term|[[binding energy]]}}
+{{defn|The mechanical energy required to disassemble a whole into separate parts. A bound system typically has a lower potential energy than the sum of its constituent parts.}}
+{{term|[[binomial random variable]]}}
+{{defn|}}
+{{term|[[biocatalysis]]}}
+{{defn|}}
+{{term|[[biophysics]]}}
+{{defn|An interdisciplinary science using methods of and theories from physics to study [[biology|biological]] systems.}}
+{{term|[[black body]]}}
+{{defn|A hypothetical idealized physical body that completely absorbs all incident {{gli|electromagnetic radiation}}, regardless of {{gli|frequency}} or {{gli|angle of incidence}}. Perfect black bodies are imagined as substitutes for actual physical bodies in many theoretical discussions of {{gli|thermodynamics}}, and the construction of nearly perfect black bodies in the real world remains a topic of interest for materials engineers. Contrast ''{{gli|white body}}''.}}
+{{term|[[black-body radiation]]}}
+{{defn|The type of electromagnetic radiation within or surrounding a body in thermodynamic equilibrium with its environment, or emitted by a {{gli|black body}} (an opaque and non-reflective body) held at constant, uniform temperature. The radiation has a specific spectrum and intensity that depends only on the temperature of the body.}}
+{{term|[[block and tackle]]}}
+{{defn|A system of two or more {{gli|pulley|pulleys}} with a rope or cable threaded between them, usually used to lift or pull heavy loads.}}
+{{term|[[Bohr model]]}}
+{{defn|}}
+{{term|[[boiling point]]}}
+{{defn|The {{gli|temperature}} at which a {{gli|liquid}} undergoes a phase change into a {{gli|gas}}; the vapour pressure of liquid and gas are equal at this temperature.}}
+{{term|[[boiling point elevation]]}}
+{{defn|defn=Describes the phenomenon that the [[boiling point]] of a [[liquid]] (a [[solvent]]) will be higher when another compound is added, meaning that a [[solution]] has a higher boiling point than a pure solvent. This happens whenever a non-volatile solute, such as a salt, is added to a pure solvent, such as water. The boiling point can be measured accurately using an [[ebullioscope]].}}
+{{term|[[Boltzmann constant]]}}
+{{defn|A physical constant relating the average {{gli|kinetic energy}} of the particles in a {{gli|gas}} with the {{gli|temperature}} of the gas. It is the gas constant R divided by the Avogadro constant NA.}}
+{{term|[[Bose–Einstein condensate]] (BEC)}}
+{{defn|}}
+{{term|[[boson]]}}
+{{defn|A type of {{gli|particle}} that behaves according to [[Bose–Einstein statistics]] and possesses integer {{gli|spin}}. Bosons include {{gli|elementary particle|elementary particles}} such as {{gli|photon|photons}}, {{gli|gluon|gluons}}, {{gli|W and Z bosons}}, {{gli|Higgs boson|Higgs bosons}}, and the hypothetical {{gli|graviton}}, as well as certain {{gli|composite particle|composite particles}} such as {{gli|meson|mesons}} and {{gli|stable nuclide|stable nuclides}} of even {{gli|mass number}}. Bosons constitute one of two main classes of particles, the other being {{gli|fermion|fermions}}. Unlike fermions, there is no limit to the number of bosons that can occupy the same {{gli|quantum state}}.}}
+{{term|[[Boyle's law]]}}
+{{defn|The volume of a given mass of a gas at constant temperature is inversely proportional to the pressure.}}
+{{term|[[Bra–ket notation]]}}
+{{defn|}}
+{{term|[[Bragg's law]]}}
+{{defn|}}
+{{term|[[bremsstrahlung]]}}
+{{defn|Radiation emitted by the {{gli|acceleration}} of unbound charged particles.}}
+{{term|[[Brewster's angle]]}}
+{{defn|}}
+{{term|[[british thermal unit]] (btu)}}
+{{defn|An Imperial unit of {{gli|energy}} defined as the amount of energy needed to heat one pound of water by one degree Fahrenheit; 1 btu is equal to about 1055 {{gli|joule|joules}}. In scientific contexts the btu has largely been replaced by the SI unit of energy, the joule.}}
+{{term|[[brittleness]]}}
+{{defn|The tendency of a material to break without significant {{gli|plasticity|plastic}} {{gli|deformation}} when subjected to {{gli|stress}}. Brittle materials absorb relatively little energy prior to fracture, even those of high strength. Breaking is often accompanied by a snapping sound.}}
+{{term|[[Brownian motion]]}}
+{{ghat|Also called '''pedesis'''.}}
+{{defn|The presumably random movement of particles suspended in a fluid (liquid or gas) resulting from their bombardment by the fast-moving atoms or molecules in the gas or liquid.}}
+{{term|[[Bulk modulus]]}}
+{{defn|A measure of a substance's resistance to uniform compression defined as the ratio of the infinitesimal pressure increase to the resulting relative decrease of the volume. Its base unit is the {{gli|pascal}}.}}
+{{term|[[buoyancy]]}}
+{{defn|An upward {{gli|force}} exerted by a fluid that opposes the weight of an immersed object.}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==C==
+
+{{glossary}}
+{{term|[[calculus]]}}
+{{defn|A branch of {{gli|mathematics}} that studies change and has two major sub-fields: [[differential calculus]] (concerning rates of change and slopes of curves), and [[integral calculus]] (concerning accumulation of quantities and the areas under and between curves). These two branches are related to each other by the fundamental theorem of calculus.}}
+{{term|[[capacitance]]}}
+{{defn|defn=Is the ratio of the change in an [[electric charge]] in a system to the corresponding change in its [[electric potential]]. There are two closely related notions of capacitance: ''self capacitance'' and ''mutual capacitance''. Any object that can be electrically charged exhibits ''self capacitance''. A material with a large self capacitance holds more electric charge at a given [[voltage]] than one with low capacitance. The notion of ''mutual capacitance'' is particularly important for understanding the operations of the [[capacitor]], one of the three elementary [[nonlinear circuit|linear]] electronic components (along with [[resistors]] and [[inductors]]).}}
+{{term|[[capacitive reactance]]}}
+{{defn|defn=A capacitor consists of two [[Electric conduction|conductor]]s separated by an [[Electrical insulation|insulator]], also known as a [[dielectric]].
+''Capacitive reactance'' is an opposition to the change of voltage across an element. Capacitive reactance <math>\scriptstyle{X_C}</math> is [[inversely proportional]] to the signal [[frequency]] <math>\scriptstyle{f}</math> (or [[angular frequency]] ω) and the [[capacitance]] <math>\scriptstyle{C}</math>.<ref name="Irwin">Irwin, D. (2002). ''Basic Engineering Circuit Analysis'', page 274. New York: John Wiley & Sons, Inc.</ref>}}
+{{term|[[Carnot cycle]]}}
+{{defn|defn=Is a theoretical ideal [[thermodynamic cycle]] proposed by French physicist [[Nicolas Léonard Sadi Carnot|Sadi Carnot]] in 1824 and expanded upon by others in the 1830s and 1840s. It provides an upper limit on the efficiency that any classical thermodynamic engine can achieve during the conversion of [[heat]] into [[work (physics)|work]], or conversely, the efficiency of a [[refrigeration]] system in creating a temperature difference by the application of work to the system. It is not an actual thermodynamic cycle but is a theoretical construct.}}
+{{term|[[Cartesian coordinate system]]}}
+{{defn|defn=Is a [[coordinate system]] that specifies each [[point (geometry)|point]] uniquely in a [[plane (geometry)|plane]] by a set of [[number|numerical]] coordinates, which are the [[positive and negative numbers|signed]] distances to the point from two fixed [[perpendicular]] oriented lines, measured in the same [[unit length|unit of length]]. Each reference line is called a ''coordinate axis'' or just ''axis'' (plural ''axes'') of the system, and the point where they meet is its ''[[Origin (mathematics)|origin]]'', at ordered pair {{nowrap|(0, 0)}}. The coordinates can also be defined as the positions of the [[orthogonal projection|perpendicular projections]] of the point onto the two axes, expressed as signed distances from the origin.}}
+{{term|[[cathode]]}}
+{{defn|The electrode through which a conventional {{gli|current|electric current}} flows out of a polarized electrical device; the direction of current flow is, by convention, opposite to the direction of {{gli|electron}} flow, and so electrons flow ''into'' the cathode. In a [[galvanic cell]], the cathode is the positive terminal or pole which accepts electrons flowing from the external part of an {{gli|electrical circuit}}. However, in an {{gli|electrolytic cell}}, the cathode is the wire or plate having excess ''negative'' charge, so named because positively charged {{gli|cation|cations}} tend to move towards it. Contrast ''{{gli|anode}}''.}}
+{{term|[[cathode ray]]}}
+{{defn|}}
+{{term|[[cation]]}}
+{{defn|A positively charged {{gli|ion}}. Contrast ''{{gli|anion}}''.}}
+{{term|[[celestial mechanics]]}}
+{{defn|}}
+{{term|[[Celsius scale]]}}
+{{defn|A scale and unit of measurement of {{gli|temperature}}, also known as Centigrade.}}
+{{term|[[center of curvature]]}}
+{{defn|}}
+{{term|[[center of gravity]]}}
+{{defn|The point in a body around which the resultant torque due to gravity forces vanish. Near the surface of the earth, where the gravity acts downward as a parallel force field, the center of gravity and the center of mass are the same.}}
+{{term|[[center of mass]]}}
+{{defn|A distribution of mass in space is the unique point where the weighted relative position of the distributed mass sums to zero.}}
+{{term|[[Center of pressure (fluid mechanics)|center of pressure]]}}
+{{defn|}}
+{{term|[[Centigrade (temperature)|centigrade]]}}
+{{defn|A scale and unit of measurement of {{gli|temperature}}, also known as Celsius.}}
+{{term|[[central force motion]]}}
+{{defn|}}
+{{term|[[central limit theorem]]}}
+{{defn|}}
+{{term|[[centrifugal force]]}}
+{{defn|The apparent outward force that draws a rotating body away from the centre of rotation. It is caused by the inertia of the body as the body's path is continually redirected.}}
+{{term|[[centripetal force]]}}
+{{defn|A force which keeps a body moving with a uniform speed along a circular path and is directed along the radius towards the centre.}}
+{{term|[[cGh physics]]}}
+{{defn|}}
+{{term|[[chain reaction]]}}
+{{defn|A sequence of reactions in which a reactive product or byproduct causes additional similar reactions to take place.}}
+{{term|[[change of base rule]]}}
+{{defn|}}
+{{term|[[charge carrier]]}}
+{{defn|}}
+{{term|[[chemical physics]]}}
+{{defn|A branch of [[chemistry]] and physics that studies chemical processes from the point of view of physics by investigating physicochemical phenomena using techniques from atomic and molecular physics and condensed matter physics.}}
+{{term|[[chromatic aberration]]}}
+{{defn|}}
+{{term|[[circular motion]]}}
+{{defn|}}
+{{term|[[classical mechanics]]}}
+{{ghat|Also called '''Newtonian mechanics'''.}}
+{{defn|A sub-field of {{gli|mechanics}} concerned with the set of [[physical laws]] describing the motion of bodies under the collective actions of a system of {{gli|force|forces}}.}}
+{{term|[[Friction#Coefficient of friction|coefficient of friction]]}}
+{{defn|}}
+{{term|[[Coherence (physics)|coherence]]}}
+{{defn|}}
+{{term|[[cohesion (chemistry)|cohesion]]}}
+{{defn|The tendency of similar particles or surfaces to cling to one another. Contrast ''{{gli|adhesion}}''.}}
+{{term|[[cold fusion]]}}
+{{defn|}}
+{{term|[[complex harmonic motion]]}}
+{{defn|}}
+{{term|[[composite particle]]}}
+{{defn|}}
+{{term|[[Compton scattering]]}}
+{{defn|}}
+{{term|[[concave lens]]}}
+{{defn|}}
+{{term|[[condensation point]]}}
+{{defn|}}
+{{term|[[condensed matter physics]]}}
+{{defn|A branch of physics that studies the physical properties of condensed phases of matter.}}
+{{term|[[Momentum#Conservation|conservation of momentum]]}}
+{{defn|}}
+{{term|[[conservation law]]}}
+{{defn|}}
+{{term|[[constructive interference]]}}
+{{defn|}}
+{{term|[[continuous spectrum]]}}
+{{defn|}}
+{{term|[[continuum mechanics]]}}
+{{defn|}}
+{{term|[[convection]]}}
+{{defn|The transfer of heat by the actual transfer of matter.}}
+{{term|[[convex lens]]}}
+{{defn|}}
+{{term|[[coulomb]] (C)}}
+{{defn|The {{gli|SI}} derived unit of {{gli|electric charge}}, defined as the charge transported by a constant {{gli|electric current|current}} of one {{gli|ampere}} in one second.}}
+{{term|[[Coulomb's law]]}}
+{{defn|}}
+{{term|[[Lens (optics)#Types of simple lenses|converging lens]]}}
+{{defn|}}
+{{term|[[cosmic background radiation]]}}
+{{defn|}}
+{{term|[[covalent bond]]}}
+{{defn|}}
+{{term|[[creep (deformation)|creep]]}}
+{{defn|}}
+{{term|[[Crest (physics)|crest]]}}
+{{defn|The point on a {{gli|wave}} with the maximum value or upward displacement within a cycle.}}
+{{term|[[crest factor]]}}
+{{defn|}}
+{{term|[[Critical angle (optics)|critical angle]]}}
+{{defn|}}
+{{term|[[critical mass]]}}
+{{defn|The smallest amount of fissile material needed for a sustained nuclear {{gli|chain reaction}}.}}
+{{term|[[Curie temperature]]}}
+{{defn|}}
+{{term|[[current density]]}}
+{{defn|}}
+{{term|current length}}
+{{defn|}}
+{{term|[[curvilinear motion]]}}
+{{defn|}}
+{{term|[[cyclotron]]}}
+{{defn|A type of {{gli|particle accelerator}} in which [[charged particles]] accelerate outwards from the center along a spiral path.}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==D==
+
+{{glossary}}
+{{term|[[Dalton's law]]}}
+{{defn|}}
+{{term|[[damped vibration]]}}
+{{defn|}}
+{{term|[[damping]]}}
+{{defn|}}
+{{term|[[Darcy–Weisbach equation]]}}
+{{defn|}}
+{{term|[[dark energy]]}}
+{{defn|}}
+{{term|[[dark matter]]}}
+{{defn|}}
+{{term|[[DC motor]]}}
+{{defn|A mechanically commutated electric motor powered by {{gli|direct current}}.}}
+{{term|[[decibel]]}}
+{{defn|}}
+{{term|[[definite integral]]}}
+{{defn|}}
+{{term|[[Deflection (engineering)|deflection]]}}
+{{defn|The degree to which a structural element is displaced under a load. It may refer to an angle or a distance.}}
+{{term|[[Deformation (mechanics)|deformation]]}}
+{{defn|no=1|(mechanics)}}
+{{defn|no=2|(engineering)}}
+{{term|[[density]]}}
+{{ghat|Also called '''mass density'''.}}
+{{defn|A physical property of a substance defined as its {{gli|mass}} per unit volume.}}
+{{term|[[derivative]]}}
+{{defn|}}
+{{term|[[desert (particle physics)|desert]]}}
+{{defn|}}
+{{term|[[destructive interference]]}}
+{{defn|}}
+{{term|[[diamagnetism]]}}
+{{defn|}}
+{{term|[[dielectric]]}}
+{{defn|}}
+{{term|[[diffraction]]}}
+{{defn|}}
+{{term|[[direct current]] (DC)}}
+{{defn|}}
+{{term|[[Dispersion (optics)|dispersion]]}}
+{{defn|}}
+{{term|[[displacement (fluid)]]}}
+{{defn|Occurs when an object is immersed in a fluid, pushing it out of the way and taking its place. The volume of the fluid displaced can then be measured, and from this the volume of the immersed object can be deduced (the volume of the immersed object will be exactly equal to the volume of the displaced fluid).}}
+{{term|[[displacement (vector)]]}}
+{{defn|The shortest distance from the initial to the final position of a point. Thus, it is the length of an imaginary straight path, typically distinct from the path actually travelled by.}}
+{{term|[[distance]]}}
+{{defn|A numerical description of how far apart objects are.}}
+{{term|[[drift velocity]]}}
+{{defn|}}
+{{term|[[Doppler effect]]}}
+{{defn|The change in frequency of a wave (or other periodic event) for an observer moving relative to its source.The received frequency is higher (compared to the emitted frequency) during the approach, it is identical at the instant of passing by, and it is lower during the recession.}}
+{{term|[[Drag (physics)|drag]]}}
+{{defn|Forces which act on a solid object in the direction of the relative fluid flow velocity. Unlike other resistive forces, such as dry friction, which is nearly independent of velocity, drag forces depend on velocity.}}
+{{term|[[ductility]]}}
+{{defn|A solid material's ability to deform under tensile stress; this is often characterized by the material's ability to be stretched into a wire.}}
+{{term|[[Dynamics (mechanics)|dynamics]]}}
+{{defn|The branch of {{gli|classical mechanics}} that studies {{gli|force|forces}} and {{gli|torque|torques}} and their effects on {{gli|motion}}, as opposed to {{gli|kinematics}}, which studies motion without reference to these forces.}}
+{{term|[[dyne]]}}
+{{defn|}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==E==
+
+{{glossary}}
+{{term|[[econophysics]]}}
+{{defn|}}
+{{term|[[elastic collision]]}}
+{{defn|}}
+{{term|[[elastic energy]]}}
+{{defn|}}
+{{term|[[elastic instability]]}}
+{{defn|}}
+{{term|[[elastic modulus]]}}
+{{defn|}}
+{{term|[[Elasticity (physics)|elasticity]]}}
+{{defn|The tendency of a material to return to its original shape after it is {{gli|deformation|deformed}}.}}
+{{term|[[electric charge]]}}
+{{defn|A physical property of {{gli|matter}} that causes it to experience a {{gli|force}} when near other electrically charged matter. There are two types of electric charge: positive and negative.}}
+{{term|[[electric circuit]]}}
+{{defn|An {{gli|electrical network}} consisting of a closed loop, giving a return path for the {{gli|current}}.}}
+{{term|[[electric current]]}}
+{{defn|A flow of {{gli|electric charge}} through a conductive medium.}}
+{{term|[[electric displacement field]]}}
+{{defn|}}
+{{term|[[electric field]]}}
+{{defn|The region of space surrounding electrically charged particles and time-varying magnetic fields. The electric field depicts the force exerted on other electrically charged objects by the electrically charged particle the field is surrounding.}}
+{{term|[[electric field gradient]]}}
+{{defn|}}
+{{term|[[Electric intensity|electric field intensity]]}}
+{{defn|}}
+{{term|[[electric generator]]}}
+{{defn|}}
+{{term|[[electric motor]]}}
+{{defn|}}
+{{term|[[electric potential]]}}
+{{defn|}}
+{{term|[[electric power]]}}
+{{defn|The rate at which electric energy is transferred by an {{gli|electric circuit}}.}}
+{{term|[[electrical conductor]]}}
+{{defn|Any material which contains movable {{gli|electric charge|electric charges}} and therefore can conduct an {{gli|electric current}} under the influence of an {{gli|electric field}}.}}
+{{term|[[electrical insulator]]}}
+{{defn|Any material whose internal {{gli|electric charge|electric charges}} do not flow freely and which therefore does not conduct an {{gli|electric current}} under the influence of an {{gli|electric field}}.}}
+{{term|[[electrical potential energy]]}}
+{{defn|}}
+{{term|[[electrical and electronics engineering]]}}
+{{defn|}}
+{{term|[[electrical network]]}}
+{{defn|An interconnection of electrical elements such as resistors, inductors, capacitors, voltage sources, current sources and switches.}}
+{{term|[[electrical resistance]]}}
+{{defn|The opposition to the passage of an {{gli|electric current}} through an electrical element.}}
+{{term|[[electricity]]}}
+{{defn|The set of physical phenomena associated with the presence and flow of {{gli|electric charge}}.}}
+{{term|[[electro-optic effect]]}}
+{{defn|}}
+{{term|[[electrochemical cell]]}}
+{{defn|}}
+{{term|[[electrodynamics]]}}
+{{defn|}}
+{{term|[[electrolytic cell]]}}
+{{defn|}}
+{{term|[[electromagnet]]}}
+{{defn|A type of magnet in which the {{gli|magnetic field}} is produced by the flow of {{gli|electric current}}.}}
+{{term|[[electromagnetic field]]}}
+{{ghat|Also abbreviated '''EM field''' or '''EMF'''.}}
+{{defn|A physical field produced by moving electrically charged objects.}}
+{{term|[[electromagnetic induction]]}}
+{{defn|}}
+{{term|[[electromagnetic radiation]]}}
+{{ghat|Also abbreviated '''EM radiation''' or '''EMR'''.}} 
+{{defn|A form of energy emitted and absorbed by charged particles, which exhibits wave-like behavior as it travels through space.}}
+{{term|[[electromagnetic spectrum]]}}
+{{defn|}}
+{{term|[[electromagnetic wave equation]]}}
+{{defn|}}
+{{term|[[electromagnetism]]}}
+{{defn|}}
+{{term|[[electromechanics]]}}
+{{defn|}}
+{{term|[[electromotive force]] (<math>\mathcal{E}</math>)}}
+{{ghat|Also abbreviated '''emf'''.}}
+{{defn|The electrical intensity or "pressure" developed by a source of electrical energy such as a {{gli|battery}} or {{gli|electric generator|generator}} and measured in {{gli|volt|volts}}. Any device that converts other forms of {{gli|energy}} into electrical energy provides electromotive force as its output.}}
+{{term|[[electron]]}}
+{{defn|A {{gli|subatomic particle}} with a negative {{gli|elementary charge|elementary}} {{gli|electric charge}}.}}
+{{term|[[electron capture]]}}
+{{defn|}}
+{{term|[[Atomic orbital|electron cloud]]}}
+{{defn|}}
+{{term|[[electron pair]]}}
+{{defn|}}
+{{term|[[electron paramagnetic resonance]]}}
+{{ghat|Also called '''electron spin resonance (ESR)''' and '''electron magnetic resonance (EMR)'''.}}
+{{defn|A method for studying materials with unpaired {{gli|electron|electrons}} which makes use of the {{gli|Zeeman effect}}. It shares some basic principles with [[nuclear magnetic resonance]] (NMR).}}
+{{term|[[electronvolt]] (eV)}}
+{{defn|A unit of {{gli|energy}} equal to approximately 1.6×10<sup>−19</sup> {{gli|joule}}. By definition, it is the amount of energy gained by the charge of a single {{gli|electron}} moved across an electric potential difference of one {{gli|volt}}.}}
+{{term|[[electronegativity]]}}
+{{defn|A chemical property that describes the tendency of an atom or a functional group to attract electrons (or electron density) towards itself.}}
+{{term|[[electronics]]}}
+{{defn|A field that deals with {{gli|electric circuit|electrical circuits}} that involve active electrical components such as vacuum tubes, transistors, diodes and integrated circuits, and associated passive interconnection technologies.}}
+{{term|[[electrostatics]]}}
+{{defn|}}
+{{term|[[electrostriction]]}}
+{{defn|}}
+{{term|[[elementary charge]]}}
+{{defn|}}
+{{term|[[elementary particle]]}}
+{{defn|}}
+{{term|[[emission spectrum]]}}
+{{defn|}}
+{{term|[[emissivity]]}}
+{{defn|}}
+{{term|[[energy]]}}
+{{defn|The ability to do {{gli|work}}.}}
+{{term|[[energy level]]}}
+{{defn|}}
+{{term|[[endothermic]]}}
+{{defn|An adjective used to refer to a process or reaction in which a system absorbs {{gli|energy}} from its surroundings, usually in the form of heat but also in the form of light, electricity, or sound. Contrast ''{{gli|exothermic}}''.}}
+{{term|[[engineering physics]]}}
+{{defn|}}
+{{term|[[enthalpy]]}}
+{{defn|}}
+{{term|[[entropy]]}}
+{{defn|A quantity which describes the randomness of a substance or system.}}
+{{term|[[equilibrant force]]}}
+{{defn|}}
+{{term|[[equipartition]]}}
+{{defn|}}
+{{term|[[escape velocity]]}}
+{{defn|The {{gli|velocity}} at which the {{gli|kinetic energy}} plus the gravitational {{gli|potential energy}} of an object is zero. It is the speed needed to "escape" from a gravitational field without further propulsion.}}
+{{term|[[excited state]]}}
+{{defn|}}
+{{term|[[exothermic]]}}
+{{defn|An adjective used to refer to a process or reaction that releases {{gli|energy}} from a system, usually in the form of heat but also in the form of light, electricity, or sound. Contrast ''{{gli|endothermic}}''.}}
+{{term|[[experimental physics]]}}
+{{defn|}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==F==
+
+{{glossary}}
+{{term|[[farad]]}}
+{{defn|}}
+{{term|[[falling bodies]]}}
+{{defn|Objects that are moving towards a body with greater gravitational influence, such as a planet.}}
+{{term|[[Faraday (unit)|faraday]]}}
+{{defn|}}
+{{term|[[Faraday constant]]}}
+{{defn|}}
+{{term|[[Fermat's principle]]}}
+{{defn|}}
+{{term|[[Fermi surface]]}}
+{{defn|}}
+{{term|[[fermion]]}}
+{{defn|A type of {{gli|particle}} that behaves according to [[Fermi–Dirac statistics]], obeys the {{gli|Pauli exclusion principle}}, and possesses half-integer {{gli|spin}}. Fermions include all {{gli|quark|quarks}} and {{gli|lepton|leptons}}, as well as all {{gli|composite particle|composite particles}} made of an odd number of these (such as all {{gli|baryon|baryons}} and many {{gli|atom|atoms}} and {{gli|nucleus|nuclei}}). Fermions constitute one of two main classes of particles, the other being {{gli|boson|bosons}}.}}
+{{term|[[ferrimagnetism]]}}
+{{defn|}}
+{{term|[[ferromagnetism]]}}
+{{defn|}}
+{{term|[[field line]]}}
+{{defn|}}
+{{term|[[For Inspiration and Recognition of Science and Technology|FIRST]]}}
+{{defn|An organization founded by inventor Dean Kamen in 1989 in order to develop ways to inspire students in engineering and technology fields.}}
+{{term|[[first law of thermodynamics]]}}
+{{defn|}}
+{{term|[[Nuclear fission|fission]]}}
+{{defn|Either a nuclear reaction or a radioactive decay process in which the nucleus of an atom splits into smaller parts (lighter nuclei), often producing free neutrons and photons (in the form of gamma rays), and releasing a, relatively, very large amount of energy.}}
+{{term|[[Flavour (particle physics)|flavour]]}}
+{{defn|}}
+{{term|[[fluid]]}}
+{{defn|}}
+{{term|[[fluid mechanics]]}}
+{{defn|}}
+{{term|[[fluid physics]]}}
+{{defn|}}
+{{term|[[fluid statics]]}}
+{{defn|}}
+{{term|[[fluorescence]]}}
+{{defn|}}
+{{term|[[flux]]}}
+{{defn|}}
+{{term|[[Flux#Terminology|flux density]]}}
+{{defn|}}
+{{term|[[focal length]]}}
+{{defn|}}
+{{term|[[Focus (optics)|focus]]}}
+{{defn|}}
+{{term|[[force]] (F)}}
+{{defn|Any interaction that, when unopposed, will change the {{gli|motion}} of a physical body. A force has both magnitude and direction, making it a {{gli|vector}} quantity. The {{gli|SI}} unit used to measure force is the {{gli|newton}}.}}
+{{term|[[force carrier]]}}
+{{defn|}}
+{{term|[[frame of reference]]}}
+{{defn|}}
+{{term|[[Fraunhofer lines]]}}
+{{defn|}}
+{{term|[[free body diagram]]}}
+{{defn|}}
+{{term|[[frequency]]}}
+{{defn|}}
+{{term|[[frequency modulation]]}}
+{{defn|}}
+{{term|[[free fall]]}}
+{{defn|Any motion of a body where its own {{gli|weight}} is the only force acting upon it.}}
+{{term|[[freezing point]]}}
+{{defn|The temperature at which a substance changes state from {{gli|liquid}} to {{gli|solid}}.}}
+{{term|[[friction]]}}
+{{defn|}}
+{{term|[[Function (mathematics)|function]]}}
+{{defn|}}
+{{term|[[fundamental forces]]}}
+{{ghat|Also called '''fundamental interactions'''.}}
+{{defn|}}
+{{term|[[fundamental frequency]]}}
+{{defn|}}
+{{term|[[fundamental theorem of calculus]]}}
+{{defn|}}
+{{term|[[Nuclear fusion|fusion]]}}
+{{defn|A nuclear reaction in which two or more atomic nuclei join together, or "fuse", to form a single heavier nucleus.}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==G==
+
+{{glossary}}
+{{term|[[gamma ray]]}}
+{{defn|A form of {{gli|electromagnetic radiation}} of high frequency and therefore high energy.}}
+{{term|[[gas]]}}
+{{defn|}}
+{{term|[[general relativity]]}}
+{{defn|}}
+{{term|[[geophysics]]}}
+{{defn|}}
+{{term|[[gluon]]}}
+{{defn|}}
+{{term|[[Graham's law of diffusion]]}}
+{{defn|}}
+{{term|[[gravitation]]}}
+{{ghat|Also called '''gravity'''.}}
+{{defn|A natural phenomenon by which physical bodies attract each other with a {{gli|force}} proportional to their {{gli|mass|masses}}.}}
+{{term|[[gravitational constant]] (G)}}
+{{ghat|Also called the '''universal gravitational constant''' and '''Newton's constant'''.}}
+{{defn|A physical constant involved in the calculation of {{gli|gravitation|gravitational force}} between two bodies.}}
+{{term|[[gravitational energy]]}}
+{{defn|The {{gli|potential energy}} associated with the {{gli|gravitational field}}.}} 
+{{term|[[gravitational field]]}}
+{{defn|A model used to explain the influence that a massive body extends into the space around itself, producing a force on another massive body. Thus, a gravitational field is used to explain gravitational phenomena. It is measured in newtons per kilogram (N/kg).}}
+{{term|[[gravitational potential]]}}
+{{defn|The gravitational potential at a location is equal to the {{gli|work}} ({{gli|energy}} transferred) per unit {{gli|mass}} that is done by the force of {{gli|gravitation|gravity}} to move an object to a fixed reference location.}}
+{{term|[[gravitational wave]]}}
+{{defn|A ripple in the curvature of {{gli|spacetime}} that propagates as a {{gli|wave}} and is generated in certain gravitational interactions, travelling outward from their source.}}
+{{term|[[graviton]]}}
+{{defn|}}
+{{term|[[gravity]]}}
+{{defn|See ''{{gli|gravitation}}''.}}
+{{term|[[Ground (electricity)|ground]]}}
+{{defn|}}
+{{term|[[ground reaction force]]}}
+{{defn|}}
+{{term|[[ground state]]}}
+{{defn|}}
+{{term|[[group velocity]]}}
+{{defn|}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==H==
+
+{{glossary}}
+{{term|[[hadron]]}}
+{{defn|}}
+{{term|[[half-life]]}}
+{{defn|The time required for a quantity to fall to half its value as measured at the beginning of the time period. In physics, half-life typically refers to a property of radioactive decay, but may be refer to any quantity which follows an exponential decay.}}
+{{term|[[Hamilton's principle]]}}
+{{defn|}}
+{{term|[[Hamiltonian mechanics]]}}
+{{defn|}}
+{{term|[[harmonic mean]]}}
+{{defn|}}
+{{term|[[heat]]}}
+{{defn|A form of {{gli|energy}} transferred from one body to another by thermal interaction.}}
+{{term|[[heat transfer]]}}
+{{defn|}}
+{{term|[[Helmholtz free energy]]}}
+{{defn|}}
+{{term|[[Henderson–Hasselbalch equation]]}}
+{{defn|}}
+{{term|[[Henry's law]]}}
+{{defn|}}
+{{term|[[hertz]]}}
+{{defn|The SI unit of {{gli|frequency}} defined as the number of cycles per second of a periodic phenomenon.}}
+{{term|[[Higgs boson]]}}
+{{defn|}}
+{{term|[[homeokinetics]]}}
+{{defn|The physics of complex, self-organizing systems.}} 
+{{term|[[horsepower]]}}
+{{defn|}}
+{{term|[[Huygens–Fresnel principle]]}}
+{{defn|}}
+{{term|[[hydrostatics]]}}
+{{defn|}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==I==
+
+{{glossary}}
+{{term|[[ice point]]}}
+{{defn|A physical process that results in the phase transition of a substance from a liquid to a solid.}}
+{{term|[[Electrical impedance|impedance]]}}
+{{defn|The measure of the opposition that a circuit presents to a current when a voltage is applied.}}
+{{term|[[indefinite integral]]}}
+{{defn|}}
+{{term|[[inductance]]}}
+{{defn|}}
+{{term|[[infrasound]]}}
+{{defn|}}
+{{term|[[inertia]]}}
+{{defn|The resistance of any physical object to a change in its state of motion or rest, or the tendency of an object to resist any change in its motion.}}
+{{term|[[Electrical reactance#Inductive reactance|inductive reactance]]}}
+{{defn|}}
+{{term|[[integral]]}}
+{{defn|}}
+{{term|[[integral transform]]}}
+{{defn|}}
+{{term|[[International System of Units]]}}
+{{defn|The International System of Units (abbreviated SI) is the modern form of the metric system. It comprises a system of units of measurement devised around seven base units and the convenience of the number ten.}}
+{{term|[[invariant mass]]}}
+{{defn|}}
+{{term|[[ion]]}}
+{{defn|An {{gli|atom}} or {{gli|molecule}} in which the total number of {{gli|electron|electrons}} is not equal to the total number of {{gli|proton|protons}}, giving the atom a net positive or negative {{gli|electric charge}}.}}
+{{term|[[ionic bond]]}}
+{{defn|A type of chemical bond formed through an electrostatic attraction between two oppositely charged {{gli|ion|ions}}.}}
+{{term|[[ionization]]}}
+{{defn|The process of converting an {{gli|atom}} or {{gli|molecule}} into an {{gli|ion}} by adding or removing charged particles such as {{gli|electron|electrons}} or other ions.}}
+{{term|[[ionization chamber]]}}
+{{defn|}}
+{{term|[[ionizing radiation]]}}
+{{defn|}}
+{{term|[[isotope]]}}
+{{defn|A variant of a particular chemical element. While all isotopes of a given element share the same number of {{gli|proton|protons}}, each isotope differs from the others in its number of {{gli|neutron|neutrons}}.}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==J==
+
+{{glossary}}
+{{term|[[Josephson effect]]}}
+{{defn|}}
+{{term|[[joule]]}}
+{{defn|A derived unit of {{gli|energy}}, {{gli|work}}, or amount of heat in the International System of Units.}}
+{{glossaryend}}
+
+==K==
+
+{{glossary}}
+{{term|[[Kelvin]]}}
+{{defn|A scale and unit of measurement of {{gli|temperature}}. The Kelvin scale is an absolute {{gli|thermodynamic temperature}} scale which uses {{gli|absolute zero}} as its null point.}}
+{{term|[[kinematics]]}}
+{{defn|The branch of {{gli|classical mechanics}} that describes the {{gli|motion}} of points, bodies (objects) and systems of bodies (groups of objects) without consideration of the causes of motion. The study of kinematics is often referred to as the "geometry of motion".}}
+{{term|[[kinetic energy]]}}
+{{defn|The {{gli|energy}} that a physical body possesses due to its {{gli|motion}}, defined as the {{gli|work}} needed to {{gli|acceleration|accelerate}} a body of a given {{gli|mass}} from rest to its stated {{gli|velocity}}. The body continues to maintain this kinetic energy unless its velocity changes. Contrast ''{{gli|potential energy}}''.}}
+{{term|[[Kirchhoff's circuit laws]]}}
+{{defn|Two approximate equalities that deal with the current and voltage in electrical circuits.also called Kirchhoff's rules or simply Kirchhoff's laws (see also [[Kirchhoff's law of thermal radiation|Kirchhoff's laws]] for other meanings of that term).}}
+{{term|[[Kirchhoff's equations]]}}
+{{defn|In fluid dynamics, the Kirchhoff equations describe the motion of a rigid body in an ideal fluid.}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==L==
+
+{{glossary}}
+{{term|[[Lagrangian mechanics]]}}
+{{defn|}}
+{{term|[[laminar flow]]}}
+{{ghat|Also called '''streamline flow'''.}} 
+{{defn|Occurs when a fluid flows in parallel layers with no disruption between the layers.}}
+{{term|[[Laplace transform]]}}
+{{defn|}}
+{{term|[[Laplace–Runge–Lenz vector]]}}
+{{ghat|Also abbreviated '''LRL vector'''.}}
+{{defn|A {{gli|vector}} used chiefly to describe the shape and orientation of the orbit of one astronomical body around another, such as a planet revolving around a star. For two bodies interacting by Newtonian gravity, the LRL vector is a constant of motion, meaning that it is the same no matter where it is calculated on the orbit; equivalently, the LRL vector is said to be conserved.}}
+{{term|[[laser]]}}
+{{defn|}}
+{{term|[[Newton's law of universal gravitation|law of universal gravitation]]}}
+{{defn|}}
+{{term|[[LC circuit]]}}
+{{defn|}}
+{{term|[[Lenz's law]]}}
+{{defn|}}
+{{term|[[lepton]]}}
+{{defn|An elementary particle which does not undergo {{gli|strong interaction|strong interactions}} but is subject to the {{gli|Pauli exclusion principle}}. Two main classes of leptons exist: charged leptons (also known as the {{gli|electron}}-like leptons) and neutral leptons (better known as {{gli|neutrino|neutrinos}}).}}
+{{term|[[lever]]}}
+{{defn|A type of {{gli|machine}} consisting of a beam or rigid rod pivoted at a fixed hinge or fulcrum; one of six classical {{gli|simple machine|simple machines}}.}}
+{{term|[[light]]}}
+{{defn|A form of {{gli|electromagnetic radiation}} that occupies a certain range of {{gli|wavelength|wavelengths}} within the {{gli|electromagnetic spectrum}}. In physics, the term sometimes refers collectively to electromagnetic radiation of any wavelength, in which case light includes {{gli|gamma ray|gamma rays}}, {{gli|X-ray|X-rays}}, {{gli|microwave|microwaves}}, and {{gli|radio wave|radio waves}}, but in common usage "light" more often refers specifically to {{gli|visible light}}.}}
+{{term|[[linear actuator]]}}
+{{defn|A form of [[Engine|motor]] that generates a [[linear]] movement directly.}}
+{{term|[[linear algebra]]}}
+{{defn|The branch of {{gli|mathematics}} concerning {{gli|vector space|vector spaces}}, often finite or countably infinite dimensional, as well as linear mappings between such spaces.}}
+{{term|[[line of force]]}}
+{{defn|}}
+{{term|[[linear elasticity]]}}
+{{defn|The mathematical study of how solid objects deform and become internally stressed due to prescribed loading conditions. Linear elasticity is a simplification of the more general [[nonlinear theory of elasticity]] and is a branch of {{gli|continuum mechanics}}.}}
+{{term|[[Liouville's theorem (conformal mappings)|Liouville's theorem]]}}
+{{defn|Phase space volume is conserved.}}
+{{term|[[liquid]]}}
+{{defn|One of four classical {{gli|state of matter|states of matter}} having a definite {{gli|volume}} but no fixed shape.}}
+{{term|[[liquid crystal]] (LC)}}
+{{defn|A matter in a state that has properties between those of a conventional liquid and those of a solid crystal. For instance, an LC may flow like a liquid, but its {{gli|molecule|molecules}} may be oriented in a crystal-like way.}}
+{{term|[[longitudinal wave]]}}
+{{defn|}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==M==
+
+{{glossary}}
+{{term|[[M-theory]]}}
+{{defn|An extension of {{gli|string theory}} that attempts to unify seemingly contradictory mathematical formulations and which identifies 11 dimensions.}}
+{{term|[[Mach number]]}}
+{{defn|A dimensionless quantity representing the ratio of the speed of an object moving through a fluid to the local speed of sound.}}
+{{term|[[machine]]}}
+{{defn|Any powered tool consisting of one or more parts that is constructed to achieve a particular goal. Machines are usually powered by mechanical, chemical, thermal or electrical means, and are frequently motorised.}}
+{{term|[[machine element]]}}
+{{defn|An elementary component of a {{gli|machine}}. There are three basic types: structural components, mechanisms and control components.}}
+{{term|[[Maclaurin series]]}}
+{{defn|A representation of a function as an infinite sum of terms that are calculated from the values of the function's derivatives at a single point.}}
+{{term|[[magnetic field]]}}
+{{defn|A mathematical description of the magnetic influence of electric currents and magnetic materials. The magnetic field at any given point is specified by both a direction and a magnitude (or strength); as such it is a {{gli|vector}} field.}}
+{{term|[[magnetism]]}}
+{{defn|A property of materials that respond to an applied {{gli|magnetic field}}.}}
+{{term|[[magnetostatics]]}}
+{{defn|}}
+{{term|[[mass]]}}
+{{defn|}}
+{{term|[[mass balance]]}}
+{{ghat|Also called '''material balance'''.}}
+{{defn|An application of the law of {{gli|conservation of mass}} to the analysis of physical systems.}}
+{{term|[[mass density]]}}
+{{defn|See ''{{gli|density}}''.}}
+{{term|[[mass flux]]}}
+{{defn|The rate of mass flow per unit area. The common symbols are j, J, φ, or Φ, sometimes with subscript m to indicate mass is the flowing quantity. Its SI units are kg s−1 m−2.}}
+{{term|[[mass moment of inertia]]}}
+{{defn|A property of a distribution of mass in space that measures its resistance to rotational acceleration about an axis.}}
+{{term|[[mass number]]}}
+{{ghat|Also called '''atomic mass number''' or '''nucleon number'''.}}
+{{defn|The total number of {{gli|proton|protons}} and {{gli|neutron|neutrons}} (together known as {{gli|nucleon|nucleons}}) in an atomic nucleus.}}
+{{term|[[mass spectrometry]]}}
+{{defn|}}
+{{term|[[material properties]]}}
+{{defn|}}
+{{term|[[materials science]]}}
+{{defn|An interdisciplinary field incorporating elements of physics, chemistry, and engineering that is concerned with the design and discovery of new materials, particularly {{gli|solid|solids}}.}}
+{{term|[[mathematical physics]]}}
+{{defn|The application of {{gli|mathematics}} to problems in physics and the development of mathematical methods suitable for such applications and for the formulation of physical theories.}}
+{{term|[[mathematics]]}}
+{{defn|The abstract study of topics encompassing quantity, structure, space, change, and other properties.}}
+{{term|[[Matrix (mathematics)|matrix]]}}
+{{defn|A rectangular array of numbers, symbols, or expressions arranged in rows and columns. The individual items in a matrix are called its ''elements'' or ''entries''.}}
+{{term|[[matter]]}}
+{{defn|Any substance (often a particle) that has rest mass and (usually) also volume.}}
+{{term|[[Maxwell's equations]]}}
+{{defn|A set of partial differential equations that, together with the Lorentz force law, form the foundation of classical electrodynamics, classical optics, and electric circuits. Maxwell's equations describe how electric and magnetic fields are generated and altered by each other and by charges and currents.}}
+{{term|[[measure of central tendency]]}}
+{{defn|A term which relates to the way in which quantitative data tend to cluster around some value. A measure of central tendency is any of a number of ways of specifying this "central value".}}
+{{term|[[mechanical energy]]}}
+{{defn|}}
+{{term|[[mechanical filter]]}}
+{{defn|}}
+{{term|[[mechanical equilibrium]]}}
+{{defn|}}
+{{term|[[mechanical wave]]}}
+{{defn|}}
+{{term|[[mechanics]]}}
+{{defn|The branch of science concerned with the behaviour of physical bodies when subjected to forces or displacements and the subsequent effects of the bodies on their environment.}}
+{{term|[[melting]]}}
+{{ghat|Also called '''fusion'''.}} 
+{{defn|A physical process that results in the phase transition of a substance from a solid to a liquid.}}
+{{term|[[meson]]}}
+{{defn|A type of {{gli|hadron|hadronic}} {{gli|subatomic particle}} composed of one {{gli|quark}} and one {{gli|antiquark}} bound together by the {{gli|strong interaction}}. All mesons are unstable, with the longest-lived lasting for only a few hundredths of a microsecond.}}
+{{term|[[modulus of elasticity]]}}
+{{defn|The mathematical description of an object's or substance's tendency to be {{gli|deformation|deformed}} elastically (i.e., non-permanently) when a force is applied to it. The elastic modulus of an object is defined as the slope of its {{gli|stress–strain curve}} in the elastic deformation region. As such, a {{gli|stiffness|stiffer}} material will have a higher elastic modulus.}}
+{{term|[[molar concentration]]}}
+{{defn|}}
+{{term|[[molar mass]]}}
+{{defn|A physical property of {{gli|matter}} defined as the {{gli|mass}} of a given substance divided by the amount of substance and expressed in grams per mole.}}
+{{term|[[molecule]]}}
+{{defn|An electrically neutral group of two or more {{gli|atom|atoms}} held together by covalent chemical bonds. Molecules are distinguished from {{gli|ion|ions}} by their lack of electrical charge.}}
+{{term|[[molecular physics]]}}
+{{defn|A branch of physics that studies the physical properties of {{gli|molecule|molecules}} and the chemical bonds between {{gli|atom|atoms}} as well as their molecular dynamics. It is closely related to atomic physics and overlaps greatly with theoretical chemistry, {{gli|physical chemistry}} and {{gli|chemical physics}}.}}
+{{term|[[Moment (physics)|moment]]}}
+{{defn|}}
+{{term|[[moment of inertia]]}}
+{{defn|A property of a distribution of {{gli|mass}} in space that measures its resistance to rotational acceleration about an axis.}}
+{{term|[[Spectral color|monochromatic light]]}}
+{{defn|}}
+{{term|[[motion (physics)|motion]]}}
+{{defn|Any change in the position of an object over {{gli|time}}. Motion can be mathematically described in terms of {{gli|displacement (vector)|displacement}}, {{gli|distance}}, {{gli|velocity}}, {{gli|speed}}, {{gli|acceleration}}, and {{gli|momentum}}, and is observed by attaching a {{gli|frame of reference}} to an observer and measuring the change in an object's position relative to that frame. An object's motion cannot change unless it is acted upon by a {{gli|force}}.}}
+{{term|[[muon]]}}
+{{defn|An elementary particle, technically classified as a {{gli|lepton}}, that is similar to the {{gli|electron}}, with unitary negative electric charge (−1) and a spin of 1⁄2. Muons are not believed to have any sub-structure.}}
+
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==N==
+
+{{glossary}}
+{{term|[[nanoengineering]]}}
+{{defn|The practice of engineering on the nanoscale. Nanoengineering is largely a synonym for [[nanotechnology]], but emphasizes the applied rather than the pure science aspects of the field.}}
+{{term|[[nanotechnology]]}}
+{{ghat|Also abbreviated as '''nanotech'''.}}
+{{defn|The manipulation of matter on an {{gli|atom|atomic}} and [[molecule|molecular]] scale. A more generalized description of nanotechnology is "the manipulation of matter with at least one dimension sized from 1 to 100 nanometers".}}
+{{term|[[Navier–Stokes equations]]}}
+{{defn|}}
+{{term|[[neurophysics]]}}
+{{defn|}}
+{{term|[[neutrino]]}}
+{{defn|A type of electrically neutral {{gli|subatomic particle}} denoted by the Greek letter ν (nu). All evidence suggests that neutrinos have mass but that their mass is tiny even by the standards of subatomic particles. Their mass has never been measured accurately.}}
+{{term|[[neutron]]}}
+{{defn|}}
+{{term|[[neutron cross-section]]}}
+{{defn|}}
+{{term|[[newton (unit)|newton]] (N)}}
+{{defn|}}
+{{term|[[Newton's laws of motion]]}}
+{{defn|A set of three physical laws which describe the relationship between the {{gli|force|forces}} acting on a body and its motion due to those forces. Together they form the basis for {{gli|classical mechanics|classical or Newtonian mechanics}}.}}
+{{term|[[Newton's law of universal gravitation]]}}
+{{defn|}}
+{{term|[[Newtonian fluid]]}}
+{{defn|}}
+{{term|[[Newtonian mechanics]]}}
+{{defn|}}
+{{term|[[normal force]]}}
+{{defn|}}
+{{term|[[Nth root|''n''th root]]}}
+{{defn|}}
+{{term|[[nuclear force]]}}
+{{defn|}}
+{{term|[[nuclear physics]]}}
+{{defn|The branch of physics that studies the constituents and interactions of {{gli|nucleus|atomic nuclei}}.}}
+{{term|[[nuclear reaction]]}}
+{{defn|}}
+{{term|[[nuclear transmutation]]}}
+{{defn|}}
+{{term|[[nucleon]]}}
+{{defn|Either a {{gli|proton}} or a {{gli|neutron}} in its role as a component of an {{gli|nucleus|atomic nucleus}}.}}
+{{term|[[atomic nucleus|nucleus]]}}
+{{defn|}}
+{{term|[[nuclide]]}}
+{{ghat|Also spelled '''nucleide'''.}}
+{{defn|An {{gli|atomic}} species characterized by the specific composition of its {{gli|nucleus}}, i.e. by its number of {{gli|proton|protons}}, its number of {{gli|neutron|neutrons}}, and its nuclear {{gli|energy level|energy state}}.}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==O==
+
+{{glossary}}
+{{term|[[Ohm]]}}
+{{defn|The SI derived unit of electrical resistance.}}
+{{term|[[Ohm's law]]}}
+{{defn|States that the current through a conductor between two points is directly proportional to the potential difference across the two points.}}
+{{term|[[optical tweezers]]}}
+{{defn|An [[optomechanical]] device used for the capture, analysis and manipulation of dielectric objects or particles, which operates via the application of force by the electric field of light.}}
+{{term|[[optically detected magnetic resonance]]}}
+{{defn|An optical technique for the initialisation and readout of {{gli|quantum spin}} in some crystal defects.}}
+{{term|[[optics]]}}
+{{defn|The branch of physics which involves the behaviour and properties of {{gli|light}}, including its interactions with matter and the construction of instruments that use or detect it. Optics usually describes the behaviour of visible, ultraviolet, and infrared light; however, because light is one of several forms of {{gli|electromagnetic radiation}}, other forms such as {{gli|X-ray|X-rays}}, microwaves, and radio waves exhibit similar properties.}}
+{{glossaryend}}
+
+==P==
+
+{{glossary}}
+{{term|[[Paraffin wax|paraffin]]}}
+{{defn|}}
+{{term|[[Series and parallel circuits|parallel circuit]]}}
+{{defn|}}
+{{term|[[Parity (physics)|parity]]}}
+{{defn|no=1|(mathematics)}}
+{{defn|no=2|(physics)}}
+{{term|[[particle]]}}
+{{defn|}}
+{{term|[[particle accelerator]]}}
+{{defn|}}
+{{term|[[particle displacement]]}}
+{{defn|}}
+{{term|[[particle physics]]}}
+{{defn|A branch of physics that studies the nature of {{gli|particle|particles}}, which are the constituents of what is usually referred to as {{gli|matter}} and {{gli|radiation}}.}}
+{{term|[[Pascal's law]]}}
+{{defn|A principle in {{gli|fluid mechanics}} which states that {{gli|pressure}} exerted anywhere in a confined incompressible fluid is transmitted equally in all directions throughout the fluid such that the initial pressure variations remain the same.}}
+{{term|[[Pauli exclusion principle]]}}
+{{defn|}}
+{{term|[[pendulum]]}}
+{{defn|}}
+{{term|[[periodic table of the elements]]}}
+{{ghat|Also simply called the '''periodic table'''.}}
+{{defn|A tabular display of the [[chemical element]]s organised on the basis of their {{gli|atomic number|atomic numbers}}, electron configurations, and recurring chemical properties. Elements are presented in order of increasing atomic number (number of protons).}}
+{{term|[[phase (matter)]]}}
+{{defn|}}
+{{term|[[phase (waves)]]}}
+{{defn|}}
+{{term|[[phase equilibrium]]}}
+{{defn|}}
+{{term|[[phenomenology (physics)|phenomenology]]}}
+{{defn|}}
+{{term|[[phosphorescence]]}}
+{{defn|}}
+{{term|[[photoelectric effect]]}}
+{{defn|}}
+{{term|[[photon]]}}
+{{defn|An elementary particle, the {{gli|quantum}} of {{gli|light}} and all other forms of {{gli|electromagnetic radiation}}, and the force carrier for the {{gli|electromagnetism|electromagnetic force}}.}}
+{{term|[[photonics]]}}
+{{defn|}}
+{{term|[[physical chemistry]]}}
+{{defn|The study of macroscopic, atomic, subatomic, and particulate phenomena in chemical systems in terms of laws and concepts of physics.}}
+{{term|[[physical constant]]}}
+{{defn|}}
+{{term|[[physical quantity]]}}
+{{defn|}}
+{{term|[[physics]]}}
+{{defn|The natural science that involves the study of {{gli|matter}} and its motion through {{gli|space}} and {{gli|time}}, along with related concepts such as {{gli|energy}} and {{gli|force}}. More broadly, it is the general analysis of [[nature]], conducted in order to understand how the [[universe]] behaves.}}
+{{term|[[piezoelectricity]]}}
+{{defn|}}
+{{term|[[pion]]}}
+{{defn|}}
+{{term|[[Planck constant]] (h)}}
+{{ghat|Also called '''Planck's constant'''.}} 
+{{defn|A physical constant that is the {{gli|quantum}} of action in {{gli|quantum mechanics}}.}}
+{{term|[[Planck units]]}}
+{{defn|}}
+{{term|[[Planck's law]]}}
+{{defn|}}
+{{term|[[Plasma (physics)|plasma]]}}
+{{defn|}}
+{{term|[[plasma physics]]}}
+{{defn|}}
+{{term|[[Plasticity (physics)|plasticity]]}}
+{{defn|}}
+{{term|[[pneumatics]]}}
+{{defn|The study and control of mechanical force and movement generated by the application of compressed gas.}}
+{{term|[[positron]]}}
+{{defn|}}
+{{term|[[potential energy]]}}
+{{defn|}}
+{{term|[[Power (physics)|power]]}}
+{{defn|}}
+{{term|[[pressure]]}}
+{{defn|The ratio of {{gli|force}} to the area over which that force is distributed.}}
+{{term|[[probability]]}}
+{{defn|A measure of the expectation that an event will occur or that a statement is true. Probabilities are given a value between 0 (will not occur) and 1 (will occur). The higher the probability of an event, the more certain one can be that the event will occur.}}
+{{term|[[probability distribution]]}}
+{{defn|}}
+{{term|[[probability theory]]}}
+{{defn|}}
+{{term|[[proton]]}}
+{{defn|}}
+{{term|[[psi particle]]}}
+{{defn|}}
+{{term|[[pulley]]}}
+{{defn|A wheel on an axle that is designed to support movement of a cable or belt along its circumference; one of six classical {{gli|simple machine|simple machines}}. Pulleys are used in a variety of ways to lift loads, apply {{gli|force|forces}}, and transmit {{gli|power}}.}}
+{{term|[[Pulse (physics)|pulse]]}}
+{{defn|}}
+{{term|[[pulse wave]]}}
+{{defn|}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==Q==
+
+{{glossary}}
+{{term|[[quantization (physics)|quantization]]}}
+{{defn|}}
+{{term|[[quantum]]}}
+{{defn|}}
+{{term|[[quantum chromodynamics]]}}
+{{defn|}}
+{{term|[[quantum electrodynamics]]}}
+{{defn|The relativistic {{gli|quantum field theory}} of {{gli|electrodynamics}}. In essence, it describes how light and matter interact and is the first theory where full agreement between {{gli|quantum mechanics}} and {{gli|special relativity}} is achieved. QED mathematically describes all phenomena involving electrically charged particles interacting by means of exchange of {{gli|photon|photons}} and represents the quantum counterpart of [[classical electromagnetism]], giving a complete account of matter and light interaction.}}
+{{term|[[quantum field theory]]}}
+{{defn|A theoretical framework for constructing quantum mechanical models of {{gli|subatomic particle|subatomic particles}} in {{gli|particle physics}} and {{gli|quasiparticle|quasiparticles}} in {{gli|condensed matter physics}}.}}
+{{term|[[quantum gravity]]}}
+{{defn|}}
+{{term|[[quantum mechanics]]}}
+{{defn|A branch of physics dealing with physical phenomena at microscopic scales, where the action is on the order of the {{gli|Planck constant}}. Quantum mechanics departs from classical mechanics primarily at the [[quantum realm]] of {{gli|atom|atomic}} and {{gli|subatomic particle|subatomic}} length scales. Quantum mechanics provides a mathematical description of much of the dual particle-like and wave-like behavior and interactions of energy and matter.}}
+{{term|[[quantum number]]}}
+{{defn|}}
+{{term|[[quantum physics]]}}
+{{defn|}}
+{{term|[[quantum state]]}}
+{{defn|}}
+{{term|[[quark]]}}
+{{defn|An elementary particle and a fundamental constituent of matter. Quarks combine to form composite particles called {{gli|hadron|hadrons}}, the most stable of which are {{gli|proton|protons}} and {{gli|neutron|neutrons}}, the components of atomic nuclei.}}
+{{term|[[quasiparticle]]}}
+{{defn|}}
+{{glossaryend}}
+
+==R==
+
+{{glossary}}
+{{term|[[radiant energy]]}}
+{{defn|}}
+{{term|[[radiation]]}}
+{{defn|}}
+{{term|[[radioactive decay]]}}
+{{defn|}}
+{{term|[[radionuclide]]}}
+{{ghat|Also called a '''radioactive nuclide''', '''radioisotope''', or '''radioactive isotope'''.}}
+{{defn|Any {{gli|nuclide}} possessing excess nuclear energy to the point that it is unstable. Such excess energy is emitted through any of several processes of {{gli|radioactive decay}}, resulting in a {{gli|stable nuclide}} or sometimes another unstable radionuclide which can then undergo further decay. Certain radionuclides can occur naturally; many others can be produced artificially in [[nuclear reactor]]s, {{gli|cyclotron|cyclotrons}}, {{gli|particle accelerator|particle accelerators}}, or radionuclide generators.}}
+{{term|[[Radius of curvature (optics)|radius of curvature]]}}
+{{defn|}}
+{{term|[[redshift]]}}
+{{defn|A phenomenon which occurs when {{gli|light}} seen coming from an object that is moving away is proportionally increased in {{gli|wavelength}} or "shifted" to the red end of the {{gli|visible light}} spectrum.}}
+{{term|[[refraction]]}}
+{{defn|The change in direction of a {{gli|wave}} as it passes from one {{gli|transmission medium}} to another or as a result of a gradual change in the medium. Though most commonly used in the context of refraction of {{gli|light}}, other waves such as {{gli|sound}} waves and [[wind wave|fluid waves]] also experience refraction.}}
+{{term|[[refractive index]]}}
+{{defn|}}
+{{term|[[relative atomic mass]]}}
+{{defn|}}
+{{term|[[relativistic mechanics]]}}
+{{defn|}}
+{{term|[[rigid body]]}}
+{{defn|An idealization of a solid body in which {{gli|deformation}} is neglected. In other words, the distance between any two given points of a rigid body remains constant in time regardless of the external forces exerted on it. Even though such an object cannot physically exist due to relativity, objects can normally be assumed to be perfectly rigid if they are not moving near the {{gli|speed of light}}.}}
+{{term|[[rotational energy]]}}
+{{ghat|Also called '''angular kinetic energy'''.}}
+{{defn|The {{gli|kinetic energy}} due to the rotation of an object and forms part of its total kinetic energy.}}
+{{term|[[rotational speed]]}}
+{{ghat|Also called '''speed of revolution'''.}}
+{{defn|The number of complete rotations or revolutions a rotating body makes per unit time.}}
+{{term|[[Rydberg formula]]}}
+{{defn|A formula used in atomic physics to describe the wavelengths of spectral lines of many chemical elements.}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==S==
+
+{{glossary}}
+{{term|[[scalar (physics)|scalar]]}}
+{{defn|Any simple physical quantity that can be described by a single number (as opposed to {{gli|vector|vectors}}, {{gli|tensor|tensors}}, etc., which are described by several numbers such as magnitude and direction) and is unchanged by coordinate system rotations or translations (in Newtonian mechanics) or by Lorentz transformations or central-time translations (in relativity).}}
+{{term|[[scattering]]}}
+{{defn|The general physical process by which some forms of radiation, such as light, sound, or moving particles, are forced to deviate from a straight {{gli|trajectory}} by one or more localised non-uniformities in the medium through which they pass.}}
+{{term|[[science]]}}
+{{defn|A systematic enterprise that builds and organises knowledge in the form of testable explanations and predictions about the universe.}}
+{{term|[[Screw (simple machine)|screw]]}}
+{{defn|A mechanism that converts rotational motion to linear motion, and a {{gli|torque}} (rotational force) to a linear force; one of six classical {{gli|simple machine|simple machines}}.}}
+{{term|[[second law of thermodynamics]]}}
+{{defn|}}
+{{term|[[Seebeck effect]]}}
+{{defn|}}
+{{term|[[Series and parallel circuit|series circuit]]}}
+{{defn|}}
+{{term|[[shadow matter]]}}
+{{defn|}}
+{{term|[[shear modulus]]}}
+{{ghat|Also called '''modulus of rigidity'''.}}
+{{defn|}}
+{{term|[[shear strength]]}}
+{{defn|}}
+{{term|[[shear stress]]}}
+{{defn|}}
+{{term|[[shortwave radiation]]}}
+{{defn|}}
+{{term|[[Schrödinger equation]]}}
+{{defn|A mathematical equation which describes the time evolution of wave functions in {{gli|quantum mechanics}}.}}
+{{term|[[simple harmonic motion]]}}
+{{defn|}}
+{{term|[[simple machine]]}}
+{{defn|A mechanical device that changes the direction or magnitude of a {{gli|force}}. In general, a set of six classical simple machines identified by Renaissance scientists drawing from Greek texts on technology are collectively defined as the simplest mechanisms that can provide mechanical advantage (also called leverage).}}
+{{term|[[siphon]]}}
+{{defn|A tube in an inverted U shape that causes a liquid to flow uphill without pumps, powered by the fall of the liquid as it flows down the tube under the pull of {{gli|gravity}}. The term may also more generally refer to a wide variety of devices involving the flow of liquids through tubes.}}
+{{term|[[Snell's law]]}}
+{{defn|}}
+{{term|[[solar cell]]}}
+{{defn|}}
+{{term|[[solid]]}}
+{{defn|}}
+{{term|[[solid mechanics]]}}
+{{defn|}}
+{{term|[[solid-state physics]]}}
+{{defn|}}
+{{term|[[solubility]]}}
+{{defn|The tendency of a solid, liquid, or gaseous chemical substance (called a ''solute'') to dissolve in another solid, liquid, or gaseous substance (called a ''solvent'') to form a homogeneous solution of the solute in the solvent. The solubility of a solute fundamentally depends on the specific solvent as well as on {{gli|temperature}} and {{gli|pressure}}.}}
+{{term|[[sound]]}}
+{{defn|A mechanical {{gli|wave}} that is an oscillation of {{gli|pressure}} transmitted through a solid, liquid, or gas and composed of frequencies within the range of human hearing.}}
+{{term|[[special relativity]]}}
+{{defn|}}
+{{term|[[specific activity]]}}
+{{defn|}}
+{{term|[[speed]]}}
+{{defn|}}
+{{term|[[speed of light]] (c)}}
+{{defn|A universal physical constant defined as exactly 299,792,458 metres per second, a figure that is exact because the length of the metre is defined from this constant and the international standard for time. When not otherwise qualified, the term "speed of light" usually refers to the speed of light in a {{gli|vacuum}} as opposed to the speed of light through some physical medium.}}
+{{term|[[speed of sound]]}}
+{{defn|}}
+{{term|[[spherical aberration]]}}
+{{defn|}}
+{{term|[[spin quantum number]]}}
+{{defn|}}
+{{term|[[stable isotope ratio]]}}
+{{defn|}}
+{{term|[[stable nuclide]]}}
+{{defn|Any {{gli|nuclide}} that is not radioactive and does not spontaneously undergo {{gli|radioactive decay}}, as opposed to a {{gli|radionuclide}}. When such nuclides are referred to in relation to specific elements, they are usually termed {{gli|stable isotope ratio|stable isotopes}}.}}
+{{term|[[standard atomic weight]]}}
+{{defn|}}
+{{term|[[Standard Model]]}}
+{{defn|The theory of {{gli|particle physics}} which describes three of the four known {{gli|fundamental forces}} (the {{gli|electromagnetism|electromagnetic force}}, the {{gli|weak interaction|weak force}}, and the {{gli|strong interaction|strong force}}, but not the {{gli|gravitation|gravitational force}}) and classifies all known {{gli|elementary particle|elementary particles}}.}}
+{{term|[[standing wave]]}}
+{{defn|}}
+{{term|[[state of matter]]}}
+{{defn|}}
+{{term|[[statics]]}}
+{{defn|The branch of mechanics concerned with the analysis of loads ({{gli|force}} and {{gli|torque}}, or "moment") on physical systems in static equilibrium, that is, in a state where the relative positions of subsystems do not vary over time, or where components and structures are at a constant {{gli|velocity}}.}}
+{{term|[[statistical mechanics]]}}
+{{defn|}}
+{{term|[[stiffness]]}}
+{{defn|The rigidity of an object — the extent to which it resists {{gli|deformation}} in response to an applied {{gli|force}}.}}
+{{term|[[Deformation (mechanics)|strain]]}}
+{{defn|The transformation of a body from a reference configuration to a current configuration.[1] A configuration is a set containing the positions of all particles of the body.}}
+{{term|[[Work hardening|strain hardening]]}}
+{{defn|}}
+{{term|[[strength of materials]]}}
+{{defn|}}
+{{term|[[Stress (mechanics)|stress]]}}
+{{defn|no=1|An applied {{gli|force}} or system of forces that tends to {{gli|strain}} or {{gli|deformation|deform}} a physical body.}}
+{{defn|no=2|A measure of the internal forces acting within a deformable body.}}
+{{defn|no=3|A quantitative measure of the average force per unit area of a surface within a body on which internal forces act.}}
+{{term|[[stress–strain curve]]}}
+{{defn|}}
+{{term|[[string duality]]}}
+{{defn|}}
+{{term|[[string theory]]}}
+{{defn|}}
+{{term|[[structural load]]}}
+{{defn|}}
+{{term|[[subatomic particle]]}}
+{{defn|Any particle that is smaller than an {{gli|atom}}.}}
+{{term|[[Sublimation (phase transition)|sublimation]]}}
+{{defn|The process of transformation directly from the solid phase to the gas phase without passing through an intermediate liquid phase. Sublimation is an endothermic phase transition that occurs at temperatures and pressures below a substance's triple point in its phase diagram.}}
+{{term|[[superconductivity]]}}
+{{defn|}}
+{{term|[[superconductor]]}}
+{{defn|A phenomenon of exactly zero electrical resistance and expulsion of magnetic fields occurring in certain materials when cooled below a characteristic critical temperature.}}
+{{term|[[superhard material]]}}
+{{defn|}}
+{{term|[[superposition principle]]}}
+{{defn|}}
+{{term|[[supersymmetry]] (SUSY)}}
+{{defn|}}
+{{term|[[surface tension]]}}
+{{defn|}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==T==
+
+{{glossary}}
+{{term|[[temperature]]}}
+{{defn|A physical property of {{gli|matter}} that quantitatively expresses the common notions of hot and cold.}}
+{{term|[[Tensile Modulus|tensile modulus]]}}
+{{defn|}}
+{{term|[[tensile strength]]}}
+{{defn|}}
+{{term|[[Tesla (unit)|tesla]] (T)}}
+{{defn|}}
+{{term|[[test particle]]}}
+{{defn|}}
+{{term|[[theoretical physics]]}}
+{{defn|}}
+{{term|[[theory of everything]]}}
+{{defn|}}
+{{term|[[theory of relativity]]}}
+{{defn|}}
+{{term|[[thermal conduction]]}}
+{{defn|}}
+{{term|[[thermal equilibrium]]}}
+{{defn|A state in which there is no net flow of {{gli|heat|thermal energy}} between two physical systems when the systems are connected by a path permeable to heat. A system may also be said to be in thermal equilibrium with itself if the {{gli|temperature}} within the system is spatially and temporally uniform. Systems in {{gli|thermodynamic equilibrium}} are always in thermal equilibrium, but the converse is not always true.}}
+{{term|[[thermal radiation]]}}
+{{defn|}}
+{{term|[[thermionic emission]]}}
+{{defn|}}
+{{term|[[thermodynamic equilibrium]]}}
+{{defn|}}
+{{term|[[thermodynamic free energy]]}}
+{{defn|}}
+{{term|[[thermodynamics]]}}
+{{defn|}}
+{{term|[[thermometer]]}}
+{{defn|An instrument used to measure {{gli|temperature}}.}}
+{{term|[[third law of thermodynamics]]}}
+{{defn|}}
+{{term|threshold frequency}}
+{{defn|}}
+{{term|[[torque]]}}
+{{ghat|Also called '''moment''' or '''moment of force'''.}}
+{{defn|The tendency of a {{gli|force}} to rotate an object about an axis, fulcrum, or pivot. Just as a force is a push or a pull, a torque can be thought of as a twist to an object.}}
+{{term|[[total internal reflection]]}}
+{{defn|}}
+{{term|[[toughness]]}}
+{{defn|The ability of a material to absorb {{gli|energy}} and plastically deform without fracturing. Material toughness is defined as the amount of energy per unit volume that a material can absorb before rupturing. It is also defined as the resistance to fracture of a material when {{gli|stress|stressed}}.}}
+{{term|[[trajectory]]}}
+{{defn|The path that a moving object follows through {{gli|space}} as a function of {{gli|time}}.}}
+{{term|[[transducer]]}}
+{{defn|}}
+{{term|[[transmission medium]]}}
+{{defn|}}
+{{term|[[transverse wave]]}}
+{{defn|}}
+{{term|[[trigonometry]]}}
+{{defn|A branch of [[mathematics]] that studies triangles and the relationships between their sides and the angles between these sides.}}
+{{term|[[trimean]]}}
+{{defn|}}
+{{term|[[triple point]]}}
+{{defn|The {{gli|temperature}} and {{gli|pressure}} at which the three phases (gas, liquid, and solid) of a given substance coexist in {{gli|thermodynamic equilibrium}}.}}
+{{term|[[truncated mean]]}}
+{{defn|}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==U==
+
+{{glossary}}
+{{term|[[uncertainty principle]]}}
+{{defn|Any of a variety of mathematical inequalities asserting a fundamental limit to the precision with which certain pairs of physical properties of a {{gli|particle}}, such as position ''x'' and momentum ''p'', can be known simultaneously.}}
+{{term|[[uniform motion]]}}
+{{defn|}}
+{{term|[[uniform circular motion]]}}
+{{defn|}}
+{{term|[[unit vector]]}}
+{{defn|}}
+{{term|[[utility frequency]]}}
+{{defn|The frequency of the oscillations of {{gli|alternating current}} (AC) in an electric power grid transmitted from a power plant to the end-user.}}
+{{glossaryend}}
+
+==V==
+
+{{glossary}}
+{{term|[[vacuum]]}}
+{{defn|An area of {{gli|space}} which contains no {{gli|matter}}.}}
+{{term|[[valence electron]]}}
+{{defn|An {{gli|electron}} that is associated with an {{gli|atom}} and can participate in the formation of a [[chemical bond]].}}
+{{term|[[valence shell]]}}
+{{defn|The outermost electron shell of an {{gli|atom}}.}}
+{{term|[[valley of stability]]}}
+{{defn|}}
+{{term|[[Van de Graaff generator]]}}
+{{defn|}}
+{{term|[[variable capacitor]]}}
+{{defn|}}
+{{term|[[variable resistor]]}}
+{{defn|}}
+{{term|[[Vector (mathematics and physics)|vector]]}}
+{{defn|Any quantity that has both magnitude and direction.}}
+{{term|[[vector space]]}}
+{{defn|A mathematical structure formed by a collection of elements called {{gli|vector|vectors}}, which may be added together and multiplied ("scaled") by numbers called {{gli|scalar|scalars}}.}}
+{{term|[[velocity]]}}
+{{defn|}}
+{{term|[[virtual image]]}}
+{{defn|}}
+{{term|[[virtual particle]]}}
+{{defn|}}
+{{term|[[viscoelasticity]]}}
+{{defn|}}
+{{term|[[viscosity]]}}
+{{defn|}}
+{{term|[[visible light]]}}
+{{defn|A form of {{gli|electromagnetic radiation}} generally defined as the range of {{gli|wavelength|wavelengths}} visible to the average human eye.}}
+{{term|[[volt]] (V)}}
+{{defn|The {{gli|SI}} derived unit for {{gli|electric potential}}, {{gli|voltage|electric potential difference}}, and {{gli|electromotive force}}, defined as the difference in electric potential between two points of a {{gli|electrical conductor|conducting}} wire when an {{gli|electric current}} of one {{gli|ampere}} dissipates one {{gli|watt}} of {{gli|power}} between those two points.}}
+{{term|[[Volta potential]]}}
+{{defn|}}
+{{term|[[voltage]]}}
+{{defn|}}
+{{term|[[voltmeter]]}}
+{{defn|An instrument used for measuring the difference in electrical potential between two points in an electric circuit. Analog voltmeters move a pointer across a scale in proportion to the voltage of the circuit.}}
+{{term|[[Electric field|volt per meter]]}}
+{{defn|}}
+{{term|[[volume]]}}
+{{defn|}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==W==
+
+{{glossary}}
+{{term|[[W and Z bosons]]}}
+{{defn|}}
+{{term|[[watt]] (W)}}
+{{defn|A derived unit of {{gli|power}} in the International System of Units (SI) defined as one joule per second. The watt measures the rate of energy conversion or transfer.}}
+{{term|[[wave]]}}
+{{defn|A disturbance or oscillation that travels through {{gli|spacetime}} accompanied by a transfer of {{gli|energy}}.}}
+{{term|[[wave equation]]}}
+{{defn|}}
+{{term|[[wave function]]}}
+{{defn|}}
+{{term|[[wave function collapse]]}}
+{{defn|}}
+{{term|[[wave–particle duality]]}}
+{{defn|}}
+{{term|[[wavelength]]}}
+{{defn|A measure of the distance traversed by a single spatial period of a sinusoidal {{gli|wave}}, i.e. the distance over which the wave's shape repeats.}}
+{{term|[[weak interaction]]}}
+{{ghat|Also called the '''weak force''' or '''weak nuclear force'''.}}
+{{defn|One of the four fundamental forces of nature, along with the {{gli|strong nuclear force}}, {{gli|electromagnetism}}, and {{gli|gravitation}}. It is responsible for the {{gli|radioactive decay}} of {{gli|subatomic particle|subatomic particles}} and initiates the process known as {{gli|fusion|hydrogen fusion}} in stars.}}
+{{term|[[Weber (unit)|weber]] (Wb)}}
+{{defn|}}
+{{term|[[Wedge (mechanical device)|wedge]]}}
+{{defn|A triangular round tool in the form a compound and portable inclined plane; one of six classical {{gli|simple machine|simple machines}}.}}
+{{term|[[weight]]}}
+{{defn|}}
+{{term|[[wheel and axle]]}}
+{{defn|A wheel attached to an axle so that these two parts rotate together in which a force is transferred from one to the other; one of six classical {{gli|simple machine|simple machines}}.}}
+{{term|white body}}
+{{defn|A hypothetical idealized physical body that reflects all incident {{gli|electromagnetic radiation}} completely and uniformly in all directions; the opposite of a {{gli|black body}}.}}
+{{term|[[wind]]}}
+{{defn|The flow of gases on a large scale.}}
+{{term|[[wind shear]]}}
+{{ghat|Also called '''[[wind gradient]]'''.}}
+{{defn|A difference in wind speed and direction over a relatively short distance in the atmosphere. Wind shear can be broken down into vertical and horizontal components, with horizontal wind shear seen across fronts and near the coast, and vertical shear typically near the surface, though also at higher levels in the atmosphere.}}
+{{term|[[work (physics)|work]]}}
+{{defn|}}
+{{term|[[work function]]}}
+{{defn|}}
+{{glossaryend}}
+
+==X==
+
+{{glossary}}
+{{term|[[X-ray]]}}
+{{defn|A high-energy {{gli|photon}} (between 100 {{gli|electron volt|eV}} and 100 keV) with a wavelength shorter than that of ultraviolet radiation and longer than that of gamma radiation.}}
+{{glossaryend}}
+
+==Y==
+
+{{glossary}}
+{{term|[[Young’s modulus]]}}
+{{defn|A measure of the {{gli|stiffness}} of a solid material which defines the relationship between mechanical {{gli|stress}} and {{gli|strain}}.}}
+{{glossaryend}}
+
+==Z==
+
+{{glossary}}
+{{term|[[Zeeman effect]]}}
+{{defn|The effect of splitting a spectral line into several components in the presence of a static magnetic field by the lifting of degeneracy in electronic states.}}
+{{glossaryend}}
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|num=yes|extlinks=yes|}}
+
+==See also==
+
+*[[Outline of physics]]
+*[[Index of physics articles]]
+*[[Glossary of areas of mathematics]]
+*[[Glossary of astronomy]]
+*[[Glossary of biology]]
+*[[Glossary of calculus]]
+*[[Glossary of chemistry terms]]
+*[[Glossary of engineering]]
+*[[Glossary of probability and statistics]]
+
+==References==
+{{reflist}}
+
+{{Glossaries of science and engineering}}
+{{Branches of physics}}
+{{Fundamental interactions}}
+{{Natural science}}
+
+{{DEFAULTSORT:Physics}}
+[[Category:Glossaries of science|Physics]]
+

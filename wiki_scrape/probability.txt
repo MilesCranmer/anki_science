@@ -1,0 +1,560 @@
+{{short description|Wikipedia glossary}}
+{{Hatnote|Most of the terms listed in Wikipedia glossaries are already defined and explained within Wikipedia itself.  However, glossaries like this one are useful for looking up, comparing and reviewing large numbers of terms together.  You can help enhance this page by adding new terms or writing definitions for existing ones.}}
+The following is a [[glossary]] of terms used in the [[mathematics|mathematical]] sciences [[statistics]] and [[probability]].
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|}}
+
+{{StatsTopicTOC}}
+{{ProbabilityTopicsTOC}}
+
+
+== A ==
+
+{{term|term=admissible decision rule|content=[[admissible decision rule]]}}
+{{term|term=algebra of random variables|content=[[algebra of random variables]]}}
+
+{{term|term=alternative hypothesis|content=[[alternative hypothesis]]}}
+
+{{term|term=analysis of variance|content=[[analysis of variance]]}}
+
+{{term|term=atomic event|content=[[Elementary event|atomic event]]}}
+{{defn|1=Another name for elementary event}}
+
+== B ==
+{{term|term=bar chart|content=[[bar chart]]}}
+
+{{term|term=Bayes' theorem|content=[[Bayes' theorem]]}}
+
+{{term|term=Bayes estimator|content=[[Bayes estimator]]}}
+
+{{term|term=Bayes factor|content=[[Bayes factor]]}}
+
+{{term|term=Bayesian inference|content=[[Bayesian inference]]}}
+
+{{term|term=bias|content=[[Bias (statistics)|bias]]}}
+{{defn|no=1|A feature of a sample that is not representative of the population}}
+{{defn|no=2|The difference between the expected value of an estimator and the true value}}
+
+{{term|term=binary data|content=[[binary data]]}}
+{{defn|1=Data that can take only two values, usually represented by 0 and 1}}
+
+{{term|term=binomial distribution|content=[[binomial distribution]]}}
+
+{{term|term=bivariate analysis|content=[[bivariate analysis]]}}
+
+{{term|term=blocking|content=[[blocking (statistics)|blocking]]}}
+
+{{term|term=Box–Jenkins method|content=[[Box–Jenkins method]]}}
+
+{{term|term=box plot|content=[[box plot]]}}
+
+== C ==
+
+{{term|term= causal study |content= [[causality#Statistics and economics|causal study]]}}
+{{defn|defn= A statistical study in which the objective is to measure the effect of some variable on the outcome of a different variable. For example, how will my headache feel if I take aspirin, versus if I do not take aspirin? Causal studies may be either experimental or observational.<ref name=Reiter>{{cite journal|last1=Reiter|first1=Jerome|title=Using Statistics to Determine Causal Relationships|journal=American Mathematical Monthly|volume=107|issue=1|pages=24–32|date=January 24, 2000|doi=10.2307/2589374 |jstor=2589374}}</ref>}}
+
+{{term|term=central limit theorem|content=[[central limit theorem]]}}
+
+{{term|term=central moment|content=[[central moment]]}}
+
+{{term|term=characteristic function (probability theory)|content=[[characteristic function (probability theory)|characteristic function]]}}
+
+{{term|term=chi-squared distribution|content=[[chi-squared distribution]]}}
+
+{{term|term=chi-squared test|content=[[chi-squared test]]}}
+
+{{term|term=cluster analysis|content=[[cluster analysis]]}}
+
+{{term|term=cluster sampling|content=[[cluster sampling]]}}
+
+{{term|term=complementary event|content=[[complementary event]]}}
+
+{{term|term=completely randomized design|content=[[completely randomized design]]}}
+
+{{term|term=computational statistics|content=[[computational statistics]]}}
+
+{{term|term= concomitants}}
+{{defn|defn= In a statistical study, concomitants are any variables whose values are unaffected by treatments, such as a unit’s age, gender, and cholesterol level before starting a diet (treatment).<ref name=Reiter/>}}
+
+{{term|term=conditional distribution|content=[[conditional distribution]]}}
+{{defn|1=Given two jointly distributed random variables ''X'' and ''Y'', the conditional probability distribution of ''Y'' given ''X'' (written "''Y'' <nowiki>|</nowiki> ''X''") is the probability distribution of ''Y'' when ''X'' is known to be a particular value}}
+
+{{term|term=conditional probability|content=[[conditional probability]]}}
+{{defn|1=The probability of some event A, assuming event B. Conditional probability is written P(''A''<nowiki>|</nowiki>''B''), and is read "the probability of ''A'', given ''B''"}}
+
+{{term|term=conditional probability distribution|content=[[conditional probability distribution]]}}
+
+{{term|term=confidence interval|content=[[confidence interval]]}}
+{{defn|1=In inferential statistics, a CI is a range of plausible values for some parameter, such as the population mean.<ref name="Kalinowski">Pav Kalinowski. Understanding Confidence Intervals (CIs) and Effect Size Estimation. Association for Psychological Science Observer April 10, 2010. http://www.psychologicalscience.org/index.php/publications/observer/2010/april-10/understanding-confidence-intervals-cis-and-effect-size-estimation.html</ref> For example, based on a study of sleep habits among 100 people, a researcher may estimate that the overall population sleeps somewhere between 5 and 9 hours per night. This is different from the sample mean, which can be measured directly.}}
+
+{{term|term=confidence level}}
+{{defn|1=Also known as a confidence coefficient, the confidence level indicates the probability that the confidence interval (range) captures the true population mean. For example, a confidence interval with a 95 percent confidence level has a 95 percent chance of capturing the population mean. Technically, this means that, if the experiment were repeated many times, 95 percent of the CIs would contain the true population mean.<ref name="Kalinowski"/>}}
+
+{{term|term=confounding|content=[[confounding]]}}
+
+{{term|term=conjugate prior|content=[[conjugate prior]]}}
+
+{{term|term=continuous variaable|content=[[continuous variable]]}}
+
+{{term|term=convenience sampling|content=[[convenience sampling]]}}
+
+{{term|term=correlation|content=[[correlation]]}}
+{{defn|1=Also called correlation coefficient, a numeric measure of the strength of linear relationship between two random variables (one can use it to quantify, for example, how shoe size and height are correlated in the population). An example is the [[Pearson product-moment correlation coefficient]], which is found by dividing the covariance of the two variables by the product of their standard deviations. Independent variables have a correlation of 0}}
+
+{{term|term=count data|content=[[count data]]}}
+{{defn|1=Data arising from [[counting]] that can take only non-negative integer values}}
+
+{{term|term=covariance|content=[[covariance]]}}
+{{defn|1=Given two random variables ''X'' and ''Y'', with expected values <math>E(X)=\mu</math> and <math>E(Y)=\nu</math>, covariance is defined as the expected value of random variable <math>(X - \mu) (Y - \nu)</math>, and is written <math>\operatorname{cov}(X, Y)</math>. It is used for measuring correlation}}
+
+== D ==
+{{term|term=data|content=[[data]]}}
+
+{{term|term=data analysis|content=[[data analysis]]}}
+
+{{term|term=data set|content=[[data set]]}}
+{{defn|1=A sample and the associated ''data points''}}
+
+{{term|term=data point|content=[[data point]]}}
+{{defn|1=A typed measurement&nbsp;— it can be a [[Boolean data type|Boolean]] value, a real number, a vector (in which case it's also called a data vector), etc}}
+
+{{term|term=Decision rule|content=[[Decision rule]]}}
+
+{{term|term=decision theory|content=[[decision theory]]}}
+
+{{term|term=degrees of freedom|content=[[Degrees of freedom (statistics)|degrees of freedom]]}}
+
+{{term|term=density estimation|content=[[density estimation]]}}
+
+{{term|term=dependence|content=[[correlation and dependence|dependence]]}}
+
+{{term|term=ddependent variable|content=[[dependent variable]]}}
+
+{{term|term=descriptive statistics|content=[[descriptive statistics]]}}
+
+{{term|term=design of experiments|content=[[design of experiments]]}}
+
+{{term|term=deviation (statistics)|content=[[deviation (statistics)|deviation]]}}
+
+{{term|term=discrete variable|content=[[discrete variable]]}}
+
+{{term|term=dot plot|content=[[dot plot (statistics)|dot plot]]}}
+
+{{term|term=double counting|content=[[double counting (fallacy)|double counting]]}}
+
+== E ==
+
+{{term|term=elementary event|content=[[elementary event]]}}
+{{defn|1=An event with only one element. For example, when pulling a card out of a deck, "getting the jack of spades" is an elementary event, while "getting a king or an ace" is not}}
+
+{{term|term=estimation theory|content=[[estimation theory]]}}
+
+{{term|term=estimator|content=[[estimator]]}}
+{{defn|1=A function of the known data that is used to estimate an unknown parameter; an estimate is the result from the actual application of the function to a particular set of data. The mean can be used as an estimator}}
+
+{{term|term=expected value|content=[[expected value]]}}
+{{defn|1=The sum of the probability of each possible outcome of the experiment multiplied by its payoff ("value"). Thus, it represents the average amount one "expects" to win per bet if bets with identical odds are repeated many times. For example, the expected value of a six-sided die roll is 3.5. The concept is similar to the mean. The expected value of random variable ''X'' is typically written E(X) for the operator and <math>\mu</math> ([[Mu (letter)|mu]]) for the parameter}}
+
+{{term|term=experiment|content=[[Experiment (probability theory)|experiment]]}}
+{{defn|1=Any procedure that can be infinitely repeated and has a well-defined set of outcomes}}
+
+{{term|term=exponential family|content=[[exponential family]]}}
+
+{{term|term=event|content=[[Event (probability theory)|event]]}}
+{{defn|1=A subset of the sample space (a possible experiment's outcome), to which a probability can be assigned. For example, on rolling a die, "getting a five or a six" is an event (with a probability of one third if the die is fair)}}
+
+== F ==
+{{term|term=factor analysis|content=[[factor analysis]]}}
+
+{{term|term=factorial experiment|content=[[factorial experiment]]}}
+
+{{term|term=frequency (statistics)|frequency|content=[[frequency (statistics)|frequency]]}}
+
+{{term|term=frequency distribution|content=[[frequency distribution]]}}
+
+{{term|term=frequency domain|content=[[frequency domain]]}}
+
+{{term|term=frequentist inference|content=[[frequentist inference]]}}
+
+
+
+== G ==
+
+{{term|term=general linear model|content=[[general linear model]]}}
+
+{{term|term=generalized linear model|content=[[generalized linear model]]}}
+
+{{term|term=grouped data|content=[[grouped data]]}}
+
+== H ==
+
+{{term|term=histogram|content=[[histogram]]}}
+
+== I ==
+
+{{term|term=Independence (probability theory)|content=[[Independence (probability theory)]]}}
+{{term|term=independent variable|content=[[independent variable]]}}
+
+{{term|term=interquartile range|content=[[interquartile range]]}}
+
+== J ==
+
+{{term|term=joint distribution|content=[[joint distribution]]}}
+{{defn|1=Given two random variables ''X'' and ''Y'', the joint distribution of ''X'' and ''Y'' is the probability distribution of X and Y together}}
+
+{{term|term=joint probability|content=[[joint probability]]}}
+{{defn|1=The probability of two events occurring together. The joint probability of  ''A'' and ''B'' is written <math>P(A \cap B)</math> or <math>P(A, \ B).</math>}}
+
+== K ==
+
+{{term|term=Kalman filter|content=[[Kalman filter]]}}
+
+{{term|term=kernel (statistics)|content=[[kernel (statistics)|kernel]]}}
+
+{{term|term=kernel density estimation|content=[[kernel density estimation]]}}
+
+{{term|term=kurtosis|content=[[kurtosis]]}}
+{{defn|1=A measure of the infrequent extreme observations (outliers) of the probability distribution of a real-valued random variable. Higher kurtosis means more of the variance is due to infrequent extreme deviations, as opposed to frequent modestly sized deviations}}
+
+== L ==
+
+{{term|term=L-moment|content=[[L-moment]]}}
+
+{{term|term=law of large numbers|content=[[law of large numbers]]}}
+
+{{term|term=likelihood function|content=[[likelihood function]]}}
+
+
+
+{{defn|1=A conditional probability function considered a function of its second argument with its first argument held fixed. For example, imagine pulling a numbered ball with the number k from a bag of n balls, numbered 1 to n. Then you could describe a likelihood function for the random variable N as the probability of getting k given that there are n balls : the likelihood will be 1/n for n greater or equal to k, and 0 for n smaller than k. Unlike a probability distribution function, this likelihood function will not sum up to 1 on the sample space}}
+{{term|term=loss function|content=[[loss function]]}}
+{{term|term=likelihood-ratio test|content=[[likelihood-ratio test]]}}
+
+== M ==
+
+{{term|term=M-estimator|content=[[M-estimator]]}}
+
+{{term|term=marginal distribution|content=[[marginal distribution]]}}
+{{defn|1=Given two jointly distributed random variables ''X'' and ''Y'', the marginal distribution of ''X'' is simply the probability distribution of ''X'' ignoring information about ''Y''}}
+
+{{term|term=Marginal likelihood|content=[[Marginal likelihood]]}}
+
+
+{{term|term=marginal probability|content=[[marginal probability]]}}
+{{defn|1=The probability of an event, ignoring any information about other events. The marginal probability of ''A'' is written ''P''(''A''). Contrast with conditional probability}}
+
+{{term|term=Markov chain Monte Carlo|content=[[Markov chain Monte Carlo]]}}
+
+{{term|term=mathematical statistics|content=[[mathematical statistics]]}}
+
+{{term|term=maximum likelihood estimation|content=[[maximum likelihood estimation]]}}
+
+{{term|term=mean|content=[[mean]]}}
+{{defn|no=1|The expected value of a random variable}}
+{{defn|no=2|The arithmetic mean is the average of a set of numbers, or the sum of the values divided by the number of values}}
+
+{{term|term=median|content=[[median]]}}
+
+{{term|term=median absolute deviation|content=[[median absolute deviation]]}}
+
+{{term|term=mode|content=[[mode (statistics)|mode]]}}
+
+{{term|term=moving average|content=[[moving average]]}}
+
+{{term|term=multimodal distribution|content=[[multimodal distribution]]}}
+
+{{term|term=multivariate analysis|content=[[multivariate analysis]]}}
+
+{{term|term=multivariate kernel density estimation|content=[[multivariate kernel density estimation]]}}
+
+{{term|term=multivariate random variable|content=[[multivariate random variable]]}}
+{{defn|1=A vector whose components are random variables on the same probability space}}
+
+{{term|term=mutual exclusivity|content=[[mutual exclusivity]]}}
+
+{{term|term=mutual independence|content=[[mutual independence]]}}
+{{defn|1=A collection of events is mutually independent if for any subset of the collection, the joint probability of all events occurring is equal to the product of the joint probabilities of the individual events. Think of the result of a series of coin-flips. This is a stronger condition than pairwise independence}}
+
+== N ==
+
+{{term|term=nonparametric regression|content=[[nonparametric regression]]}}
+
+{{term|term=nonparametric statistics|content=[[nonparametric statistics]]}}
+
+{{term|term=non-sampling error|content=[[non-sampling error]]}}
+
+{{term|term=normal distribution|content=[[normal distribution]]}}
+
+{{term|term=normal probability plot|content=[[normal probability plot]]}}
+
+{{term|term=null hypothesis|content=[[null hypothesis]]}}
+{{defn|1=The statement being tested in a test of statistical significance Usually the null hypothesis is a statement of 'no effect' or 'no difference'."<ref name=moore>{{cite book|last1=Moore|first1=David|last2=McCabe|first2=George|title=Introduction to the Practice of Statistics|publisher=W.H. Freeman and Co|location=New York|year=2003|page=438|edition=4|isbn=9780716796572}}</ref> For example, if one wanted to test whether light has an effect on sleep, the null hypothesis would be that there is no effect. It is often symbolized as H<sub>0</sub>.}}
+
+== O ==
+
+{{term|term=opinion poll|content=[[opinion poll]]}}
+
+{{term|term=optimal decision|content=[[optimal decision]]}}
+
+{{term|term=optimal design|content=[[optimal design]]}}
+
+{{term|term=outlier|content=[[outlier]]}}
+
+== P ==
+
+{{term|term=p-value|content=[[p-value]]}}
+
+{{term|term=pairwise independence|content=[[pairwise independence]]}}
+{{defn|1=A pairwise independent collection of random variables is a set of random variables any two of which are independent}}
+
+{{term|term=parameter|content=[[Statistical parameter|parameter]]}}
+{{defn|1=Can be a population parameter, a distribution parameter, an unobserved parameter (with different shades of meaning). In statistics, this is often a quantity to be estimated}}
+
+{{term|term=particle filter|content=[[particle filter]]}}
+
+{{term|term=percentile|content=[[percentile]]}}
+
+{{term|term=pie chart|content=[[pie chart]]}}
+
+{{term|term=point estimation|content=[[point estimation]]}}
+
+{{term|term=power (statistics)|content=[[power (statistics)|power]]}}
+
+{{term|term=prior probability|content=[[prior probability]]}}
+{{defn|1=In [[Bayesian inference]], this represents prior beliefs or other information that is available before new data or observations are taken into account}}
+
+{{term|term=population parameter|content=[[population parameter]]}}
+{{defn|1=See parameter}}
+
+{{term|term=posterior probability|content=[[posterior probability]]}}
+{{defn|1=The result of a [[Bayesian analysis]] that encapsulates the combination of prior beliefs or information with observed data}}
+
+{{term|term=principal component analysis|content=[[principal component analysis]]}}
+
+{{term|term=probability|content=[[probability]]}}
+
+{{term|term=probability density|content=[[Probability density function|probability density]]}}
+{{defn|1=Describes the probability in a continuous probability distribution. For example, you can't say that the probability of a man being six feet tall is 20%, but you can say he has 20% of chances of being between five and six feet tall. Probability density is given by a probability density function. Contrast with probability mass}}
+
+{{term|term=probability density function|content=[[probability density function]]}}
+{{defn|1=Gives the probability distribution for a continuous random variable}}
+
+{{term|term=probability distribution|content=[[probability distribution]]}}
+{{defn|1=A function that gives the probability of all elements in a given space: see [[List of probability distributions]]}}
+
+{{term|term=probability measure|content=[[probability measure]]}}
+{{defn|1=The probability of events in a probability space}}
+
+{{term|term=probability plot|content=[[probability plot]]}}
+
+{{term|term=probability space|content=[[probability space]]}}
+{{defn|1=A sample space over which a probability measure has been defined}}
+
+== Q ==
+
+{{term|term=quantile|content=[[quantile]]}}
+
+{{term|term=quartile|content=[[quartile]]}}
+
+{{term|term=quota sampling|content=[[quota sampling]]}}
+
+== R ==
+
+{{term|term=random variable|content=[[random variable]]}}
+{{defn|1=A measurable function on a probability space, often real-valued. The distribution function of a random variable gives the probability of different results. We can also derive the mean and variance of a random variable}}
+{{see also|Discrete random variable|Continuous random variable}}
+
+{{term|term=randomized block design|content=[[Blocking (statistics)#Randomized block design|randomized block design]]}}
+
+{{term|term=range|content=[[Range (statistics)|range]]}}
+{{defn|1=The length of the smallest interval which contains all the data}}
+
+{{term|term=recursive Bayesian estimation|content=[[recursive Bayesian estimation]]}}
+
+{{term|term=regression analysis|content=[[regression analysis]]}}
+
+{{term|term=repeated measures design|content=[[repeated measures design]]}}
+
+{{term|term= responses}}
+{{defn|defn= In a statistical study, any variables whose values may have been affected by the treatments, such as cholesterol levels after following a particular diet for six months.<ref name=Reiter/>}}
+
+{{term|term=restricted randomization|content=[[restricted randomization]]}}
+
+{{term|term=robust statistics|content=[[robust statistics]]}}
+
+{{term|term=round-off error|content=[[round-off error]]}}
+
+== S ==
+
+{{term|term=sample|content=[[Statistical sample|sample]]}}
+{{defn|1=That part of a population which is actually observed}}
+
+{{term|term= Sample mean and covariance|content=[[ Sample mean and covariance]]}}
+{{defn|defn=The arithmetic mean of a sample of values drawn from the population. It is denoted by <math>\overline{x}</math>. An example is the average test score of a subset of 10 students from a class. Sample mean is used as an estimator of the population mean, which in this example would be the average test score of all of the students in the class.}}
+
+{{term|term=sample space|content=[[sample space]]}}
+{{defn|1=The set of possible outcomes of an experiment. For example, the sample space for rolling a six-sided die will be <nowiki>{1, 2, 3, 4, 5, 6}</nowiki>}}
+
+{{term|term=sampling|content=[[Sampling (statistics)|sampling]]}}
+{{defn|1=A process of selecting observations to obtain knowledge about a population. There are many methods to choose on which sample to do the observations}}
+
+{{term|term=sampling bias|content=[[sampling bias]]}}
+
+{{term|term=sampling distribution|content=[[sampling distribution]]}}
+{{defn|1=The probability distribution, under repeated sampling of the population, of a given statistic}}
+
+{{term|term=sampling error|content=[[sampling error]]}}
+
+{{term|term=scatter plot|content=[[scatter plot]]}}
+
+{{term|term=Scale parameter|content=[[Scale parameter]]}}
+
+
+{{term|term=significance level|content=significance level}}
+
+{{term|term=simple random sample|content=[[simple random sample]]}}
+
+{{term|term=Simpson's paradox|content=[[Simpson's paradox]]}}
+
+{{term|term=skewness|content=[[skewness]]}}
+{{defn|1=A measure of the asymmetry of the probability distribution of a real-valued random variable. Roughly speaking, a distribution has positive skew (right-skewed) if the higher tail is longer and negative skew (left-skewed) if the lower tail is longer (confusing the two is a common error)}}
+
+{{term|term=spaghetti plot|content=[[spaghetti plot]]}}
+
+{{term|term=spectrum bias|content=[[spectrum bias]]}}
+
+{{term|term=standard deviation|content=[[standard deviation]]}}
+{{defn|1=The most commonly used measure of statistical dispersion. It is the [[square root]] of the variance, and is generally written <math>\sigma</math> ([[Sigma (letter)|sigma]])}}
+
+{{term|term=standard error|content=[[standard error]]}}
+
+{{term|term=standard score|content=[[standard score]]}}
+
+{{term|term=statistic|content=[[statistic]]}}
+{{defn|1=The result of applying a statistical algorithm to a data set. It can also be described as an observable random variable}}
+
+{{term|term=statistical dispersion|content=[[statistical dispersion]]}}
+
+{{term|term=statistical graphics|content=[[statistical graphics]]}}
+
+{{term|term=statistical hypothesis testing|content=[[statistical hypothesis testing]]}}
+
+{{term|term=statistical independence|content=[[statistical independence]]}}
+{{defn|1=Two events are independent if the outcome of one does not affect that of the other (for example, getting a 1 on one die roll does not affect the probability of getting a 1 on a second roll). Similarly, when we assert that two random variables are independent, we intuitively mean that knowing something about the value of one of them does not yield any information about the value of the other}}
+
+{{term|term=statistical inference|content=[[statistical inference]]}}
+{{defn|1=Inference about a population from a random sample drawn from it or, more generally, about a random process from its observed behavior during a finite period of time}}
+
+{{term|term=statistical interference|content=[[statistical interference]]}}
+
+{{term|term=statistical model|content=[[statistical model]]}}
+
+{{term|term=statistical population|content=[[statistical population]]}}
+{{defn|1=A set of entities about which statistical inferences are to be drawn, often based on random sampling. One can also talk about a population of measurements or values}}
+
+{{term|term=statistical dispersion|content=[[statistical dispersion]]}}
+{{defn|1=Statistical variability is a measure of how diverse some data is. It can be expressed by the variance or the standard deviation}}
+
+{{term|term=statistical parameter|content=[[statistical parameter]]}}
+{{defn|1=A parameter that indexes a family of probability distributions}}
+
+{{term|term=statistical significance|content=[[statistical significance]]}}
+
+{{term|term=statistics|content=[[statistics]]}}
+
+{{term|term=Student's t-test|content=[[Student's t-test]]}}
+
+{{term|term=sstem-and-leaf display|content=[[stem-and-leaf display]]}}
+
+{{term|term=stratified sampling|content=[[stratified sampling]]}}
+
+{{term|term=survey methodology|content=[[survey methodology]]}}
+
+{{term|term=survival function|content=[[survival function]]}}
+
+{{term|term=survivorship bias|content=[[survivorship bias]]}}
+
+{{term|term=symmetric probability distribution|content=[[symmetric probability distribution]]}}
+
+{{term|term=systematic sampling|content=[[systematic sampling]]}}
+
+== T ==
+
+{{term|term=test statistic|content=[[test statistic]]}}
+
+{{term|term=time domain|content=[[time domain]]}}
+
+{{term|term=time series|content=[[time series]]}}
+
+{{term|term=time series analysis|content=[[time series#time series analysis|time series analysis]]}}
+
+{{term|term=time series forecasting|content=[[time series#time series analysis|time series forecasting]]}}
+
+{{term|term= treatments}}
+{{defn|defn= Variables in a statistical study that are conceptually manipulable. For example, in a health study, following a certain diet is a treatment whereas age is not.<ref name=Reiter/>}}
+
+{{term|term=trial|content=[[Experiment (probability theory)|trial]]}}
+{{defn|1=Can refer to each individual repetition when talking about an experiment composed of any fixed number of them. As an example, one can think of an experiment being any number from one to ''n'' coin tosses, say 17. In this case, one toss can be called a trial to avoid confusion, since the whole experiment is composed of 17 ones. }}
+
+{{term|term=trimmed estimator|content=[[trimmed estimator]]}}
+
+{{term|term=type I and type II errors|content=[[type I and type II errors]]}}
+
+== U ==
+
+{{term|term=[[unimodal probability distribution]]|content=[[unimodal probability distribution]]}}
+
+{{term|term= units}}
+{{defn|defn= In a statistical study, the objects to which treatments are assigned. For example, in a study examining the effects of smoking cigarettes, the units would be people.<ref name=Reiter/>}}
+
+== V ==
+
+{{term|term=variance|content=[[variance]]}}
+{{defn|1=A measure of its statistical dispersion of a random variable, indicating how far from the expected value its values typically are. The variance of random variable ''X'' is typically designated as <math>\operatorname{var}(X)</math>, <math>\sigma_X^2</math>, or simply <math>\sigma^2</math>}}
+
+== W ==
+
+{{term|term=weighted arithmetic mean|content=[[weighted arithmetic mean]]}}
+
+{{term|term=weighted median|content=[[weighted median]]}}
+
+== X ==
+
+{{term|term=XOR|content=[[XOR|XOR, exclusive disjunction]]}}
+
+== Y ==
+
+{{term|term=Yates's correction for continuity|content=[[Yates's correction for continuity]]}}
+
+== Z ==
+{{term|term=z-test|content=[[z-test]]}}
+
+
+{{glossend}}
+
+== See also ==
+* [[Notation in probability and statistics]]
+* [[Probability axioms]]
+* [[Glossary of experimental design]]
+* [[List of statistical topics]]
+* [[List of probability topics]]
+* [[Glossary of areas of mathematics]]
+* [[Glossary of calculus]]
+
+==References ==
+{{Reflist|30em}}
+
+== External links ==
+* {{citation | title = NIST/SEMATECH e-Handbook of Statistical Methods | chapter = A Glossary of DOE Terminology | chapter-url = http://www.itl.nist.gov/div898/handbook/pri/section7/pri7.htm | publisher= [[NIST]] | accessdate = 28 February 2009}}
+* {{ citation | url = http://www.statistics.com/resources/glossary/ | title = Statistical glossary | publisher = statistics.com | accessdate = 28 February 2009}}
+* [http://www.economics.soton.ac.uk/staff/aldrich/Probability%20Earliest%20Uses.htm Probability and Statistics on the Earliest Uses Pages (Univ. of Southampton)]
+
+{{Statistics}}
+{{Glossaries of science and engineering}}
+
+[[Category:Probability and statistics| Glossary]]
+[[Category:Statistics-related lists]]
+[[Category:Glossaries of science|Probability and statistics]]
+[[Category:Glossaries of mathematics|Probability and statistics]]
+[[Category:Wikipedia glossaries|Probability and statistics]]
+
