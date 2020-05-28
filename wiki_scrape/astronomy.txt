@@ -1,0 +1,1527 @@
+{{short description|Wikipedia glossary}}
+This '''glossary of astronomy''' is a list of definitions of terms and concepts relevant to [[astronomy]] and [[cosmology]], their sub-disciplines, and related fields. Astronomy is concerned with the study of [[astronomical object|celestial objects]] and [[celestial event|phenomena]] that originate outside the [[atmosphere of Earth]]. The field of astronomy features an extensive vocabulary and a significant amount of jargon.
+
+{{AlphanumericTOC|align=center|nobreak=|numbers=|seealso=yes|references=yes|externallinks=yes|top=|}}
+
+==A==
+{{glossary}}
+{{term|[[A-type star]]}}
+{{defn|}}
+
+{{term|[[absolute magnitude]]}}
+{{defn|A measure of a {{gli|star}}'s absolute brightness. It is defined as the {{gli|apparent magnitude}} the star would show if it were located at a distance of 10&nbsp;{{gli|parsec|parsecs}}, or 32.6&nbsp;{{gli|light-year|light-years}}.}}
+
+{{term|[[accretion disk]]}}
+{{defn|A roughly circular mass of diffuse material in {{gli|orbit}} around a central object, such as a {{gli|star}} or {{gli|black hole}}. The material is acquired from a source external to the central object, and friction causes it to spiral inward towards the object.}}
+
+{{anchor|active galactic nucleus}}{{term|[[active galactic nucleus]] (AGN)}}
+{{defn|A compact region in the center of a {{gli|galaxy}} displaying a much higher than normal {{gli|luminosity}} over some part of the [[electromagnetic spectrum]] with characteristics indicating that the luminosity is not produced by {{gli|star|stars}}. A galaxy hosting an AGN is called an ''active galaxy''.}}
+
+{{term|[[albedo]]}}
+{{defn|A measure of the proportion of the total [[solar radiation]] received by an {{gli|astronomical body}}, such as a {{gli|planet}}, that is [[diffuse reflection|diffusely reflected]] away from the body. It is a dimensionless quantity typically measured on a scale from 0 (indicating total absorption of all incident radiation, as by a {{gli|black body}}) to 1 (indicating total reflection). The albedo reported for an astronomical body may vary widely by the spectral and angular distribution of the incident radiation, by the "layer" of the body being measured (e.g. upper atmosphere versus surface), and by local variation within these layers (e.g. [[cloud cover]] and geological or environmental surface features).}}
+[[File:Mars and Syrtis Major - GPN-2000-000923.jpg|right|thumb|[[Syrtis Major Planum|Syrtis Major]] (center) is a prominent dark {{gli|albedo feature}} on [[Mars]]]]
+
+{{term|[[albedo feature]]}}
+{{defn|A large area on the surface of a reflecting object that shows a significant contrast in brightness or darkness ({{gli|albedo}}) compared to adjacent areas.}}
+
+{{term|[[Am star]]}}
+{{defn|A [[chemically peculiar star]] belonging to the more general class of {{gli|A-type star|A-type stars}}. The spectrum of the Am stars shows abnormal enhancements and deficiencies of certain metals. See ''{{gli|metallicity}}''.}}
+
+{{term|[[Perihelion and aphelion|aphelion]]}}
+{{defn|The point at which a body orbiting the Earth's {{gli|Sun}} is furthest from the Sun. Contrast ''{{gli|perihelion}}''.}}
+
+{{term|[[apoapsis]]}}
+{{defn|The point at which an orbiting body is furthest from its {{gli|primary}}. Contrast ''{{gli|periapsis}}''.}}
+
+{{term|[[apogee]]}}
+{{defn|The point at which a body orbiting the Earth (such as the {{gli|Moon}} or an {{gli|artificial satellite}}) is furthest from the Earth. Contrast ''{{gli|perigee}}''.}}
+
+{{term|[[apparent magnitude]]}}
+{{ghat|Also called '''visual brightness (V)'''.}}
+{{defn|A measure of the brightness of a celestial body as seen by an observer on Earth, adjusted to the value it would have in the absence of the [[Earth's atmosphere|atmosphere]]. The brighter the object appears, the lower its magnitude.}}
+
+{{term|[[appulse]]}}
+{{defn|The closest approach of one celestial object to another, as viewed from a third body.}}
+
+{{term|[[apsis]]}}
+{{defn|In the {{gli|orbit}} of a {{gli|planetary body}}, one of the two extreme points of distance between the body and its {{gli|primary}} – either the point of minimal distance, called the {{gli|periapsis}}, or the point of maximal distance, called the {{gli|apoapsis}}. The term may also be used to refer to the value of the distance rather than the point itself. All {{gli|elliptical orbit|elliptical orbits}} have exactly two apsides.}}
+
+{{term|[[argument of periapsis]]}}
+{{ghat|Also called the '''argument of perifocus''' or '''argument of pericenter'''.}}
+{{defn|The angle from an {{gli|orbit|orbiting}} body's {{gli|ascending node}} to its {{gli|periapsis}}, measured in the direction of motion. It is one of six canonical {{gli|orbital elements}} used to characterize an orbit.}}
+
+{{term|[[artificial satellite]]}}
+{{defn|An object that has been intentionally placed into {{gli|orbit}} by humans, often around the Earth but also around other bodies within the {{gli|Solar System}}. Contrast ''{{gli|natural satellite}}''.}}
+
+{{term|[[ascending node]]}}
+{{ghat|Also called the '''north node'''.}}
+{{defn|The {{gli|orbital node}} at which an orbiting object moves north through the {{gli|plane of reference}} (in geocentric and heliocentric orbits) or at which the orbiting object moves away from the observer (in orbits outside of the {{gli|Solar System}}). The position of the ascending node with respect to a reference direction, called the {{gli|longitude of the ascending node}}, is used along with other {{gli|orbital elements|parameters}} to describe an orbit. Contrast ''{{gli|descending node}}''.}}
+
+{{term|[[Asterism (astronomy)|asterism]]}}
+{{defn|Any pattern of {{gli|star|stars}} recognizable in Earth's {{gli|night sky}}. An asterism may form part of an official {{gli|constellation}} or it may be composed of stars from more than one constellation.}}
+
+{{term|[[asteroid]]}}
+{{defn|}}
+
+{{term|[[asteroid belt]]}}
+{{defn|The {{gli|circumstellar disc}} in the {{gli|Solar System}} located roughly between the orbits of [[Mars]] and [[Jupiter]] that is occupied by numerous irregularly shaped {{gli|small Solar System body|small Solar System bodies}} ranging in size from dust particles to {{gli|asteroid|asteroids}} and {{gli|minor planet|minor planets}}. The asteroid belt is often called the ''main asteroid belt'' or ''main belt'' to distinguish it from other asteroid populations in other parts of the Solar System.}}
+
+{{term|[[astrobiology]]}}
+{{defn|}}
+
+{{term|[[astrodynamics]]}}
+{{defn|See ''{{gli|orbital mechanics}}''.}}
+
+{{term|[[astrogeology]]}}
+{{defn|}}
+
+{{term|[[astrometric binary]]}}
+{{defn|A type of {{gli|binary system}} where evidence for an unseen orbiting companion is revealed by its periodic {{gli|perturbation|gravitational perturbation}} of the visible component. See also ''{{gli|spectroscopic binary}}''.}}
+
+{{term|[[astrometry]]}}
+{{defn|The branch of astronomy that involves precise measurements of the positions and movements of {{gli|star|stars}} and other {{gli|astronomical body|celestial bodies}}.}}
+
+{{anchor|celestial body}}{{term|[[astronomical body]]}}
+{{ghat|Also called a '''celestial body'''.}}
+{{defn|A type of naturally occurring physical entity, association, or structure within the {{gli|observable universe}} that is a single, tightly bound, contiguous structure, such as a {{gli|star}}, {{gli|planet}}, {{gli|moon}}, or {{gli|asteroid}}. Though the terms astronomical "body" and {{gli|astronomical object|astronomical "object"}} are often used interchangeably, there are technical distinctions.}}
+
+{{term|[[astronomical catalogue]]}}
+{{ghat|Also spelled '''astronomical catalog'''.}}
+{{defn|}}
+
+{{anchor|celestial object}}{{term|[[astronomical object]]}}
+{{ghat|Also called a '''celestial object'''.}}
+{{defn|A type of naturally occurring physical entity, association, or structure that exists within the {{gli|observable universe}} but is a more complex, less cohesively bound structure than an {{gli|astronomical body}}, consisting perhaps of multiple bodies or even other objects with substructures, such as a {{gli|planetary system}}, {{gli|star cluster}}, {{gli|nebula}}, or {{gli|galaxy}}. Though the terms astronomical "object" and astronomical "body" are often used interchangeably, there are technical distinctions.}}
+
+{{term|[[astronomical symbol]]}}
+{{defn|}}
+
+{{anchor|astronomical unit}}{{term|[[astronomical unit]] (AU)}}
+{{defn|A unit of length used primarily for measuring astronomical distances within the {{gli|Solar System}} or between the Earth and distant stars. Originally conceived as the approximate average distance between the centers of the Earth and the Sun, the astronomical unit is now more rigidly defined as exactly {{convert|149597870.7|km|mi pc ly|sigfig=5|abbr=off}}.}}
+
+{{term|[[astronomy]]}}
+{{defn|The scientific study of {{gli|astronomical object|celestial objects}} and {{gli|celestial event|phenomena}}, the origins of those objects and phenomena, and their evolution.}}
+
+{{term|[[astrophotography]]}}
+{{defn|}}
+
+{{term|[[astrophysics]]}}
+{{defn|The branch of astronomy that employs principles of [[physics]] and [[chemistry]] to determine the nature of {{gli|astronomical object|astronomical objects}} and phenomena, examining properties such as [[luminosity]], [[density]], [[temperature]], and [[chemical composition]] (rather than the positions or motions of objects in space, which is more specifically the emphasis of {{gli|celestial mechanics}}).}}
+
+{{term|[[atmosphere]]}}
+{{defn|}}
+
+{{term|[[axial precession]]}}
+{{defn|A slow, continuous, gravity-induced change (a {{gli|precession}}) in the orientation of an {{gli|astronomical body}}'s {{gli|axis of rotation}}. The term often refers in particular to the gradual shift in the orientation of [[Earth's rotation|Earth's rotational axis]] with respect to {{gli|ecliptic|its orbital plane}} over a cycle of approximately 25,772 years, which is caused predominantly by the gravitational influence of the {{gli|Moon}} and the {{gli|Sun}} on the Earth's [[equatorial bulge]]. The phenomenon is similar to but much larger in magnitude than other changes in the alignment of Earth's axis such as {{gli|nutation}} and [[polar motion]], and is the cause of the apparent {{gli|precession of the equinoxes}} in the {{gli|night sky}}.}}
+
+{{anchor|obliquity}}{{term|[[axial tilt]]}}
+{{ghat|Also called '''obliquity'''.}}
+{{defn|The angle between an object's rotational axis and its orbital axis, or, equivalently, the angle between its {{gli|equator|equatorial}} plane and {{gli|orbital plane}}. Axial tilt usually does not change considerably during a single {{gli|orbital period}}; Earth's axial tilt is the cause of the [[season]]s. Axial tilt is distinct from {{gli|orbital inclination}}.}}
+
+{{anchor|rotational axis}}{{term|[[axis of rotation]]}}
+{{defn|}}
+
+{{term|[[azimuth]]}}
+{{defn|An angular measurement of an object's orientation along the horizon of the observer, relative to the direction of [[true north]]. When combined with the [[Altitude (astronomy)|altitude]] above the horizon, it defines an object's current position in the [[spherical coordinate system]].}}
+{{glossaryend}}
+
+==B==
+{{glossary}}
+{{term|[[barycenter]]}}
+{{defn|The common [[center of mass]] about which any two or more bodies of a gravitationally bound system {{gli|orbit}}. The barycenter is one of the [[focus (geometry)|foci]] of the {{gli|elliptical orbit}} of each body participating in the system; its location is strongly influenced by the [[mass]] of each body and the distances between them. For example, in a {{gli|planetary system}} where the mass of the central {{gli|star}} is significantly larger than the mass of an orbiting {{gli|planet}}, the barycenter may actually be located within the radius of the star, such that the planet appears to orbit the star itself, though both bodies actually orbit the shared barycenter.}}
+[[File:Orbit5.gif|right|thumb|Two bodies of similar mass orbiting a common {{gli|barycenter}} that is external to both bodies (a common situation for {{gli|binary star}} systems)]]
+
+{{term|[[baryogenesis]]}}
+{{defn|The process by which the class of subatomic particles known as [[baryon]]s were generated in the early Universe, including the means by which baryons outnumber antibaryons.}}
+
+{{term|[[Big Bang]]}}
+{{defn|The prevailing {{gli|cosmogony|cosmological model}} for the origin of the {{gli|observable universe}}. It depicts a starting condition of extremely high density and temperature, followed by an ongoing expansion that led to the current conditions.}}
+
+{{term|[[binary star]]}}
+{{defn|A {{gli|star system}} consisting of exactly two {{gli|star|stars}} orbiting around their common {{gli|barycenter}}. The term is often used interchangeably with {{gli|double star}}, though the latter can also refer to an [[optical double star]], a type of optical illusion which is entirely distinct from true binary star systems.}}
+
+{{term|[[black hole]]}}
+{{defn|A concentration of mass so compact that it creates a region of space from which not even light can escape. The outer boundary of this region is called the {{gli|event horizon}}.}}
+
+{{term|[[blazar]]}}
+{{defn|}}
+
+{{Anchor|break-up velocity}}{{term|break-up velocity}}
+{{ghat|Also called '''{{gli|critical velocity}}''' or '''critical rotation'''.}}
+{{defn|The surface velocity at which the [[centrifugal force]] generated by a rapidly spinning star matches the force of [[Newtonian gravity]]. At rotational velocities beyond this point, the star begins to eject matter from its surface.<ref name=Andre2008/>}}
+
+{{term|[[brown dwarf]]}}
+{{defn|A {{gli|substellar object}} that is too low in mass to sustain the [[nuclear fusion]] of [[hydrogen-1]] in its core, with the latter being a characteristic of stars on the {{gli|main sequence}}. Brown dwarfs can still generate energy from {{gli|Kelvin–Helmholtz mechanism|gravitational contraction}} and by the fusion of [[deuterium]].}}
+
+{{term|[[bulge (astronomy)|bulge]]}}
+{{defn|}}
+{{glossaryend}}
+
+==C==
+{{glossary}}
+{{term|[[celestial equator]]}}
+{{defn|The imaginary [[great circle]] of a body's {{gli|celestial sphere}} that is coplanar with the body's terrestrial {{gli|equator}}. On Earth, the plane of the celestial equator is the basis of the {{gli|equatorial coordinate system}}. Due to Earth's {{gli|axial tilt}}, the celestial equator is currently inclined at an angle of 23.44 degrees with respect to the {{gli|ecliptic}}.}}
+
+{{term|[[celestial mechanics]]}}
+{{defn|The branch of {{gli|astronomy}} that studies the [[motion|motions]] of all types of {{gli|astronomical object|astronomical objects}}, including {{gli|star|stars}}, {{gli|planet|planets}}, and {{gli|natural satellite|natural}} and {{gli|artificial satellite|artificial satellites}}, among others.}}
+
+{{term|[[celestial pole]]}}
+{{defn|One of two coordinates in the Earth's {{gli|sky}} at which a hypothetical indefinite extension of the Earth's {{gli|axis of rotation}} "intersects" the {{gli|celestial sphere}}. The celestial poles form the north and south poles of the {{gli|equatorial coordinate system}}.}}
+
+{{term|[[celestial sphere]]}}
+{{defn|An imaginary sphere that covers the Earth's entire {{gli|sky}} and is stationary with respect to the background stars. It is used as a tool for {{gli|spherical astronomy}}.}}
+
+{{term|[[centaur (small Solar System body)|centaur]]}}
+{{defn|}}
+
+{{anchor|central massive object}}{{term|[[central massive object]] (CMO)}}
+{{defn|Any very large concentration of mass at the center of a {{gli|galaxy}}, typically either a {{gli|supermassive black hole}} or a {{gli|nuclear star cluster|compact stellar nucleus}}, but sometimes both.}}
+
+{{term|[[chromosphere]]}}
+{{defn|}}
+
+{{term|chromospheric activity index}}
+{{defn|A parameter indicating the [[Stellar magnetic field|magnetic activity]] in a star's {{gli|chromosphere}}. One measure of this activity is {{math|log ''R′<sub>HK</sub>''}}, where {{math|''R′<sub>HK</sub>''}} is the ratio of the [[equivalent width]] of a star's [[Ionization|singly ionized]] calcium [[H and K lines]], after correction for [[photosphere|photospheric]] light, to the [[bolometric]] [[flux]].<ref name=apj_pt1_279_763/> Schröder et al. (2009) divide solar-type stars into four groups depending on their activity index: very active ({{math|log ''R′<sub>HK</sub>''}} above −4.2), active (−4.2 to −4.75), inactive (−4.75 to −5.1), and very inactive (below −5.1).<ref name=Schröder2009/>}}
+
+{{term|[[circumstellar disc]]}}
+{{ghat|Also spelled '''circumstellar disk'''.}}
+{{defn|}}
+
+{{anchor|cis-Neptunian object}}{{term|[[cis-Neptunian object]] (CNO)}}
+{{defn|}}
+
+{{term|[[clearing the neighbourhood]]}}
+{{defn|}}
+
+{{term|[[color index]]}}
+{{defn|A numeric value that is used to compare the brightness of a star measured from different [[frequency]] bands of the [[electromagnetic spectrum]]. Because the energy output of a star varies by frequency as a function of temperature, the color index can be used to indicate the star's temperature.}}
+
+{{term|[[comet]]}}
+{{defn|A relatively small, icy body that displays extended features when it approaches the {{gli|Sun}}. The energy from the Sun vaporizes [[Volatility (chemistry)|volatiles]] on a comet's surface, producing a visible [[Coma (cometary)|coma]] around the cometary body. Sometimes a comet can produce a long [[Comet tail|tail]] radiating away from the Sun.}}
+
+{{term|[[commensurability (astronomy)|commensurability]]}}
+{{defn|A property of two objects orbiting the same body whose {{gli|orbital period|orbital periods}} are in a [[rational number|rational]] [[proportionality (mathematics)|proportion]]. For example, the orbital period of [[Saturn]] around the Sun is very nearly 5/2 the orbital period of [[Jupiter]].}}
+
+{{term|common proper motion}}
+{{defn|A term used to indicate that two or more stars share the same motion through space, within the [[margin of error|margin of observational error]]. That is, either they have nearly the same {{gli|proper motion}} and {{gli|radial velocity}} parameters, which may suggest that they are [[gravitationally bound]] or share a common origin,<ref name=perryman2009/> or they are known to be gravitationally bound (in which case their proper motions may be rather different but average to be the same over time).}}
+
+{{term|[[compact star]]}}
+{{ghat|Also called a '''compact object'''.}}
+{{defn|Any {{gli|astronomical body}} with a very high mass relative to its radius, compared to most ordinary atomic matter, typically very high-density objects such as {{gli|white dwarf|white dwarfs}}, {{gli|neutron star|neutron stars}}, and {{gli|black hole|black holes}}, or to {{gli|stellar remnant|stellar remnants}} with very small radii compared to ordinary stars.}}
+
+{{term|[[nuclear star cluster|compact stellar nucleus]]}}
+{{defn|See ''{{gli|nuclear star cluster}}''.}}
+
+{{term|[[conjunction (astronomy)|conjunction]]}}
+{{defn|A phenomenon during which two {{gli|astronomical object|astronomical objects}} or [[spacecraft]] have either the same {{gli|right ascension}} or the same {{gli|ecliptic coordinate system|ecliptic longitude}} as observed from a third body (usually the Earth), such that, from the observer's perspective, the objects appear to closely approach each other in the sky.}}
+
+{{term|[[constellation]]}}
+{{defn|A region on the {{gli|celestial sphere}} surrounding a specific and identifiable grouping of stars. The names of constellations are assigned by tradition and often have an associated folklore based in [[mythology]], while the modern demarcation of their borders was established by the {{gli|International Astronomical Union}} in 1930. Compare ''{{gli|asterism}}''.}}
+
+{{term|[[Stellar corona|corona]]}}
+{{defn|An aura of [[Plasma (physics)|plasma]] that surrounds cooler stars such as the {{gli|Sun}}. It can be observed during a {{gli|solar eclipse}} as a bright glow surrounding the lunar disk. The temperature of the corona is much higher than that of the stellar surface, and the mechanism that creates this heat remains subject to debate among astronomers.}}
+
+{{term|[[coronal mass ejection]] (CME)}}
+{{defn|A significant release of [[plasma (physics)|plasma]] and the accompanying magnetic field from the {{gli|Sun}}'s {{gli|corona}}, often following a {{gli|solar flare}} or present during a {{gli|solar prominence}} eruption.}}
+
+{{term|[[cosmic distance ladder]]}}
+{{defn|}}
+
+{{term|[[cosmic dust]]}}
+{{ghat|Also called '''space dust'''.}}
+{{defn|[[Dust]] which exists in {{gli|outer space}} or has fallen on Earth, generally composed of fine particles of solid matter far smaller than those found in terrestrial dust.}}
+
+{{anchor|CMB|CMBR}}{{term|[[cosmic microwave background]] (CMB)}}
+{{ghat|Also called the '''cosmic microwave background radiation (CMBR)'''.}}
+{{defn|}}
+
+{{term|[[cosmic ray]]}}
+{{defn|A type of [[radiation]] consisting of high-energy [[proton]]s and atomic nuclei which move through space at nearly the speed of light, and which may originate from the {{gli|Sun}} or from outside the {{gli|Solar System}}. Collisions of cosmic rays with the Earth's atmosphere can produce dramatic effects both in the air and on the surface.}}
+
+{{term|[[cosmogony]]}}
+{{defn|Any model concerning the origin of either the {{gli|universe}} or the [[cosmos]].}}
+
+{{term|[[cosmology]]}}
+{{defn|The scientific study of the [[chronology of the universe|origin, evolution, and eventual fate]] of the {{gli|Universe}}.}}
+
+{{term|critical rotation}}
+{{defn|}}
+
+{{term|critical velocity}}
+{{ghat|Also called '''break-up velocity'''.}}
+{{defn|The surface velocity at the equator of a rotating body where the [[centrifugal force]] balances the [[Newtonian gravity]]. At this rotation rate, mass can be readily lost from the equator, forming a {{gli|circumstellar disc}}. See also ''{{gli|break-up velocity}}''.<ref name=Townsend2004/>}}
+
+{{term|[[culmination]]}}
+{{defn|}}
+{{glossaryend}}
+
+==D==
+{{glossary}}
+{{term|[[debris disk]]}}
+{{defn|A ring-shaped {{gli|circumstellar disc}} of dust and debris orbiting its host star. It is created by collisions between {{gli|planetesimal|planetesimals}}. A debris disk can be discerned from an [[infrared excess]] being emitted from the star system, as the orbiting debris re-radiates the star's energy into space as heat.}}
+[[File:NASA-14114-HubbleSpaceTelescope-DebrisDisks-20140424.jpg|right|thumb|Circumstellar {{gli|debris disk|debris disks}} as detected by the [[Hubble Space Telescope]], and artist's impressions of the disks' orientations around their host stars]]
+
+{{term|[[declination]]}}
+{{defn|In the {{gli|equatorial coordinate system}}, the celestial equivalent of terrestrial [[latitude]]. Coordinates north of the {{gli|celestial equator}} are measured in positive degrees from 0° to 90°, while coordinates to the south use coordinates in negative degrees. See also ''{{gli|right ascension}}''.}}
+
+{{term|[[decretion disk]]}}
+{{defn|A {{gli|circumstellar disc}} formed from gas ejected from a central star that now follows a nearly {{gli|Kepler orbit|Keplerian orbit}} around it. This type of disk can be found around many [[Be star]]s.<ref name=apjs187_1_228/>}}
+
+{{anchor|deep-sky object}}{{term|[[deep-sky object]] (DSO)}}
+{{defn|Any {{gli|astronomical object}} that is not an individual {{gli|star}} or an object within the Earth's {{gli|Solar System}}. The classification is used mostly in amateur {{gli|observational astronomy}} to distinguish faint objects in the {{gli|night sky}} such as {{gli|star cluster|star clusters}}, {{gli|nebula|nebulae}}, and {{gli|galaxy|galaxies}}.}}
+
+{{term|[[descending node]]}}
+{{ghat|Also called the '''south node'''.}}
+{{defn|The {{gli|orbital node}} at which an orbiting object moves south through the {{gli|plane of reference}} (in geocentric and heliocentric orbits) or at which the orbiting object moves toward the observer (in orbits outside of the {{gli|Solar System}}). Contrast ''{{gli|ascending node}}''.}}
+
+{{term|[[detached object]]}}
+{{defn|}}
+
+{{term|[[prograde motion|direct motion]]}}
+{{defn|See ''{{gli|prograde motion}}''.}}
+
+{{term|[[diurnal motion]]}}
+{{defn|The apparent motion of an {{gli|astronomical object}} (e.g. the {{gli|Sun}}, a {{gli|planet}}, or a distant {{gli|star}}) around the two {{gli|celestial pole|celestial poles}} in the Earth's {{gli|night sky}} over the course of one day. Diurnal motion is caused by Earth's rotation about its own axis, such that every object appears to follow a circular path called the ''diurnal circle''.}}
+
+{{term|[[double star]]}}
+{{defn|Any pair of {{gli|star|stars}} which appear near each other on the celestial sphere, either because the two stars coincidentally lie along nearly the same line of sight from the Earth despite being physically distant from each other, or because the two stars are actually located in physical proximity to each other, by which they may form a co-moving pair or a {{gli|binary star}} system.}}
+
+{{term|[[dwarf planet]]}}
+{{defn|}}
+
+{{term|[[dwarf star]]}}
+{{defn|The category of ordinary {{gli|main sequence}} stars like the {{gli|Sun}}, in contrast to [[stellar evolution|evolved]] [[giant star]]s like [[Betelgeuse]] and [[Antares]]. Confusingly, the term has also come to include {{gli|stellar remnant|stellar remnants}} known as {{gli|white dwarf|white dwarfs}} as well as low-mass {{gli|substellar object|substellar objects}} known as {{gli|brown dwarf|brown dwarfs}}.}}
+{{glossaryend}}
+
+==E==
+{{glossary}}
+{{term|[[early-type star]]}}
+{{defn|A hotter and more massive star, in contrast to {{gli|late-type star|late-type stars}} that are cooler and less massive. The term originated from historical stellar models that assumed stars began their early life at a high temperature then gradually cooled off as they aged. It may be used to refer to the higher-temperature members of any particular population or category of stars, rather than of all stars in general.}}
+
+{{term|[[Orbital eccentricity|eccentricity]]}}
+{{defn|See ''{{gli|orbital eccentricity}}''.}}
+
+{{term|[[ecliptic coordinate system]]}}
+{{defn|}}
+
+{{anchor|ecliptic}}{{term|[[ecliptic plane]]}}
+{{ghat|Also called the '''plane of the ecliptic''' or simply the '''ecliptic'''.}}
+{{defn|The [[plane (geometry)|plane]] defined by the [[Earth's orbit]] around the {{gli|Sun}}. Hence, the position of the Sun as viewed from the Earth defines the intersection of this plane with the {{gli|celestial sphere}}. The ecliptic is widely used as a {{gli|plane of reference|reference plane}} for describing the position of other {{gli|Solar System}} bodies within various {{gli|celestial coordinate system|celestial coordinate systems}}. It differs from the {{gli|celestial equator}} because of the {{gli|axial tilt}} of the Earth.}}
+
+{{term|[[effective temperature]]}}
+{{defn|(of a star or planet) The temperature of an ideal [[black body]] that would emit the same total amount of [[electromagnetic radiation]].}}
+
+{{term|[[elliptical galaxy]]}}
+{{defn|A type of {{gli|galaxy}} with an approximately [[ellipsoid]]al shape and a smooth, nearly featureless appearance. They are one of three main morphological classes of galaxy, along with {{gli|spiral galaxy|spiral}} and {{gli|lenticular galaxy|lenticular galaxies}}.}}
+
+{{term|[[elliptical orbit]]}}
+{{ghat|Also '''elliptic orbit'''.}}
+{{defn|A type of {{gli|Kepler orbit}} with an {{gli|orbital eccentricity}} of less than 1 (often inclusive of {{gli|circular orbit|circular orbits}}, which have eccentricity equal to 0), or one with negative {{gli|specific orbital energy|energy}}. Elliptical orbits take the shape of an [[ellipse]], and are very common in two-body astronomical systems.}}
+[[File:Elliptic_orbit.gif|right|thumb|A relatively small body (such as a planet) orbiting a larger one (such as a star) in an {{gli|elliptical orbit}}, with the larger body located at one of the focal points of the ellipse]]
+
+{{term|[[elongation (astronomy)|elongation]]}}
+{{defn|The [[angular separation]] between the {{gli|Sun}} and an orbiting body, such as a {{gli|planet}}, as it appears from Earth.}}
+
+{{term|[[ephemeris]]}}
+{{defn|A list or table of the expected positions of {{gli|astronomical object|astronomical objects}} or {{gli|artificial satellite|artificial satellites}} in the {{gli|sky}} at various dates and times. Modern ephemerides are often provided by computer software.}}
+
+{{term|[[epoch (astronomy)|epoch]]}}
+{{defn|A moment in time used as a reference point for some time-varying astronomical quantity, such as the {{gli|celestial coordinate system|celestial coordinates}} or {{gli|orbital elements}} of an {{gli|astronomical object}}, because such quantities are subject to {{gli|perturbation|perturbations}} and change over time. The primary use of astronomical quantities specified by epochs is to calculate other relevant parameters of motion in order to predict future positions and velocities. In modern usage, astronomical quantities are often specified as a polynomial function of a particular time interval, with a given epoch as the temporal point of origin.}}
+
+{{term|[[equator]]}}
+{{defn|The imaginary line on a gravitationally rounded spheroid such as a {{gli|planet}} that represents the intersection of the spheroid's surface with a [[plane (geometry)|plane]] perpendicular to its {{gli|axis of rotation}} and equidistant from its [[geographical pole]]s. The plane of the Earth's terrestrial equator is the basis for the {{gli|celestial equator}}.}}
+
+{{term|[[equatorial coordinate system]]}}
+{{defn|}}
+
+{{term|[[equinox]]}}
+{{defn|One of two precise times of year when the imaginary plane of the Earth's {{gli|equator}}, {{gli|celestial equator|extended indefinitely in all directions}}, passes through the center of the {{gli|Sun}}, or, equivalently, when the Sun's apparent geocentric {{gli|ecliptic coordinate system|longitude}} is either 0 degrees or 180 degrees.<ref>{{cite book |title=Astronomical Almanac |at=Glossary |publisher=[[United States Naval Observatory]] |year=2008}}</ref> The equinoxes occur on or near {{gli|vernal equinox|March 20}} and {{gli|autumnal equinox|September 22}} each year. On the day of an equinox, the center of the visible Sun appears to be {{gli|zenith|directly above}} the equator, and the durations of day and night are approximately equal all over the planet. Contrast ''{{gli|solstice}}''.}}
+
+{{term|[[escape velocity]]}}
+{{defn|The minimum speed that must be achieved for a free, non-propelled object to escape from the gravitational influence of a massive body, i.e. to achieve an infinite distance from it; more generally, escape velocity is the speed at which the sum of an object's [[kinetic energy]] and [[gravitational potential energy]] is equal to zero. It is a function of the mass of the body and the object's distance to its [[center of mass]]. An object which has achieved escape velocity is neither on the surface nor in a closed {{gli|orbit}} of any radius.}}
+
+{{term|[[evolutionary track]]}}
+{{defn|A curve on the {{gli|Hertzsprung–Russell diagram}} that a solitary {{gli|star}} of a particular mass and composition is expected to follow during the course of its {{gli|stellar evolution|evolution}}. This curve predicts the combination of temperature and {{gli|luminosity}} that a star will have during part or all of its lifetime.<ref name=maurizio_santi2005/>}}
+[[File:Stellar evolutionary tracks-en.svg|right|thumb|Sample {{gli|evolutionary track|evolutionary tracks}} for stars of different mass]]
+
+{{term|[[Extinction (astronomy)|extinction]]}}
+{{defn|The [[Absorption (electromagnetic radiation)|absorption]] and [[scattering]] of [[electromagnetic radiation]] by matter (dust and gas) between an emitting {{gli|astronomical object}} and the [[observation|observer]]. Atmospheric extinction varies by the wavelength of the radiation, with the [[attenuation]] being greater for blue light than for red.}}
+
+{{term|[[extragalactic astronomy]]}}
+{{defn|The branch of astronomy that studies objects and phenomena outside of the {{gli|Milky Way}} {{gli|galaxy}}, i.e. all objects not covered by {{gli|galactic astronomy}}.}}
+
+{{anchor|extrasolar}}{{term|[[extrasolar object]]}}
+{{defn|Any {{gli|astronomical object}} that exists outside the {{gli|Solar System}}. The term is generally not applied to {{gli|star|stars}} or any objects larger than a star or the Solar System itself, such as {{gli|galaxy|galaxies}}.}}
+
+{{term|[[extrasolar planet]]}}
+{{ghat|Also called an '''exoplanet'''.}}
+{{defn|Any {{gli|planet}} outside the Earth's {{gli|Solar System}}.}}
+{{glossaryend}}
+
+==F==
+{{glossary}}
+{{term|[[facula]]}}
+{{defn|A bright spot on a {{gli|star}}'s {{gli|photosphere}} formed by concentrations of [[magnetic field line]]s. For the {{gli|Sun}} in particular, faculae are most readily observed near the {{gli|limb darkening|solar limb}}. An increase in faculae as a result of a stellar cycle increases the star's total irradiance.}}
+
+{{term|[[field galaxy]]}}
+{{defn|Any {{gli|galaxy}} that does not belong to a larger cluster of galaxies and is gravitationally isolated.}}
+
+{{anchor|field star}}{{term|field star}}
+{{defn|A randomly situated {{gli|star}} that lies along the [[sightline|line of sight]] to a group of physically associated stars under study, such as a {{gli|star cluster}}. These field stars are important to identify in order to prevent them from contaminating the results of a study.<ref name=Ridpath2012/>}}
+
+{{term|[[first light (astronomy)|first light]]}}
+{{defn|The first use of a newly constructed {{gli|telescope}} or other instrument to take an {{gli|astrophotography|astronomical image}}.}}
+
+{{anchor|First Point of Aries}}{{term|[[First Point of Aries]] (♈︎)}}
+{{ghat|Also called the '''Cusp of Aries'''.}}
+{{defn|The location of the {{gli|March equinox}} upon the {{gli|celestial sphere}}, used as a reference point in {{gli|celestial coordinate system|celestial coordinate systems}}. Located in the {{gli|constellation}} [[Pisces (constellation)|Pisces]], the First Point of Aries defines the {{gli|ecliptic coordinate system|ecliptic coordinate}} of (0°, 0°) and represents the point at which the {{gli|Sun}} meets the {{gli|celestial equator}} while traveling from south to north each year. It is directly opposite the {{gli|First Point of Libra}}.}}
+
+{{term|[[First Point of Libra]]}}
+{{defn|The location of the {{gli|September equinox}} upon the {{gli|celestial sphere}}, used as a reference point in {{gli|celestial coordinate system|celestial coordinate systems}}. Located in the {{gli|constellation}} [[Virgo (constellation)|Virgo]], the First Point of Libra represents the point at which the {{gli|Sun}} meets the {{gli|celestial equator}} while traveling from north to south each year. It is directly opposite the {{gli|First Point of Aries}}.}}
+
+{{anchor|background stars}}{{term|[[fixed stars]]}}
+{{ghat|Also called '''background stars'''.}}
+{{defn|The "background" of {{gli|astronomical object|astronomical objects}} in the {{gli|night sky}} which are so distant from observers on Earth that they do not appear to move relative to each other, as opposed to the "foreground" of objects within the {{gli|Solar System}} which do. The fixed stars are typically taken to include all {{gli|star|stars}} other than the {{gli|Sun}}, as well as all other {{gli|extrasolar object|extrasolar}} and {{gli|deep-sky object|deep-sky objects}}.}}
+
+{{term|[[flare star]]}}
+{{defn|A class of {{gli|variable star}} that undergoes sudden, dramatic increases in brightness due to [[magnetic activity]] on its surface. This change in brightness occurs across the [[electromagnetic spectrum]] from [[radio]] waves to [[X-ray astronomy|X-rays]]. Most flare stars are faint {{gli|red dwarf|red dwarfs}}.}}
+
+{{term|[[Fulton gap]]}}
+{{defn|The apparent uncommonness of {{gli|planet|planets}} having a size between 1.5 and 2 times that of the Earth.}}
+{{glossaryend}}
+
+==G==
+{{glossary}}
+{{term|[[galactic astronomy]]}}
+{{defn|The branch of astronomy that studies objects and phenomena within the {{gli|Milky Way}} {{gli|galaxy}}, as opposed to everything outside of the Milky Way, which is the domain of {{gli|extragalactic astronomy}}.}}
+
+{{term|[[galactic anticenter]]}}
+{{defn|}}
+
+{{term|[[Galactic Center]]}}
+{{defn|The rotational {{gli|central massive object|center}} of the {{gli|Milky Way}} {{gli|galaxy}}, consisting of a {{gli|supermassive black hole}} of 4.100 ± 0.034 million {{gli|solar mass|solar masses}}. It is approximately {{convert|8,200|pc|ly}} away from Earth in the direction of the {{gli|constellation|constellations}} [[Sagittarius (constellation)|Sagittarius]], [[Ophiuchus]], and [[Scorpius]], where the Milky Way appears brightest.}}
+
+{{term|[[galactic coordinate system]]}}
+{{defn|}}
+
+{{term|[[galactic corona]]}}
+{{defn|}}
+
+{{term|[[galactic nucleus]]}}
+{{ghat|Also called the '''galactic core''' or '''galactic center'''.}}
+{{defn|The region at the center of a {{gli|galaxy}}, usually home to a very dense concentration of stars and gas. It almost always includes a {{gli|supermassive black hole}} which, when active, can generate a much higher {{gli|luminosity}} in a compact region than its surroundings. This excess luminosity is known as an {{gli|active galactic nucleus}}, and the brightest such active galaxies are known as {{gli|quasar|quasars}}.}}
+
+{{term|[[galactic year|galactic period]]}}
+{{ghat|Also called the '''galactic year''' or '''cosmic year'''.}}
+{{defn|The time a given {{gli|astronomical object}} within a {{gli|galaxy}} takes to complete one {{gli|orbit}} around the {{gli|galactic center}}. Estimates of the duration of one revolution of the {{gli|Solar System}} about the center of the {{gli|Milky Way}} range from 225 to 250 million terrestrial years.}}
+
+{{term|[[galactic tide]]}}
+{{defn|The {{gli|tidal force}} experienced by objects subject to the [[gravitational field]] of a {{gli|galaxy}} such as the {{gli|Milky Way}}.}}
+
+{{term|[[galaxy]]}}
+{{defn|A large, gravitationally bound system of {{gli|star|stars}}, {{gli|stellar remnant|stellar remnants}}, {{gli|interstellar medium|interstellar gas}}, {{gli|cosmic dust|dust}}, and {{gli|dark matter}}, each of which orbits a {{gli|galactic nucleus|center of mass}}. Galaxies may contain hundreds of billions of stars and are categorized according to their visual morphology as {{gli|elliptical galaxy|elliptical}}, {{gli|spiral galaxy|spiral}}, or {{gli|irregular galaxy|irregular}}. Most of the galaxies in the {{gli|observable universe}} are between {{convert|1000|and|3000|pc|ly}} in diameter though some, including the {{gli|Milky Way}}, are much larger.}}
+
+{{term|[[galaxy cluster]]}}
+{{defn|A large-scale structure consisting of hundreds or thousands of {{gli|galaxy|galaxies}} bound together by gravity. Galaxy clusters are distinct from similarly named {{gli|open cluster|galactic clusters}} and other types of {{gli|star cluster|star clusters}} and from smaller aggregates of galaxies known as {{gli|galaxy group|galaxy groups}}. Galaxy groups and galaxy clusters can themselves cluster together to form {{gli|supercluster|superclusters}}.}}
+
+{{term|[[galaxy group]]}}
+{{defn|}}
+
+{{term|[[Galilean moons]]}}
+{{defn|A collective name for the four {{gli|natural satellite|moons}} of [[Jupiter]] discovered by [[Galileo Galilei]] in 1610: [[Io (moon)|Io]], [[Europa (moon)|Europa]], [[Ganymede (moon)|Ganymede]], and [[Callisto (moon)|Callisto]].}}
+
+{{term|[[gamma-ray astronomy]]}}
+{{defn|The subfield of {{gli|astronomy}} that studies {{gli|astronomical object|astronomical objects}} detectable at [[gamma ray|gamma-ray]] wavelengths.}}
+
+{{anchor|gamma-ray burst}}{{term|[[gamma-ray burst]] (GRB)}}
+{{defn|A cataclysmic event that generates a brief but intense outburst of [[gamma ray]] radiation which can be detected from billions of {{gli|light-year|light-years}} away. The source of most GRBs is theorized to be {{gli|supernova}} or {{gli|hypernova}} explosions of high-mass stars. Short GRBs may also result from the collision of {{gli|neutron star|neutron stars}}.}}
+
+{{term|[[gas giant]]}}
+{{defn|A {{gli|giant planet}} composed mainly of [[hydrogen]] and [[helium]] gases rather than heavier elements, e.g. [[Jupiter]] and [[Saturn]] in the {{gli|Solar System}}.}}
+
+{{term|[[wikt:geocentric|geocentric]]}}
+{{defn|Centered upon the [[Earth]], e.g. a geocentric orbit.}}
+
+{{term|[[geometric albedo]]}}
+{{defn|The ratio of the brightness of an astronomical body at a {{gli|phase angle}} of zero to an idealized flat, fully reflecting, [[diffuse reflection|diffusively scattering]] ([[Lambertian]]) disk with the same cross-section. It is a measure of how much of the incoming illumination is being scattered back toward an observer and has a value between zero and one.}}
+
+{{anchor|geostationary orbit}}{{term|[[geostationary orbit]]}}
+{{ghat|Also called a '''geosynchronous equatorial orbit''' ('''GEO''').}}
+{{defn|A {{gli|circular orbit|circular}} {{gli|geosynchronous orbit}}, which maintains a constant altitude of {{convert|35786|km|mi}} directly above Earth's {{gli|equator}} in the {{gli|prograde motion|same direction}} as [[Earth's rotation]] such that, to an observer on Earth's surface, the orbiting object appears motionless, in a fixed position in the sky. {{gli|artificial satellite|Artificial satellites}} are often placed in geostationary orbit so that antennas on Earth do not have to rotate to track them.}}
+
+{{anchor|geosynchronous orbit}}{{term|[[geosynchronous orbit]] (GSO)}}
+{{defn|A {{gli|synchronous orbit}} about the Earth, i.e. with an {{gli|orbital period}} equal to Earth's {{gli|rotation period|rotational period}}, such that the orbiting object appears to return to exactly the same position in the sky after a period of one {{gli|sidereal day}}. All geosynchronous orbits have a {{gli|semi-major axis}} equal to {{convert|35786|km|mi}}; {{gli|geostationary orbit|geostationary orbits}} are a special case of geosynchronous orbits.}}
+
+{{term|[[giant planet]]}}
+{{defn|Any very large or massive {{gli|planet}}, including {{gli|gas giant|gas giants}} and {{gli|ice giant|ice giants}}.}}
+
+{{term|[[globular cluster]]}}
+{{defn|A tight, spherical conglomeration of many thousands of {{gli|star|stars}} which are gravitationally bound to each other and which {{gli|orbit}} a {{gli|galactic nucleus|galactic core}} as a {{gli|satellite}}. They differ from {{gli|open cluster|open clusters}} in having a much higher combined mass, with a typical lifespan extending for billions of years.}}
+
+{{term|[[gravitational collapse]]}}
+{{defn|}}
+
+{{term|[[gravitational lens]]}}
+{{defn|Any very large distribution of mass, such as a {{gli|galactic cluster}}, which can bend passing light from a distant source by a noticeable degree. The effect, known as ''gravitational lensing'', can make background objects appear to an observer to take on a ring or arc shape.}}
+[[File:A_Horseshoe_Einstein_Ring_from_Hubble.JPG|thumb|A luminous red galaxy (LRG) acting as a {{gli|gravitational lens}}, distorting the light from a much more distant blue galaxy into an [[Einstein ring]]]]
+
+{{term|[[gravitational-wave astronomy]]}}
+{{defn|A branch of {{gli|observational astronomy}} which analyzes minute distortions in the curvature of [[spacetime]] known as [[gravitational wave]]s to collect observational data about astronomical objects and events such as {{gli|neutron star|neutron stars}}, {{gli|black hole|black holes}}, {{gli|supernova|supernovae}}, and the {{gli|Big Bang}}.}}
+{{glossaryend}}
+
+==H==
+{{glossary}}
+{{term|[[H II region]]}}
+{{defn|An ionized {{gli|nebula}} powered by young, massive [[O-type star]]s. [[Ultraviolet]] [[photon]]s from these hot stars ionize gas in the surrounding environment, and the nebular gas shines brightly in [[Hydrogen spectral series|spectral lines of hydrogen]] and other elements. Because O-type stars have relatively short lifetimes (typically a few million years), the presence of an H II region indicates that massive star formation has taken place recently at that location. H II regions are often found in the arms of {{gli|spiral galaxy|spiral galaxies}} and in star-forming {{gli|irregular galaxy|irregular galaxies}}.}}
+
+{{term|[[wikt:heliocentric|heliocentric]]}}
+{{defn|Centered upon the Earth's {{gli|Sun}}, e.g. a heliocentric orbit.}}
+
+{{term|heliopause}}
+{{defn|}}
+
+{{term|[[heliosphere]]}}
+{{defn|The vast, bubble-like cavity in the {{gli|interstellar medium}} which surrounds and is created by the {{gli|solar wind|plasma}} emanating from the Earth's {{gli|Sun}}. The heliosphere encompasses the entirety of the {{gli|Solar System}} and a vast region of space beyond it. Its outer limit is often considered the boundary between matter originating from the Sun and matter originating from the rest of the galaxy.}}
+
+{{term|[[Hertzsprung–Russell diagram]]}}
+{{defn|A plot of {{gli|luminosity}} versus {{gli|effective temperature}} for a population of {{gli|star|stars}}; depending on the usage, the star's {{gli|absolute magnitude}} may be substituted for luminosity, and its {{gli|color index}} or {{gli|spectral type}} for temperature. Single stars of known mass and composition follow predictable {{gli|evolutionary track|tracks}} across this chart over the course of their {{gli|stellar evolution|evolution}}. Hence, knowing a star's mass and {{gli|metallicity}} allows its age to be estimated. Stars of similar types are also found grouped together in specific regions of the chart, including {{gli|main sequence}}, {{gli|red giant}}, and {{gli|white dwarf}} stars.}}
+
+{{term|[[Hill sphere]]}}
+{{ghat|Also called the '''Hill radius'''.}}
+{{defn|The approximate region around an {{gli|astronomical object}} within which its gravitational attraction dominates the motions of {{gli|satellite|satellites}}. It is computed with respect to the next most gravitationally attractive object, such as the nearest star or the {{gli|galactic nucleus|galactic core}}. Satellites moving outside this radius tend to be perturbed away from the main body.<ref name=Chebotarev1964/>}}
+
+{{term|hypergalaxy}}
+{{defn|A system consisting of a large {{gli|galaxy}} accompanied by multiple smaller {{gli|satellite galaxy|satellite galaxies}} (often [[Dwarf elliptical galaxy|elliptical]]) as well as its {{gli|galactic corona}}. The {{gli|Milky Way}} and [[Andromeda Galaxy|Andromeda]] systems are examples of hypergalaxies.<ref name=Einasto1977/>}}
+{{glossaryend}}
+
+==I==
+{{glossary}}
+{{term|[[ice giant]]}}
+{{defn|A {{gli|giant planet}} composed mainly of elements heavier than [[hydrogen]] or [[helium]] (such as [[oxygen]], [[carbon]], [[nitrogen]], and [[sulfur]]), especially chemical {{gli|volatile|volatiles}} with freezing points above {{convert|100|K|C}}, e.g. [[Uranus]] and [[Neptune]] in the {{gli|Solar System}}.}}
+
+{{term|[[orbital inclination|inclination]]}}
+{{defn|See ''{{gli|orbital inclination}}''.}}
+
+{{term|[[inferior planet]]}}
+{{defn|An archaic term that is sometimes used to refer to the planets [[Mercury (planet)|Mercury]] and [[Venus]]. The name originated from the fact that these planets orbit closer to the {{gli|Sun}} than the Earth and hence, in the [[geocentric]] {{gli|cosmology}} of [[Ptolemy]], both appeared to travel with the Sun across the sky. This is in contrast to the so-called {{gli|superior planet|superior planets}}, such as [[Mars]], which appeared to move independently of the Sun.}}
+
+{{term|[[infrared astronomy]]}}
+{{defn|The subfield of {{gli|astronomy}} that studies {{gli|astronomical object|astronomical objects}} detectable at [[infrared]] wavelengths.}}
+
+{{anchor|IAU}}{{term|[[International Astronomical Union]] (IAU)}}
+{{defn|}}
+
+{{anchor|interstellar medium}}{{term|[[interstellar medium]] (ISM)}}
+{{defn|The [[matter]] that exists in the space between the {{gli|star|stars}} in a {{gli|galaxy}}. This medium mainly consists of [[hydrogen]] and [[helium]], but is enhanced by traces of other elements contributed by matter expelled from stars.}}
+
+{{term|[[interstellar reddening]]}}
+{{defn|An effect produced by the incremental absorption and scattering of electromagnetic energy from interstellar matter, known as {{gli|extinction}}. This effect causes the more distant objects such as stars to appear redder and dimmer than expected. It is not to be confused with the separate phenomenon of {{gli|redshift}}.}}
+
+{{term|[[invariable plane]]}}
+{{ghat|Also called '''Laplace's invariable plane''' or the '''Laplace plane'''.}}
+{{defn|The imaginary plane passing through the {{gli|barycenter}} of a {{gli|planetary system}} and perpendicular to its [[angular momentum]] vector, and which may be regarded as the weighted average of all planetary {{gli|orbital plane|orbital}} and rotational planes comprising the system.}}
+
+{{term|[[ionosphere]]}}
+{{defn|}}
+
+{{term|[[irregular galaxy]]}}
+{{defn|}}
+
+{{term|[[irregular moon]]}}
+{{defn|A {{gli|natural satellite}} following a distant, {{gli|orbital inclination|inclined}}, and often {{gli|orbital eccentricity|eccentric}} and {{gli|retrograde motion|retrograde}} orbit about its {{gli|primary}}. Irregular moons are thought to be captured from other orbits, as opposed to {{gli|regular moon|regular moons}}, which are thought to form ''in situ''.}}
+
+{{term|[[Tautochrone curve|isochrone]]}}
+{{defn|A curve on the {{gli|Hertzsprung–Russell diagram}} that represents the {{gli|stellar evolution|evolutionary}} positions of stars having the same age but differing masses. This is in contrast to an {{gli|evolutionary track}}, which is a plot of stars having the same mass but differing ages. In fact, multiple evolutionary tracks can be used to build isochrones by putting curves through equal-age points along the tracks. When the mass of a star can be determined, an isochrone can be used to estimate the star's age.}}
+{{glossaryend}}
+
+==J==
+{{glossary}}
+{{term|[[Jeans instability]]}}
+{{defn|A physical state in which an {{gli|interstellar cloud}} of gas will begin to undergo collapse and form stars. A cloud can become unstable against collapse when it cools sufficiently or has perturbations of density, allowing gravity to overcome the gas pressure.}}
+
+{{anchor|Julian year}}{{term|[[Julian year (astronomy)|Julian year]] (a)}}
+{{defn|A unit of time defined as exactly 365.25 days of 86,400 [[International System of Units|SI]] seconds each. Because these are units of constant duration, the Julian year is also constant and does not vary with a specific calendar or with any of the other means of determining the length of a year, such as the {{gli|tropical year}}. It is therefore widely used as the basis for defining the standard astronomical {{gli|epoch}} and the {{gli|light-year}}.}}
+{{glossaryend}}
+
+==K==
+{{glossary}}
+{{term|[[Kelvin–Helmholtz mechanism]]}}
+{{defn|}}
+
+{{term|[[Kepler orbit]]}}
+{{ghat|Also called a '''Keplerian orbit'''.}}
+{{defn|The motion of one {{gli|orbit|orbiting}} body relative to another, as an [[ellipse]], [[parabola]], or [[hyperbola]], which forms a two-dimensional {{gli|orbital plane}} (or sometimes a straight line) in three-dimensional space. Kepler orbits are idealized mathematical constructions which consider only the point-like gravitational attraction of two bodies, neglecting more complex orbital {{gli|perturbation|perturbations}} that may exist in reality.}}
+
+{{term|[[Kuiper belt]]}}
+{{ghat|Also called the '''Edgeworth–Kuiper belt'''.}}
+{{defn|A {{gli|circumstellar disc}} of {{gli|small Solar System body|small Solar System bodies}} such as {{gli|asteroid|asteroids}}, {{gli|trojan|trojans}}, and {{gli|centaur|centaurs}} in the outer {{gli|Solar System}}, extending between 30 and 50 {{gli|astronomical unit|AU}} from the {{gli|Sun}}. It is similar to the {{gli|asteroid belt}} but far larger, and is home to several {{gli|dwarf planet|dwarf planets}}, including [[Pluto]].}}
+{{glossaryend}}
+
+==L==
+{{glossary}}
+{{term|[[Lagrangian point]]}}
+{{ghat|Also called a '''Lagrange point''', '''libration point''', or '''L-point'''.}}
+{{defn|Any of a set of points near two large {{gli|astronomical body|bodies}} in {{gli|orbit}} at which a smaller object will maintain a constant position relative to the larger bodies. At other locations, a small object would eventually be pulled into its own orbit around one of the large bodies, but at the Lagrangian points the [[gravity|gravitational forces]] of the large bodies, the [[centripetal force]] of orbital motion, and (in certain scenarios) the [[Coriolis force|Coriolis acceleration]] all align in a way that causes the small object to become "locked" in a stable or nearly stable relative position. For each combination of two orbital bodies, there are five such Lagrangian points, typically identified with the labels ''L<sub>1</sub>'' to ''L<sub>5</sub>''. The phenomenon is the basis for the stable orbits of {{gli|trojan satellite|trojan satellites}} and is commonly exploited by {{gli|artificial satellite|man-made satellites}}.}}
+
+{{term|[[Laniakea Supercluster]]}}
+{{ghat|Also called the '''Lenakaeia Supercluster''', '''Local Supercluster''', or '''Local SCI'''.}}
+{{defn|}}
+
+{{term|[[late-type star]]}}
+{{defn|}}
+
+{{term|[[libration]]}}
+{{defn|A slight oscillating motion of the {{gli|Moon}} as seen from the Earth, a result of the [[orbit of the Moon|Moon's elliptical orbit]]. It can allow normally hidden parts of the Moon's [[far side of the Moon|far side]] to be visible along the ''[[wikt:limb#Etymology 2|limbs]]'' of the lunar disk.}}
+
+{{anchor|light-year}}{{term|[[light-year]] (ly)}}
+{{defn|A unit of length used to express astronomical distances that is equivalent to the distance that an object moving at the {{gli|speed of light}} in a vacuum would travel in one {{gli|Julian year}}: approximately 9.46 trillion kilometres (9.46 x 10<sup>12</sup> km) or 5.88 trillion miles (5.88 x 10<sup>12</sup> mi). Though the light-year is often used to measure {{gli|galaxy|galactic}}-scale distances in non-specialist publications, the unit of length most commonly used in professional {{gli|astrometry}} is the {{gli|parsec}}.}}
+
+{{term|[[limb darkening]]}}
+{{defn|An optical effect seen in stars (including the {{gli|Sun}}), where the center part of the disk appears brighter than the edge or ''[[wikt:limb#Etymology 2|limb]]'' of the image.}}
+
+{{term|line of apsides}}
+{{defn|The imaginary line connecting the two {{gli|apsis|apsides}} (the {{gli|periapsis}} and the {{gli|apoapsis}}) of an {{gli|elliptical orbit}}, and which therefore represents the distance of the orbit's longest axis.}}
+
+{{term|[[Local Group]]}}
+{{defn|}}
+
+{{anchor|longitude of the ascending node}}{{term|[[longitude of the ascending node]] (☊ or Ω)}}
+{{defn|The angle between a specified reference direction, called the {{gli|origin of longitude}}, and the direction of an {{gli|orbit}}'s {{gli|ascending node}}, as measured on a specified {{gli|plane of reference}}. The angle is typically measured eastwards from the reference direction to the ascending node (i.e. counterclockwise as seen from the north). It is one of six canonical {{gli|orbital elements}} used to characterize an orbit.}}
+
+{{term|[[luminosity]]}}
+{{defn|The total amount of energy emitted per unit time by a {{gli|star}}, {{gli|galaxy}}, or other {{gli|astronomical object}}. In [[International System of Units|SI]] units, luminosity is measured in [[joule]]s per second or [[watt]]s, and is often given in terms of {{gli|magnitude|astronomical magnitude}}. Luminosity is related to but distinct from {{gli|apparent magnitude|visual brightness}}.}}
+
+{{term|[[lunar phases]]}}
+{{defn|}}
+{{glossaryend}}
+
+==M==
+{{glossary}}
+{{term|[[magnetosphere]]}}
+{{defn|A mostly convex region formed when a plasma, such as the {{gli|solar wind}}, interacts with the magnetic field of a body, such as a {{gli|planet}} or {{gli|star}}.}}
+
+{{term|[[Magnitude (astronomy)|magnitude]]}}
+{{defn|A numerical [[logarithm]]ic scale indicating the brightness of an {{gli|astronomical object}}, where the lower the value, the brighter the object. By convention, a first magnitude star is 100 times as bright as a sixth magnitude star. Magnitude 6 is considered the lower limit of objects that can be seen with the [[naked eye]], although this can vary depending on seeing conditions and eyesight.}}
+
+{{term|[[main sequence]]}}
+{{defn|A category of stars which form a continuous and distinctive band on plots of stellar temperature versus {{gli|luminosity}}. These stars are characterized by being in [[hydrostatic equilibrium]] and undergoing [[nuclear fusion]] of [[hydrogen-1]] in their core region. The {{gli|Sun}} is a main sequence star.}}
+
+{{term|[[March equinox]]}}
+{{ghat|Also called the '''Northward equinox'''.}}
+{{defn|The precise time of year on Earth when the Sun appears to cross the {{gli|celestial equator}}, while generally trending northward at each {{gli|zenith}} passage. It represents the moment at which the [[North Pole]] of the Earth begins to tilt toward the Sun, and typically occurs on or near March 20 each year. It is the ''vernal equinox'' in the Northern Hemisphere and the ''autumnal equinox'' in the Southern Hemisphere. Contrast ''{{gli|September equinox}}''.}}
+
+{{anchor|mean anomaly}}{{term|term=[[mean anomaly]]|content=[[mean anomaly]] ({{math|''M''}})}}
+{{defn|The fraction of an {{gli|elliptical orbit}}'s {{gli|orbital period|period}} that has elapsed since the orbiting body passed {{gli|periapsis}}, expressed as the angular distance from the {{gli|pericenter}} which a fictitious body would have if it moved in a perfectly {{gli|circular orbit}} in the same {{gli|orbital period}} as the actual body in its elliptical orbit. The mean anomaly does not correspond to a real geometric angle, as does the {{gli|true anomaly}}, but is a contrived parameter used to make calculating the position of the orbiting body in the {{gli|two-body problem}} mathematically convenient.}}
+
+{{term|[[Meridian (astronomy)|meridian]]}}
+{{defn|A line running north–south across the {{gli|sky}} and passing through the point directly overhead known as the {{gli|zenith}}.}}
+
+{{term|[[Messier object]]}}
+{{defn|One of a set of 110 "nebulous" astronomical objects, of which 103 were catalogued by French {{gli|comet}} hunter [[Charles Messier]] between 1771 and 1781.}}
+
+{{term|[[meteor]]}}
+{{ghat|Also called a '''shooting star''' or '''falling star'''.}}
+{{defn|The visible passage of a glowing {{gli|meteoroid}}, {{gli|micrometeoroid}}, {{gli|comet}}, or {{gli|asteroid}} through the Earth's {{gli|atmosphere}}, usually as a long streak of light produced when such an object is heated to [[incandescence]] by collisions with air molecules in the upper atmosphere, leaving an ionization trail as a result of its rapid motion and sometimes also the shedding of material in its wake.}}
+
+{{term|[[meteorite]]}}
+{{defn|A solid piece of debris from a {{gli|meteor}} that originated in outer space and survived its passage through the atmosphere to reach the surface of a planet or moon.}}
+
+{{term|[[meteoroid]]}}
+{{defn|A small rock or boulder that has entered a planetary {{gli|atmosphere}}. If it survives to reach the surface, it is then termed a {{gli|meteorite}}.}}
+
+{{term|[[meteor shower]]}}
+{{defn|A series of {{gli|meteor|meteors}} that seemingly radiate from a single area in the {{gli|night sky}}. These are produced by debris left over from a larger body, such as a {{gli|comet}}, and hence they follow roughly the same {{gli|orbit}}. This makes many meteor showers predictable events, as they recur every year.}}
+
+{{term|[[metallicity]]}}
+{{defn|A measure of the abundance of elements other than [[hydrogen]] and [[helium]] within an astronomical object. Note that this definition includes elements that are not traditionally considered metallic by chemical convention.}}
+
+{{term|[[micrometeorite]]}}
+{{defn|A very small {{gli|meteorite}} that has survived its passage through the atmosphere to reach the surface of a planet or moon, usually ranging in size from 50 [[micrometer|µm]] to 2 [[millimeter|mm]]. Micrometeorites are a major component of {{gli|cosmic dust}}.}}
+
+{{term|[[micrometeoroid]]}}
+{{defn|A very small {{gli|meteoroid}}, usually weighing less than one gram. If it survives to reach a planetary surface, it is then termed a {{gli|micrometeorite}}.}}
+
+{{term|microvariable}}
+{{defn|A stellar object such as a {{gli|variable star}} that undergoes very small variations in {{gli|luminosity}}. Detecting microvariability typically requires a sufficient number of observations to rule out random error as a source.<ref name=Rufener1982/>}}
+
+{{term|[[Milky Way]]}}
+{{defn|}}
+
+{{term|[[minor planet]]}}
+{{defn|An object in direct {{gli|orbit}} around the {{gli|Sun}} that is neither a dominant {{gli|planet}} nor originally classified as a {{gli|comet}}. A {{gli|natural satellite|moon}} is not a minor planet because it orbits another body instead of the Sun.}}
+
+{{term|[[molecular cloud]]}}
+{{defn|An {{gli|interstellar cloud}} in which the prevailing physical conditions allow molecules to form, including [[molecular hydrogen]].}}
+
+{{term|[[moment of inertia factor]]}}
+{{ghat|Also called the '''normalized polar moment of inertia'''.}}
+{{defn|}}
+
+{{term|[[natural satellite|moon]]}}
+{{defn|See ''{{gli|natural satellite}}''.}}
+
+{{anchor|Moon}}{{term|[[Moon]]}}
+{{defn|The solid, rocky body that orbits the Earth as its only {{gli|natural satellite}}, completing a full orbit every 27.3 days. The Moon's gravitational influence is responsible for {{gli|tide|tides}} on Earth; because of {{gli|tidal locking}}, only one side of the Moon is ever visible from the Earth. Sunlight reflected from its surface makes the Moon appear very bright in the {{gli|night sky}}, though its orbital position with respect to the Earth and the {{gli|Sun}} causes its visibility to change in a regular cycle of {{gli|lunar phases|phases}} when viewed from the Earth. The adjectival ''lunar'' is often used to specifically describe the orbit, gravity, and other properties of the Earth's Moon.}}
+
+{{term|[[moonlet]]}}
+{{defn|}}
+
+{{term|[[stellar classification|Morgan–Keenan classification system]]}}
+{{ghat|Also called the '''MK classification'''.}}
+{{defn|}}
+
+{{term|[[morning width]]}}
+{{ghat|Also called '''rise width'''.}}
+{{defn|The horizontal angular distance between the rise {{gli|azimuth}} of a {{gli|celestial body}} and the east direction.<ref name="AFB2015">{{cite book |title=Astronomy for beginners : all you need to know to get started in astronomy |date=2015 |isbn=978-1785461477 |page=151 |edition=Third |url=https://archive.org/details/AstronomyForBeginnersThirdEdition |language=English}}</ref><ref name="Esken2000">{{cite web |last1=Esken |first1=Thomas |title=Gcal 4.1: Appendix N Glossary |url=https://www.gnu.org/software/gcal/manual/html_node/Glossary.html |website=www.gnu.org |publisher=GNU |accessdate=19 January 2020}}</ref><ref name="Umar2019">{{cite web |last1=Umar |first1=Khalid Bin |title=Al Khwarizmi: A Medieval Polymath |url=http://www.tawarikhkhwani.com/al-khwarizmi-a-medieval-polymath/ |website=TAWARIKHKHWANI |publisher=www.tawarikhkhwani.com |accessdate=19 January 2020 |date=18 August 2019}}</ref>}}
+
+{{term|[[moving group]]}}
+{{ghat|Also called a '''stellar association'''.}}
+{{defn|A loose grouping of {{gli|star|stars}} which travel together through space. Although the members were formed together in the same {{gli|molecular cloud}}, they have since moved too far apart to be gravitationally bound as a {{gli|star cluster|cluster}}.}}
+
+{{term|[[multi-messenger astronomy]]}}
+{{defn|A type of {{gli|astronomy}} based on the acquisition of information about {{gli|astronomical object|astronomical objects}} by the coordinated observation and interpretation of disparate classes of "messenger" signals with {{gli|extrasolar}} origins: [[electromagnetic radiation]], [[gravitational wave]]s, {{gli|neutrino|neutrinos}}, and {{gli|cosmic ray|cosmic rays}}. Because these four extrasolar messengers are created by different astrophysical processes, their presence or absence during a celestial event can reveal useful information about their sources.}}
+
+{{term|[[multiverse]]}}
+{{defn|}}
+{{glossaryend}}
+
+==N==
+{{glossary}}
+{{term|[[natural satellite]]}}
+{{ghat|Also called a '''moon'''.}}
+{{defn|Any {{gli|astronomical body}} that {{gli|orbit|orbits}} a {{gli|planet}}, {{gli|minor planet}}, or sometimes another {{gli|small Solar System body}}.}}
+
+{{anchor|near-Earth object}}{{term|[[near-Earth object]] (NEO)}}
+{{defn|Any {{gli|small Solar System body}}, such as an {{gli|asteroid}} or {{gli|comet}}, whose orbit brings it into proximity with [[Earth]], generally by being less than 1.3 {{gli|astronomical unit|AU}} from the {{gli|Sun}} at its {{gli|perihelion|closest approach}}.}}
+
+{{term|[[nebula]]}}
+{{defn|Any {{gli|astronomical object}} of indistinct nebulosity. In modern usage, the term typically refers to an {{gli|interstellar cloud}} of {{gli|cosmic dust|dust}}, [[hydrogen]], [[helium]], and other [[ionized gases]]. Historically, it was also used to refer to extended sources of {{gli|luminosity}} that could not be resolved into their individual components, such as {{gli|star cluster|star clusters}} and {{gli|galaxy|galaxies}}.}}
+
+{{term|[[neutrino]]}}
+{{defn|}}
+
+{{term|[[neutron star]]}}
+{{defn|A type of {{gli|compact star}} that is composed almost entirely of [[neutron]]s, which are a type of [[subatomic particle]] with no electrical charge. Typically, neutron stars have a mass between about 1.35 and 2.0 times the mass of the {{gli|Sun}}, but with a radius of only {{Convert|12|km|mi|abbr=on|lk=off}}, making them among the densest known objects in the universe.}}
+
+{{anchor|New General Catalogue}}{{term|[[New General Catalogue]] (NGC)}}
+{{defn|}}
+
+{{term|[[night sky]]}}
+{{defn|The appearance of the Earth's {{gli|sky}} at [[nighttime]], when the {{gli|Sun}} is below the [[horizon]], and more specifically when clear weather and low levels of ambient light permit visibility of {{gli|astronomical object|celestial objects}} such as {{gli|star|stars}}, {{gli|planet|planets}}, and the {{gli|Moon}}. The night sky remains a fundamental setting for both amateur and professional {{gli|observational astronomy}}.}}
+
+{{term|[[non-inclined orbit]]}}
+{{defn|Any {{gli|orbit}} that is [[coplanarity|coplanar]] with a specified {{gli|plane of reference}}, such that the {{gli|orbital inclination}} is 0 degrees for {{gli|prograde motion|prograde}} orbits and 180 degrees for {{gli|retrograde motion|retrograde}} ones.}}
+
+{{anchor|nuclear star cluster}}{{term|[[nuclear star cluster]] (NSC)}}
+{{defn|}}
+
+{{term|[[number density]]}}
+{{defn|The quantity of some specified particle or object class per unit volume. For atoms, molecules, or subatomic particles, the volume is typically in cm<sup>−3</sup> or m<sup>−3</sup>. With stars, cubic parsecs (pc<sup>−3</sup>) are often used.}}
+
+{{term|[[astronomical nutation|nutation]]}}
+{{defn|A continuous, gravity-induced change in the orientation of an {{gli|astronomical body}}'s {{gli|axis of rotation}} which results from the combined effects of small, short-term variations. Nutation is distinguished from {{gli|precession}}, which is a similar but longer-term change in axial orientation.}}
+{{glossaryend}}
+
+==O==
+{{glossary}}
+{{term|[[OB association]]}}
+{{defn|A group of massive {{gli|star|stars}} which are not gravitationally bound to each other, but move together through space in a loose association. The OB in the name is a reference to stars of {{gli|stellar classification|stellar classifications}} O and B.}}
+
+{{term|[[obliquity]]}}
+{{defn|See ''{{gli|axial tilt}}''.}}
+
+{{term|[[observable universe]]}}
+{{defn|}}
+
+{{term|[[observational astronomy]]}}
+{{defn|The practice and study of directly observing {{gli|astronomical object|astronomical objects}} with the use of {{gli|telescope|telescopes}} and other astronomical instruments. It is concerned with recording data about the {{gli|observable universe}}, as opposed to {{gli|theoretical astronomy}}, which is concerned with calculating the measurable implications of astronomical models.}}
+
+{{term|[[occultation]]}}
+{{defn|A celestial event that occurs when a distant {{gli|astronomical body}} or {{gli|astronomical object|object}} is hidden by another, nearer body or object that passes between it and the observer, thereby blocking the first object from view. {{gli|solar eclipse|Solar}} and {{gli|lunar eclipse|lunar}} eclipses are specific types of occultations.}}
+
+{{term|[[Oort cloud]]}}
+{{ghat|Also called the '''Öpik–Oort cloud'''.}}
+{{defn|A vast theoretical cloud of predominantly icy {{gli|planetesimal|planetesimals}} hypothesized to surround the {{gli|Sun}} at distances ranging from 2,000 to 200,000 {{gli|astronomical unit|AU}}. It is thought to be divided into two regions: a disc-shaped [[Hills cloud|inner Oort cloud]] and a spherical outer Oort cloud. The outer limit of the Oort cloud is often considered the cosmographical boundary of the {{gli|Solar System}}.}}
+
+{{term|[[Opacity (optics)|opacity]]}}
+{{defn|A measure of the resistance of a medium to the radiative transmission of energy. Within a star, it is an important factor in determining whether [[Convection zone|convection]] occurs.}}
+
+{{term|[[open cluster]]}}
+{{defn|A gravitationally bound group of up to one thousand stars that formed together in the same {{gli|molecular cloud}}.}}
+
+{{term|[[Opposition (planets)|opposition]]}}
+{{defn|The positioning of two celestial objects on opposite sides of the sky, from the perspective of an observer. This occurs, for example, when a planet makes its closest approach to the Earth, placing it in opposition to the Sun.}}
+
+{{term|[[orbit]]}}
+{{defn|The [[gravity|gravitationally]] curved trajectory of an {{gli|astronomical object|object}}, such as the trajectory of a {{gli|planet}} around a {{gli|star}} or a {{gli|natural satellite}} around a planet. Though the smaller body is often said to orbit the larger body itself, both bodies actually follow approximately {{gli|elliptical orbit|elliptical orbits}} around a common {{gli|barycenter|center of mass}} positioned at a focal point of each ellipse. The word "orbit" can variously refer to the elliptical trajectory itself or the act of following this trajectory, and can refer to a stable, regularly repeating trajectory as well as a non-repeating trajectory.}}
+
+{{term|orbit plot}}
+{{ghat|Also called '''orbital plot'''.}}
+{{defn|A schematic diagram of a complete {{gli|orbit}}. For a binary system, it is typically presented from the {{gli|primary}}'s [[frame of reference]].<ref name=Aitken1935/>}}
+
+{{term|[[orbital eccentricity]]}}
+{{defn|A parameter that determines how much an {{gli|orbit}} deviates from a perfect circle. For an {{gli|elliptical orbit}}, the eccentricity ranges from greater than zero to less than one.}}
+
+{{term|[[orbital elements]]}}
+{{defn|The set of parameters that uniquely define an {{gli|orbit}}.}}
+[[File:Orbit1.svg|thumb|A diagram showing four of the six canonical {{gli|orbital elements}}. The {{gli|orbital plane}} (yellow) intersects a {{gli|plane of reference|reference plane}} (grey).]]
+
+{{term|[[orbital inclination]]}}
+{{defn|The tilt of an object's {{gli|orbit}} around an astronomical body, expressed as the angle between the {{gli|orbital plane}} or axis of direction of the orbiting object and a {{gli|plane of reference}}.}}
+
+{{term|[[orbital mechanics]]}}
+{{defn|}}
+
+{{term|[[orbital node]]}}
+{{defn|One of two points at which the {{gli|orbital plane|plane}} of an {{gli|orbit}} intersects a specified {{gli|plane of reference}} to which it is {{gli|orbital inclination|inclined}}; in some contexts, the two nodes may be distinguished as the {{gli|ascending node}} and the {{gli|descending node}}. A {{gli|non-inclined orbit}}, which is coplanar with the reference plane, has no nodes.}}
+
+{{term|[[orbital period]]}}
+{{defn|The time a given {{gli|astronomical object}} takes to complete one {{gli|orbit}} around another object. For objects in the {{gli|Solar System}}, the orbital period is often referred to as the {{gli|sidereal period}}.}}
+
+{{term|[[orbital plane]]}}
+{{defn|The imaginary [[plane (geometry)|geometric plane]] defined by the {{gli|orbit}} of an {{gli|astronomical body}} around its {{gli|primary}}. The [[Earth's orbit|Earth's orbital plane]], which defines the {{gli|ecliptic}}, is commonly used as a {{gli|plane of reference}} for the orbits of other objects in the {{gli|Solar System}}.}}
+
+{{term|[[orbital resonance]]}}
+{{defn|}}
+
+{{term|[[orbital speed]]}}
+{{defn|The [[speed]] at which an astronomical body or object {{gli|orbit|orbits}} around a {{gli|barycenter}}, or its speed relative to the center of mass of the most massive body in the system. The term may be used to refer to either the mean orbital speed, i.e. the average speed over the entire {{gli|orbital period}}, or the instantaneous speed at a particular point in the orbit. Maximum instantaneous orbital speed typically occurs at {{gli|periapsis}}.}}
+
+{{term|origin of longitude}}
+{{defn|}}
+
+{{term|[[osculating orbit]]}}
+{{defn|The hypothetical, idealized {{gli|Kepler orbit}} that an orbiting object would follow around its {{gli|primary}} if all {{gli|perturbation|perturbations}} were absent, i.e. the orbit that coincides with the instantaneous [[orbital state vectors]] at a given moment in time.<ref>{{cite book |first=Forest R. |last=Moulton |title=Introduction to Celestial Mechanics |orig-year=1902 |publisher=Dover |year=1970 |pages=322–23 |isbn=0486646874 |edition=2nd revised |location=[[Mineola, New York]]}}</ref>}}
+
+{{term|[[outer space]]}}
+{{ghat|Also simply called '''space'''.}}
+{{defn|The vast, [[hard vacuum|nearly empty]] expanse that exists beyond the Earth and between all {{gli|astronomical object|celestial bodies}}, characterized generally by extremely low densities of particles, extremely low temperatures, and [[microgravity|minimal gravity]]. Most of the volume of the {{gli|Universe}} is intergalactic space, and even galaxies and star systems consist almost entirely of empty space.}}
+{{glossaryend}}
+
+==P==
+{{glossary}}
+[[File:Stellarparallax parsec1.svg|thumb|The {{gli|stellar parallax|parallax}} shift of a star at a distance of one {{gli|parsec}} as seen from the Earth (not to scale)]]
+{{anchor|parsec}}{{term|[[parsec]] (pc)}}
+{{defn|A unit of length defined as the distance at which a star would show a {{gli|stellar parallax|parallax}} shift of exactly one [[arcsecond]] as observed from Earth's orbit. It is equal to 3.2616&nbsp;{{gli|light-year|light-years}} or 206,265&nbsp;{{gli|astronomical unit|astronomical units}}. The word "parsec" is a [[portmanteau]] of the words ''parallax'' and ''second''.}}
+
+{{term|[[partial solar eclipse]]}}
+{{defn|}}
+
+{{term|[[periapsis]]}}
+{{ghat|Also called the '''pericenter'''.}}
+{{defn|The point at which an orbiting body is closest to its {{gli|primary}}. Contrast ''{{gli|apoapsis}}''.}}
+
+{{term|[[perigee]]}}
+{{defn|The point at which a body orbiting the Earth (such as the {{gli|Moon}} or an {{gli|artificial satellite}}) is closest to the Earth. Contrast ''{{gli|apogee}}''.}}
+
+{{term|[[Perihelion and aphelion|perihelion]]}}
+{{defn|The point at which a body orbiting the Earth's {{gli|Sun}} is closest to the Sun. Contrast ''{{gli|aphelion}}''.}}
+
+{{term|[[Perturbation (astronomy)|perturbation]]}}
+{{defn|The complex motion of an astronomical body that is subject to forces other than the gravitational attraction of its {{gli|primary}} alone, or any force which complicates the {{gli|orbit|orbital}} characteristics of the body such that the idealized {{gli|Kepler orbit}} of the {{gli|two-body problem}} is not an accurate representation of the body's actual orbit. Perturbing forces may include the gravitational forces exerted by any number of additional bodies, the off-center gravitational forces which are consequences of bodies not being perfectly spherical, and/or [[drag (physics)|atmospheric resistance]].}}
+
+{{term|[[Phase angle (astronomy)|phase angle]]}}
+{{defn|The {{gli|elongation}} or angle between an orbiting body and the Sun as viewed from a particular perspective such as the Earth. It determines the amount of a planet or moon's visible surface that lies in shadow. {{gli|inferior planet|Inferior planets}} such as [[Venus]] generally have low phase angles as seen from Earth, so they are often viewed as a crescent; {{gli|superior planet|superior planets}} such as [[Mars]] and [[Jupiter]] usually have high phase angles, so that little of the shadowed side is visible.}}
+
+{{term|[[photometric system]]}}
+{{defn|}}
+
+{{term|[[photosphere]]}}
+{{defn|}}
+
+{{anchor|reference plane}}{{term|[[plane of reference]]}}
+{{ghat|Also called a '''reference plane'''.}}
+{{defn|An arbitrarily chosen, imaginary [[plane (geometry)|plane]] from which to measure and define {{gli|orbital elements}} such as {{gli|inclination}} and {{gli|longitude of the ascending node}}. The {{gli|ecliptic plane}}, {{gli|invariable plane}}, and {{gli|equatorial plane}} are all commonly used as reference planes in various contexts.}}
+
+{{term|[[planet]]}}
+{{defn|A type of {{gli|astronomical body}} {{gli|orbit|orbiting}} a {{gli|star}} or {{gli|stellar remnant}} which is massive enough to be [[hydrostatic equilibrium|rounded]] by its own [[gravity]] (but not massive enough to achieve [[thermonuclear fusion]]) and has {{gli|clearing the neighbourhood|cleared its neighbouring region}} of all {{gli|planetesimal|planetesimals}}.}}
+
+{{term|planetary}}
+{{defn|Of or relating to a {{gli|planet}} or planets.}}
+
+{{term|[[planetary body]]}}
+{{ghat|Also called a '''planetary object'''.}}
+{{defn|Any {{gli|secondary body}} that is geologically differentiated or in [[hydrostatic equilibrium]] and therefore has a {{gli|planet}}-like geology, such as a {{gli|planet}}, {{gli|dwarf planet}}, or other {{gli|planetary-mass object}}, but excluding smaller objects such as {{gli|planetesimal|planetesimals}}.}}
+
+{{term|[[planetary differentiation]]}}
+{{defn|The process of separating out different constituents of a planetary body, causing it to develop compositionally distinct layers (such as a metallic core).}}
+
+{{term|[[planetary nebula]]}}
+{{defn|A type of [[emission nebula]] formed from a glowing shell of expanding plasma that has been ejected from a {{gli|red giant}} star late in its life. The name derives from their resemblance to a {{gli|planet}}. An example is the [[Ring Nebula]].}}
+
+{{term|[[planetary science]]}}
+{{ghat|Also sometimes called '''planetology'''.}}
+{{defn|}}
+
+{{term|[[planetary system]]}}
+{{defn|Any set of [[gravity|gravitationally]] bound non-{{gli|stellar}} objects in or out of {{gli|orbit}} around a {{gli|star}} or {{gli|star system}}. In general, planetary systems include one or more {{gli|planet|planets}}, though such systems may also consist of {{gli|dwarf planet|dwarf planets}}, {{gli|natural satellite|moons}}, {{gli|asteroid|asteroids}}, {{gli|meteoroid|meteoroids}}, {{gli|planetesimal|planetesimals}}, and {{gli|circumstellar disc|debris discs}}, among other objects.}}
+
+{{anchor|planetary-mass object}}{{term|[[planetary-mass object]] (PMO)}}
+{{ghat|Also called a '''planemo''' or '''planetary body'''.}}
+{{defn|}}
+
+{{term|[[planetesimal]]}}
+{{defn|Any solid object (generally larger than {{convert|1|km}} in diameter) that arises during the formation of a {{gli|planet}} whose internal strength is dominated by self-gravity and whose orbital dynamics are not significantly affected by gas [[drag (physics)|drag]]. The term is most commonly applied to small bodies thought to exist in {{gli|protoplanetary disk|protoplanetary disks}} and {{gli|debris disk|debris disks}} during the process of planet formation, but is also sometimes used to refer to various types of {{gli|small Solar System body|small Solar System bodies}} which are left over from the formation process. There is no precise distinction between a planetesimal and a {{gli|protoplanet}}.}}
+
+{{term|[[planetoid]]}}
+{{defn|Another name for a {{gli|minor planet}} or {{gli|dwarf planet}}.}}
+
+{{term|[[polar orbit]]}}
+{{defn|An {{gli|orbit}} in which the orbiting object passes directly over or nearly over both [[poles of astronomical bodies|poles]] of the body being orbited during each revolution. It therefore has an {{gli|orbital inclination|inclination}} equal or nearly equal to 90 degrees to the body's {{gli|equator}}.}}
+
+{{term|[[precession (astronomy)|precession]]}}
+{{defn|Any slow change in the orientation of an object's {{gli|axis of rotation}}. For the Earth in particular, this phenomenon is referred to as the {{gli|precession of the equinoxes}}. ''Apsidal precession'' refers to a steady change in the orientation of an orbit, such as the precession in the orbit of [[Mercury (planet)|Mercury]] that was explained by the theory of [[general relativity]].}}
+
+{{term|[[precession of the equinoxes]]}}
+{{defn|}}
+
+{{term|[[primary (astronomy)|primary]]}}
+{{ghat|Also called a '''gravitational primary''', '''primary body''', or '''central body'''.}}
+{{defn|The main physical body of a gravitationally bound, multi-object system. The primary constitutes most of the system's mass and is generally located near the system's {{gli|barycenter}}.}}
+
+{{term|[[prograde motion]]}}
+{{ghat|Also called '''direct motion'''.}}
+{{defn|Orbital or rotational motion of an object in the same direction as the rotation of the object's {{gli|primary}}. The direction of rotation is determined by an [[inertial frame of reference]] such as the {{gli|fixed stars}}. Contrast ''{{gli|retrograde motion}}''.}}
+
+{{term|projected separation}}
+{{defn|The minimum physical separation between two astronomical objects, as determined from their [[angular separation]] and estimated distance.<ref name=McEvol_Tirion2015/> For planets and {{gli|double star|double stars}}, this distance is usually given in {{gli|astronomical unit|astronomical units}}. The actual separation of the two objects depends on the angle of the line between the two objects to the [[Line-of-sight propagation|line-of-sight]] of the observer.}}
+
+{{term|[[proper motion]]}}
+{{defn|The rate of angular motion of an object over an interval of time, usually years. For stars, this is typically given in milliarcseconds per year.}}
+
+{{term|[[protoplanet]]}}
+{{defn|A large {{gli|planetary}} embryo that originated within a {{gli|protoplanetary disk}} and has since undergone internal melting to produce an interior of non-uniform composition. Protoplanets represent an intermediate step in the formation of a full-sized {{gli|planet}}; they are thought to form out of smaller {{gli|planetesimal|planetesimals}} as they collide with each other and gradually coalesce into larger bodies.}}
+
+{{term|[[protoplanetary disk]]}}
+{{defn|}}
+
+{{term|[[protostar]]}}
+{{defn|A concentration of mass formed out of the contraction of a collapsing interstellar cloud. Once sufficient mass has fallen onto this central core, it becomes a [[pre-main-sequence star]].}}
+
+{{term|[[pulsar]]}}
+{{defn|A highly magnetized rotating {{gli|neutron star}} or {{gli|white dwarf}} that emits a beam of electromagnetic radiation. This beam is observed only when it is pointing toward Earth, making the object appear to pulse.}}
+{{glossaryend}}
+
+==Q==
+{{glossary}}
+{{term|quadratic field strength}}
+{{defn|A method of computing the mean strength of a varying [[stellar magnetic field]]. It is determined by calculating the [[root mean square]] of a series of [[Longitude|longitudinal]] [[magnetic field strength]] measurements taken at different times.<ref name=Bychkova2009/>}}
+
+{{term|[[quasar]]}}
+{{ghat|Also called a '''quasi-stellar radio source'''}}
+{{defn|A distant, point-like energy source originating from a powerful {{gli|active galactic nucleus}}. Its {{gli|luminosity}} is generated by the {{gli|accretion disk|accretion}} of gas onto a {{gli|supermassive black hole}}. Quasars emit radiation across the [[electromagnetic spectrum]] from [[radio wave]]s to [[X-ray]]s, and their [[ultraviolet]] and optical spectra are characterized by strong, broad [[Spectral line|emission lines]].}}
+{{glossaryend}}
+
+==R==
+{{glossary}}
+{{term|[[radial velocity]]}}
+{{defn|The velocity of an object along the line of sight to the observer, which in astronomy is usually determined via [[Doppler spectroscopy]]. Positive values are used to indicate a receding object. An object such as a star can undergo changes in its radial velocity because of the {{gli|perturbation|gravitational perturbation}} of another body, or because of radial pulsations of its surface. The latter, for example, occurs with a [[Beta Cephei variable]] star.}}
+
+{{term|[[radio astronomy]]}}
+{{defn|The subfield of {{gli|astronomy}} that studies {{gli|astronomical object|astronomical objects}} at [[radio frequency|radio frequencies]], using large [[radio antenna]]s known as [[radio telescope]]s.}}
+
+{{term|[[astronomical radio source|radio source]]}}
+{{defn|Any {{gli|astronomical object}} that emits strong [[radio wave]]s into space. These objects are the basis for {{gli|radio astronomy}}.}}
+
+{{term|[[red-giant branch]]}}
+{{defn|A conspicuous trail of enlarged red stars found on the {{gli|Hertzsprung–Russell diagram}} for a typical {{gli|globular cluster}}. It begins at the [[main sequence turnoff]] point and extends toward the higher luminosity and lower temperature range until reaching the red-giant tip. This branch consists of older stars that have evolved away from the main sequence but have not yet initiated [[helium fusion]] in their [[stellar core|core region]].}}
+
+{{term|[[redshift]]}}
+{{defn|}}
+
+{{term|[[regular moon]]}}
+{{defn|A {{gli|natural satellite}} following a relatively close and {{gli|prograde motion|prograde}} orbit with little or no {{gli|orbital inclination}} or {{gli|orbital eccentricity}}. Regular moons are thought to form ''in situ'' about their {{gli|primary}}, as opposed to {{gli|irregular moon|irregular moons}}, which are thought to be captured.}}
+
+{{term|[[relativistic jet]]}}
+{{defn|}}
+
+{{term|[[retrograde motion]]}}
+{{defn|Orbital or rotational motion of an object in the direction opposite the rotation of the object's {{gli|primary}}. The direction of rotation is determined by an [[inertial frame of reference]] such as the {{gli|fixed stars}}. Contrast ''{{gli|prograde motion}}''.}}
+[[File:Retrogradeorbit.gif|thumb|In a {{gli|retrograde motion|retrograde}} orbit, a satellite (red) orbits in the direction opposite the rotation of its primary (blue/black)]]
+
+{{term|[[right ascension]]}}
+{{defn|In the {{gli|equatorial coordinate system}}, the celestial equivalent of terrestrial [[longitude]]. It divides the {{gli|celestial equator}} into 24 hours, each of 60 minutes.}}
+
+{{term|[[ring system]]}}
+{{defn|A disk- or ring-shaped accumulation of various solid material such as {{gli|cosmic dust|dust}} and {{gli|moonlet|moonlets}} that orbits an {{gli|astronomical body}} such as a {{gli|planet}}. Ring systems are common components of {{gli|satellite system|satellite systems}} around {{gli|giant planet|giant planets}}, as with the [[Rings of Saturn]]. See also ''{{gli|circumplanetary disk}}''.}}
+
+{{term|[[Roche limit]]}}
+{{defn|The distance from an astronomical object at which the {{gli|tidal force}} matches an orbiting body's gravitational self-attraction. Inside this limit, the tidal forces will cause the orbiting body to disintegrate, usually to disperse and form a {{gli|ring system|ring}}. Outside this limit, loose material will tend to [[Coalescence (physics)|coalesce]].}}
+
+{{term|[[rogue planet]]}}
+{{ghat|Also called an '''interstellar planet''', '''nomad planet''', '''orphan planet''', and '''starless planet'''.}}
+{{defn|Any {{gli|planetary-mass object}} that orbits a {{gli|galactic nucleus|galactic center}} directly rather than a {{gli|star}} or {{gli|substellar object}}. Such objects have often been ejected from the {{gli|planetary system}} in which they formed, or otherwise have never been gravitationally bound to any star system.}}
+
+{{term|[[opacity (optics)|Rosseland optical depth]]}}
+{{defn|An [[Complex index of refraction|extinction coefficient]] of an {{gli|atmosphere}}, which describes the net {{gli|opacity}} to radiation at a given depth. See ''{{gli|optical depth}}''.<ref name=Schrijver_Zwaan2008/>}}
+
+{{term|[[rotation period]]}}
+{{defn|The time that an object takes to complete a single revolution about its own {{gli|axis of rotation}} relative to the {{gli|background stars}}. It is not necessarily the same as the object's {{gli|synodic day}} or {{gli|sidereal day}}.}}
+
+{{term|rotational modulation}}
+{{defn|A phenomenon which causes the {{gli|luminosity}} of a star to vary as rotation carries {{gli|star spot|star spots}} or other localized activity across the line of sight. Examples include [[RS Canum Venaticorum variable|RS CVn]] and [[BY Draconis variable|BY Dra variables]].<ref name=Rodono1986/>}}
+{{glossaryend}}
+
+==S==
+{{glossary}}
+{{term|Saber's beads}}
+{{defn|A broken arc of illuminations seen at the limb of very young or very old lunar crescents. The visual similarity to the moments before and after a {{gli|total solar eclipse}} was first noted by American astronomer Stephen Saber.}}
+
+{{term|[[satellite galaxy]]}}
+{{defn|}}
+
+{{term|[[scattered disc]]}}
+{{defn|}}
+
+{{term|[[secular motion]]}}
+{{defn|Any change in movement that happens over a very long time period.<ref name=Ridpath2018/> Examples include the [[perihelion precession of Mercury]], the [[tidal acceleration]] of the Earth–Moon system, and {{gli|axial precession|precession of the Earth's axis}}.}}
+
+{{term|[[semi-major axis]]}}
+{{ghat|Also '''major semi-axis'''.}}
+{{defn|One half of the longest diameter (the major axis) of an [[ellipse]]. It is expressed in units of length and often used to give a physical dimension to a two-body {{gli|elliptical orbit|elliptical}} {{gli|Kepler orbit}}, such as for a {{gli|binary star}} system or star–planet system. When the distance between the orbiting bodies is unknown, the semi-major axis may be given as an angle.}}
+
+{{term|[[September equinox]]}}
+{{ghat|Also called the '''Southward equinox'''.}}
+{{defn|The precise time of year on Earth when the Sun appears to cross the {{gli|celestial equator}}, while generally trending southward at each {{gli|zenith}} passage. It represents the moment at which the [[North Pole]] of the Earth begins to tilt away from the Sun, and typically occurs on or near September 22 each year. It is the ''autumnal equinox'' in the Northern Hemisphere and the ''vernal equinox'' in the Southern Hemisphere. Contrast ''{{gli|March equinox}}''.}}
+
+{{term|[[sidereal day]]}}
+{{defn|}}
+
+{{term|[[sidereal period]]}}
+{{defn|The {{gli|orbital period}} of an object within the {{gli|Solar System}}, such as the Earth's orbital period around the Sun. The name "sidereal" implies that the object returns to the same position relative to the {{gli|fixed stars}} of the {{gli|celestial sphere}} as observed from the Earth.}}
+
+{{term|[[sidereal time]]}}
+{{defn|}}
+
+{{term|[[sidereal year]]}}
+{{defn|}}
+
+{{term|[[sky]]}}
+{{defn|Everything that lies above the surface of the [[Earth]], including the [[Earth's atmosphere|atmosphere]] and {{gli|outer space}}. In the context of {{gli|astronomy}}, the term "sky" is also used as another name for the {{gli|celestial sphere}}. See also ''{{gli|night sky}}''.}}
+
+{{anchor|small Solar System body|small Solar System bodies}}{{term|[[small Solar System body]] (SSSB)}}
+{{defn|}}
+
+{{term|[[solar eclipse]]}}
+{{defn|}}
+
+{{term|[[solar flare]]}}
+{{defn|}}
+
+{{anchor|solar mass}}{{term|term=[[solar mass]]|content=[[solar mass]] ({{solar mass}})}}
+{{defn|A standard unit of mass equal to the mass of the Earth's {{gli|Sun}}, or approximately {{val|1.98847|e=30|ul=kg}}. It is commonly used to express the masses of other {{gli|star|stars}} and astronomical objects relative to the Sun.}}
+
+{{term|[[solar prominence]]}}
+{{defn|A large, bright, transient feature, often in the shape of a [[coronal loop|loop]], consisting of plasma extending outward from the {{gli|Sun}}'s {{gli|visible surface|photosphere}} into the {{gli|corona}}. Prominences may be hundreds of thousands of kilometers long.}}
+
+{{anchor|solar radius}}{{term|term=[[solar radius]]|content=[[solar radius]] ({{solar radius}})}}
+{{defn|A standard unit of distance equal to the radius of the Earth's {{gli|Sun}} (typically measured from the Sun's center to the layer in the {{gli|photosphere}} at which the [[optical depth]] equals 2/3), or approximately {{convert|695,700|km|mi}}. It is commonly used to express the radii of other {{gli|star|stars}} and astronomical objects relative to the Sun.}}
+
+{{term|[[Solar System]]}}
+{{defn|The gravitationally bound {{gli|planetary system}} of the Earth's {{gli|Sun}} and the objects that orbit it, either directly or indirectly, including the eight true {{gli|planet|planets}}, five {{gli|dwarf planet|dwarf planets}}, and numerous {{gli|small Solar System body|small Solar System bodies}} such as {{gli|asteroid|asteroids}}, {{gli|comet|comets}}, and {{gli|natural satellite|natural satellites}}.}}
+
+{{term|[[solar time]]}}
+{{defn|}}
+
+{{term|[[solar wind]]}}
+{{defn|}}
+
+{{term|[[solstice]]}}
+{{defn|One of two precise times of year when the {{gli|Sun}} reaches either its most northerly or most southerly point in the {{gli|sky}} as seen from Earth. The solstices occur on or near June 20 and December 21 each year. The "Summer Solstice", often used to refer to the [[June solstice]] because of its occurrence during the [[Northern Hemisphere]]'s summer, is the annual date featuring the longest duration of daylight and the shortest duration of nighttime in the Northern Hemisphere. The reverse is true for the "Winter Solstice", which is often used to refer to the [[December solstice]].}}
+
+{{term|[[spectroscopic binary]]}}
+{{defn|A type of {{gli|binary star}} system where the individual components have not been resolved with a {{gli|telescope}}. Instead, the evidence for the binarity comes from shifts observed in the [[spectrum]]. This is caused by the [[Doppler effect]] as the {{gli|radial velocity}} of the components change over the course of each orbit.}}
+
+{{term|[[astronomical spectroscopy|spectroscopy]]}}
+{{defn|}}
+
+{{term|[[speed of light]]}}
+{{defn|}}
+
+{{term|[[spherical astronomy]]}}
+{{ghat|Also called '''positional astronomy'''.}}
+{{defn|A branch of {{gli|observational astronomy}} which is used to locate the positions of astronomical objects on the {{gli|celestial sphere}} as they would appear from a particular date, time, and location on Earth. It relies on the mathematical methods of [[spherical geometry]] and the measurements of {{gli|astrometry}}.}}
+
+{{term|[[spiral galaxy]]}}
+{{defn|}}
+
+{{anchor|standard gravity}}{{term|term=[[standard gravity]]|content=[[standard gravity]] ({{math|''ɡ''<sub>0</sub>}} or {{math|''ɡ''<sub>n</sub>}})}}
+{{ghat|Also called '''standard acceleration due to gravity'''.}}
+{{defn|The nominal [[gravitational acceleration]] of an object in a vacuum near the surface of the Earth, as a result of [[gravity of Earth|Earth's gravity]] and, less importantly, the [[centrifugal force]] generated by its rotation. It is by definition equal to {{val|9.80665|u=m/s2}} (approximately {{val|32.17405|u=ft/s2}}).}}
+
+{{term|[[star]]}}
+{{defn|A massive, luminous [[spheroid]] of [[plasma (physics)|plasma]] held together by its own [[gravity]] which, for at least a portion of its life, radiates energy into {{gli|outer space}} due to the [[thermonuclear fusion]] of [[hydrogen]] into [[helium]] within its core. Astronomers can determine the mass, age, temperature, chemical composition, and many other properties of a star by observing its motion through space, its {{gli|luminosity}}, and its {{gli|spectroscopy|emission spectrum}}.}}
+
+{{term|[[star catalogue]]}}
+{{ghat|Also spelled '''star catalog'''.}}
+{{defn|}}
+
+{{term|[[star cluster]]}}
+{{defn|}}
+
+{{term|[[star system]]}}
+{{ghat|Also called a '''stellar system'''.}}
+{{defn|Any small number of {{gli|star|stars}} that orbit each other, bound by gravitational attraction, such as a {{gli|binary star}} system. In the broadest sense, very large groups of stars bound by gravitation such as {{gli|star cluster|star clusters}} and {{gli|galaxy|galaxies}} are also star systems. Star systems are distinct from {{gli|planetary system|planetary systems}}, which include {{gli|planet|planets}} and other bodies such as {{gli|comet|comets}}.}}
+
+{{term|[[starburst galaxy]]}}
+{{defn|Any {{gli|galaxy}} that has an anomalously high rate of star formation. The criteria for a starburst is a star formation rate that would normally consume the galaxy's available supply of unbound gas within a time period shorter than the age of the galaxy. Most starbursts occur as a result of galactic interactions, such as a [[Galaxy merger|merger]].}}
+
+{{term|[[starfield (astronomy)|starfield]]}}
+{{defn|Any set of {{gli|star|stars}} visible in an arbitrarily sized field of view of a {{gli|telescope}}, usually in the context of some region of interest within the {{gli|celestial sphere}}.<ref name=CMF/><ref name=KMSF/> For example, the starfield surrounding the stars [[Betelgeuse]] and [[Rigel]] could be defined as encompassing some or all of the [[Orion (constellation)|Orion constellation]].}}
+
+{{term|stellar}}
+{{defn|Of or relating to a {{gli|star}} or {{gli|star system}}.}}
+
+{{term|[[stellar atmosphere]]}}
+{{ghat|Also called the '''stellar envelope'''.}}
+{{defn|The outermost region of a {{gli|star}}. Although it forms only a small portion of the star's mass, for some evolved stars the stellar envelope can form a significant fraction of the radius.}}
+
+{{term|[[stellar classification]]}}
+{{ghat|Also called '''spectral classification'''.}}
+{{defn|The categorization of {{gli|star|stars}} based upon their {{gli|spectrum|spectra}}. The modern {{gli|MK spectral classification}} scheme is a two-dimensional classification based on temperature and {{gli|luminosity}}.}}
+
+{{term|[[stellar designation]]}}
+{{defn|}}
+
+{{term|[[stellar dynamics]]}}
+{{defn|}}
+
+{{term|[[stellar evolution]]}}
+{{defn|}}
+
+{{anchor|stellar model}}{{term|stellar evolution model}}
+{{ghat|Also simply called a '''stellar model'''.}}
+{{defn|An astrophysical model of a star's {{gli|stellar evolution}} over time based upon its mass and chemical composition.<ref name=Andersen2000/>}}
+
+{{term|[[stellar magnetic field]]}}
+{{defn|}}
+
+{{term|[[stellar parallax]]}}
+{{defn|}}
+
+{{term|[[stellar remnant]]}}
+{{defn|}}
+
+{{term|[[submillimetre astronomy]]}}
+{{defn|The subfield of {{gli|astronomy}} that studies {{gli|astronomical object|astronomical objects}} detectable at submillimetre wavelengths (i.e. [[terahertz radiation]]).}}
+
+{{term|[[subsatellite]]}}
+{{defn|Any {{gli|natural satellite|natural}} or {{gli|artificial satellite}} that orbits another natural satellite, i.e. "a moon of a moon".}}
+
+{{term|[[substellar object]]}}
+{{ghat|Also called a '''substar'''.}}
+{{defn|An {{gli|astronomical object}} whose mass is smaller than the smallest mass at which the [[nuclear fusion|fusion]] of hydrogen nuclei can be sustained (equivalent to approximately 0.08 {{gli|solar mass|solar masses}}), including {{gli|brown dwarf|brown dwarfs}} and some {{gli|stellar remnant|stellar remnants}}, as well as certain {{gli|planetary-mass object|planetary-mass objects}}.}}
+
+{{term|[[Sun]]}}
+{{defn|}}
+
+{{term|[[supercluster]]}}
+{{defn|}}
+
+{{term|[[superior planet]]}}
+{{defn|An archaic term that is sometimes used to refer to {{gli|planet|planets}} that orbit further from the Sun than the Earth, such as [[Saturn]]. The name originated from the [[geocentric]] {{gli|cosmology}} of [[Ptolemy]]. Contrast ''{{gli|inferior planet}}''.}}
+
+{{anchor|supermassive black hole}}{{term|[[supermassive black hole]] (SMBH)}}
+{{defn|One of a class of very large {{gli|black hole|black holes}} which possess masses ranging from hundreds of thousands to many billions of times the {{gli|solar mass|mass of the Sun}}. These are typically found at a {{gli|galactic nucleus|galactic core}}, where they can have a profound effect upon the evolution of the surrounding {{gli|galaxy}}.}}
+
+{{term|[[supernova]]}}
+{{defn|An extremely {{gli|luminosity|luminous}}, {{gli|transient}} stellar explosion occurring during a massive {{gli|star}}'s final {{gli|stellar evolution|evolutionary}} stages or when a {{gli|white dwarf}} is triggered into runaway nuclear fusion.}}
+
+{{anchor|surface gravity}}{{term|[[surface gravity]] (g)}}
+{{defn|The [[gravitational acceleration]] experienced at the equatorial surface of an {{gli|astronomical body}} or other {{gli|astronomical object|object}}, including that produced by the effects of rotation. It is typically expressed in units of acceleration such as [[meters per second squared]] (m/s<sup>2</sup>) or as a multiple of the Earth's {{gli|standard gravity}}, which is equal to {{val|9.80665|u=m/s2}}.}}
+
+{{term|[[synchronous orbit]]}}
+{{defn|Any {{gli|orbit}} in which an object orbits its {{gli|primary}} with an {{gli|orbital period}} equal to the average {{gli|rotation period|rotational period}} of the primary and in the {{gli|prograde motion|same direction}} as the primary's rotation.}}
+
+{{term|[[synodic day]]}}
+{{defn|The time it takes for an object to rotate once about its own {{gli|axis of rotation|axis}} (e.g. its {{gli|rotation period}}) relative to the {{gli|primary}} it is orbiting (rather than to distant {{gli|fixed stars}}). The synodic day may be described as the time between two consecutive [[sunrise]]s (in the case where the primary is a {{gli|star}}), which is not necessarily the same as the {{gli|sidereal day}}. An object's synodic day may change slightly in duration over the course of the {{gli|orbital period}} due to {{gli|orbital eccentricity|eccentricity}} and {{gli|axial tilt}}. For Earth, the synodic day is often called a {{gli|solar day}}.}}
+
+{{term|[[synodic period]]}}
+{{defn|The time it takes for a body visible from another body (often the Earth) to complete a cycle with respect to the {{gli|fixed stars|background stars}} visible in the second body's {{gli|celestial sphere}}. Synodic period is most commonly used to indicate the elapsed time between a given body's consecutive appearances in the same location in the {{gli|night sky}} as observed from Earth, but can in principle be calculated with respect to the sky as observed from any body. It is related to but distinct from the {{gli|orbital period}}, a result of the fact that both the body being studied (e.g. [[Jupiter]]) and the body from which it is being observed (e.g. Earth) are independently orbiting a third body (the {{gli|Sun}}).}}
+
+{{term|[[syzygy (astronomy)|syzygy]]}}
+{{defn|The straight-line configuration of three celestial bodies in a gravitational system.}}
+{{glossaryend}}
+
+==T==
+{{glossary}}
+{{term|[[telescope]]}}
+{{defn|}}
+
+{{term|telluric star}}
+{{defn|A {{gli|star}} with nearly featureless continuum spectra that can be used to correct for the effect of [[telluric contamination]] of the [[Earth's atmosphere]] on the spectra of other stars. For example, water vapor in the atmosphere creates significant telluric absorption bands at wavelengths above 6800 [[Angstrom|Å]]. These features need to be corrected for in order to more accurately measure the spectrum.<ref name=Husser2012/>}}
+
+{{term|[[termination shock]]}}
+{{defn|The boundary within the {{gli|heliosphere}}, approximately 75 to 90 {{gli|astronomical unit|AU}} from the {{gli|Sun}}, beyond which the {{gli|solar wind}} slows to subsonic speeds (relative to the Sun) as a result of interactions with the local {{gli|interstellar medium}}.}}
+
+{{term|[[Terminator (solar)|terminator]]}}
+{{defn|The line that divides the illuminated side of a {{gli|moon}} or {{gli|planet}} from its dark side. The line moves as the object rotates with respect to its parent {{gli|star}}.}}
+
+{{term|[[theoretical astronomy]]}}
+{{defn|}}
+
+{{term|thick disk population}}
+{{defn|}}
+
+{{term|thin disk population}}
+{{defn|The layer of the {{gli|Milky Way}} galaxy where the spiral arms are found and where most of the star formation takes place. It is about {{Convert|300|–|400|pc|ly|abbr=off|lk=off}} deep and centered on the {{gli|galactic plane}}. Stars belonging to this population generally follow orbits that lie close to this plane.<ref name=c2h2/> This is in contrast to members of the {{gli|thick disk population}} and {{gli|halo star|halo stars}}.}}
+
+{{term|[[tidal acceleration|tidal braking]]}}
+{{ghat|Also called '''tidal acceleration'''.}}
+{{defn|The transfer of momentum between an astronomical body and an orbiting satellite as the result of {{gli|tidal force|tidal forces}}. This can cause changes in the {{gli|rotation period|rotation periods}} for both bodies as well as modification of their mutual orbit. A satellite in a {{gli|prograde motion|prograde}} orbit will gradually recede from its primary while slowing the rotation rate of both bodies.}}
+
+{{term|[[tidal force]]}}
+{{defn|}}
+
+{{term|[[tidal locking]]}}
+{{defn|The net result of continued {{gli|tidal braking}} such that, over the course of an orbit, there is no net transfer of [[angular momentum]] between an astronomical body and its gravitational partner. When the {{gli|eccentricity|orbital eccentricity}} is low, the result is that the {{gli|natural satellite|satellite}} orbits with the same face always pointed toward its {{gli|primary}}.<ref name=Heller2011a/> An example is the {{gli|Moon}}, which is tidally locked with the Earth.}}
+
+{{term|tidal stream}}
+{{defn|A stream of {{gli|star|stars}} and gases which are stripped from gas clouds and star clusters because of interaction with the gravitational field of a {{gli|galaxy}} such as the {{gli|Milky Way}}.<ref name=sanders2015/>}}
+
+{{term|tilt erosion}}
+{{defn|The gradual reduction of the {{gli|axial tilt|obliquity}} of an orbiting {{gli|natural satellite|satellite}} due to tidal interactions.<ref name=Heller2011b/>}}
+
+{{term|[[total solar eclipse]]}}
+{{defn|}}
+[[File:Solar_eclipse_1999_4_NR.jpg|right|thumb|A {{gli|total solar eclipse}} as seen from Earth]]
+
+{{anchor|trans-Neptunian object}}{{term|[[trans-Neptunian object]] (TNO)}}
+{{defn|}}
+
+{{term|[[Astronomical transit|transit]]}}
+{{defn|An astronomical event during which a body or object passes visibly across the face of a much larger body. An example is the [[transit of Venus]] across the face of the {{gli|Sun}}, which was visible from Earth in 2004 and 2012. Because a transit results in a decrease in the net {{gli|luminosity}} from the two objects, the [[transit method]] can be used to detect {{gli|extrasolar planet|extrasolar planets}} as they pass in front of their host stars. A transit by an object that appears roughly the same size or larger than the body it is transiting is called an {{gli|occultation}} or {{gli|eclipse}}.}}
+
+{{term|[[trojan (celestial body)|trojan]]}}
+{{defn|}}
+
+{{term|[[tropical year]]}}
+{{defn|}}
+
+{{anchor|true anomaly}}{{term|term=[[true anomaly]]|content=[[true anomaly]] ({{mvar|ν}}, {{mvar|θ}}, or {{mvar|f}})}}
+{{defn|The angle between the direction of {{gli|periapsis}} and the current position of an orbiting body as it moves along an {{gli|elliptical orbit}}, as measured from the nearest [[focus (geometry)|focus]] of the ellipse. The true anomaly is one of three angular parameters that define a position along an orbital path, the other two being the {{gli|eccentric anomaly}} and the {{gli|mean anomaly}}, and also one of six canonical {{gli|orbital elements}} used to characterize an orbit.}}
+
+{{term|[[Tully–Fisher relation]]}}
+{{defn|An [[empirical relationship]] between the mass or intrinsic {{gli|luminosity}} of a {{gli|spiral galaxy}} and its [[angular velocity]] or [[emission line]] width. It can be used to estimate the distance of the galaxy, and hence forms a rung on the {{gli|cosmic distance ladder}}.}}
+
+{{term|[[two-body problem]]}}
+{{defn|}}
+{{glossaryend}}
+
+==U==
+{{glossary}}
+{{term|[[UBV photometric system]]}}
+{{ghat|Also called the '''Johnson system''' or '''Johnson–Morgan system'''.}}
+{{defn|}}
+
+{{term|[[universe]]}}
+{{defn|no=1|The entirety of [[space]] and [[time]] and their contents, including {{gli|galaxy|galaxies}}, {{gli|star|stars}}, {{gli|planet|planets}}, all other forms of [[matter]] and [[energy]], and the [[scientific law|physical laws]] and [[physical constant|constants]] that describe them. When not otherwise qualified, "the Universe" usually refers to the ''entire'' Universe, whose spatial extent is unknown because it is not directly measurable; this is distinguished from the {{gli|observable universe}}, whose size it is possible to measure.}}
+{{defn|no=2|One of many hypothetical parallel universes which exist as [[causality|causally]] disconnected constituent parts of a larger {{gli|multiverse}}, which itself comprises all of space and time and their contents.}}
+{{glossaryend}}
+
+==V==
+{{glossary}}
+{{term|[[variable star]]}}
+{{defn|Any {{gli|star}} that is observed to vary in brightness. This variation may be periodic, with one or more cycles that last hours, days, months, or even years. Some stars vary in an irregular manner, while others undergo cataclysmic changes in brightness. Other forms of variability are intrinsic changes to the star's {{gli|radial velocity}} or its profile of [[spectral line]]s.}}
+
+{{term|[[velocity dispersion]]}}
+{{defn|The [[statistical dispersion]] of velocities about the mean velocity for a group of objects, such as stars in a {{gli|globular cluster}} or galaxies in a {{gli|open cluster|galactic cluster}}. This value can be used to derive the combined mass of the group by using the [[virial theorem]].}}
+
+{{term|[[Virgo Supercluster]] (Virgo SC)}}
+{{ghat|Also called the '''Local Supercluster''' ('''LSC''' or '''LC''').}} 
+{{defn|}}
+{{glossaryend}}
+
+==W==
+{{glossary}}
+{{term|weak-line star}}
+{{defn|A reference to the faintness of the [[spectral line]]s for a star compared to standard stars with the same {{gli|stellar classification}}. Since most absorption lines are caused by elements other than hydrogen and helium—what astronomers refer to as "metals"—these are sometimes called metal weak stars.<ref name=jaschek1990/>}}
+
+{{term|[[white dwarf]]}}
+{{defn|A type of {{gli|stellar remnant}} composed mostly of [[electron-degenerate matter]]. A white dwarf lacks the mass needed to continue the [[nuclear fusion]] process with its constituent atoms, so the object's energy output normally comes from radiative cooling. See {{gli|nova}} and [[Type Ia supernova]].}}
+
+{{term|[[Wilson–Bappu effect]]}}
+{{defn|A correlation between the width of the singly ionized calcium K-line (Ca II K) at 3933&nbsp;[[Ångström|Å]] and the {{gli|absolute magnitude|absolute visual magnitude}} of the emitting {{gli|late-type star|late-type stars}}. This linear relation makes it useful for determining the distances of G, K, and M-type stars.<ref name=Pace2003/>}}
+{{glossaryend}}
+
+==X==
+{{glossary}}
+{{term|XBONG}}
+{{ghat|An acronym of '''X-ray bright optically normal galaxy'''.}}
+{{defn|A seemingly normal {{gli|galaxy}} that does not appear to have an {{gli|active galactic nucleus}}, yet displays an anomalous level of excess [[X-ray astronomy|X-ray emission]].<ref name=Yuan2004/>}}
+{{glossaryend}}
+
+==Z==
+{{glossary}}
+{{term|[[zenith]]}}
+{{defn|The point in the {{gli|sky}} that is directly overhead from the perspective of a particular location on the Earth.}}
+
+{{anchor|zero-age main sequence}}{{term|[[zero-age main sequence]] (ZAMS)}}
+{{defn|The sequence of positions along the {{gli|Hertzsprung–Russell diagram}} achieved by newly formed, chemically homogeneous {{gli|star|stars}} which have finished contracting and have reached [[hydrostatic equilibrium]], with energy being derived solely from [[nuclear fusion]].<ref name=Hansen1999/>}}
+
+{{term|[[zodiac]]}}
+{{defn|The area of the {{gli|sky}} that extends approximately 8 degrees north or south (in {{gli|celestial sphere|celestial latitude}}) of the {{gli|ecliptic plane|ecliptic}}, the apparent path of the {{gli|Sun}} across the {{gli|celestial sphere}} over the course of the year as observed from Earth. The Sun, {{gli|Moon}}, and visible planets appear to travel across a band of twelve [[astrological signs|Zodiac constellations]] within this belt as the Earth orbits the Sun.}}
+
+{{term|[[zodiacal light]]}}
+{{defn|}}
+{{glossaryend}}
+
+==See also==
+{{wiktionary category|category=en:Astronomy|type=astronomy}}
+*[[Outline of astronomy]]
+*[[List of astronomical catalogues]]
+*[[List of astronomy acronyms]]
+*[[List of common astronomy symbols]]
+*[[Modern constellations]]
+
+==References==
+{{reflist|refs=
+<ref name=Heller2011a>{{citation
+ | title=Formation and Evolution of Exoplanets
+ | editor1-first=Rory | editor1-last=Barnes
+ | publisher=[[John Wiley & Sons]] | year=2010
+ | isbn=978-3527408962 | page=248 | postscript=.
+ | url=https://books.google.com/books?id=-7KimFtJnIAC&pg=PA248 }}</ref>
+
+<ref name=Heller2011b>{{citation
+ | display-authors=1 | last1=Heller | first1=R.
+ | last2=Leconte | first2=J. | last3=Barnes | first3=R. 
+ | title=Tidal obliquity evolution of potentially habitable planets 
+ | journal=Astronomy & Astrophysics
+ | volume=528 | id=A27 | pages=16 | date=April 2011
+ | doi=10.1051/0004-6361/201015809 | bibcode=2011A&A...528A..27H 
+ | arxiv=1101.2156 | postscript=. }}</ref>
+
+<ref name=Husser2012>{{citation
+ | title=3D-Spectroscopy of Dense Stellar Populations
+ | first1=Tim-Oliver | last1=Husser
+ | publisher=Universitätsverlag Göttingen
+ | year=2012 | isbn=978-3863950927 | pages=54–59
+ | url=https://books.google.com/books?id=3JuZbjWBknUC&pg=PA54 }}</ref>
+
+<ref name=c2h2>{{citation
+ | title=Components of the Milky Way | work=Galaxies
+ | publisher=Center for Computational Physics in Hawaii
+ | url=http://c2h2.ifa.hawaii.edu/Tutorial/pages/gal_components.htm
+ | accessdate=2012-02-27 | url-status=dead
+ | archiveurl=https://web.archive.org/web/20111024151627/http://c2h2.ifa.hawaii.edu/Tutorial/pages/gal_components.htm
+ | archivedate=2011-10-24 }}</ref>
+
+<ref name=maurizio_santi2005>{{citation
+ | first1=Maurizio | last1=Salaris | first2=Santi | last2=Cassisi
+ | title=Evolution of stars and stellar populations
+ | publisher=[[John Wiley and Sons]] | postscript=.
+ | date=2005 | isbn=0-470-09220-3 | page=110
+ | url=https://books.google.com/books?id=p4ojTNkcFx8C&pg=PA110
+ | accessdate=2012-02-29 }}</ref>
+
+<ref name=jaschek1990>{{citation
+ | first1=Carlos | last1=Jaschek | first2=Mercedes | last2=Jaschek
+ | title=The Classification of Stars | postscript=.
+ | publisher=[[Cambridge University Press]]
+ | date=1990 | isbn=0-521-38996-8 | page=257
+ | url=https://books.google.com/books?id=DCA0PIjqSpQC&pg=PA257 }}</ref>
+
+<ref name=apjs187_1_228>{{citation
+ | last1=Silaj | first1= J. | last2=Jones | first2=C. E.
+ | last3=Tycner | first3=C. | last4=Sigut | first4=T. A. A.
+ | last5=Smith | first5=A. D. | postscript=.
+ | title=A Systematic Study of Hα Profiles of Be Stars
+ | journal=The Astrophysical Journal Supplement
+ | volume=187 | issue=1 | pages=228–250 | date=March 2010
+ | doi=10.1088/0067-0049/187/1/228 | bibcode=2010ApJS..187..228S }}</ref>
+
+<ref name=McEvol_Tirion2015>{{citation
+ | title=The Cambridge Double Star Atlas 
+ | first1=Bruce | last1=MacEvoy | first2=Wil | last2=Tirion 
+ | publisher=Cambridge University Press
+ | year=2015 | isbn=978-1107534209 | page=4
+ | url=https://books.google.com/books?id=edPrCgAAQBAJ&pg=PA4
+ | postscript=. }}</ref>
+
+<ref name=perryman2009>{{citation
+ | title=Astronomical Applications of Astrometry: Ten Years of Exploitation of the Hipparcos Satellite Data 
+ | first1=Michael | last1=Perryman 
+ | publisher=Cambridge University Press
+ | year=2009 | isbn=978-0521514897 | page=80
+ | url=https://books.google.com/books?id=kvbLd6yCNikC&pg=PA80
+ | postscript=. }}</ref>
+
+<ref name=apj_pt1_279_763>{{citation
+ | display-authors=1 | last1=Noyes | first1=R. W.
+ | last2=Hartmann | first2=L. W. | last3=Baliunas | first3=S. L.
+ | last4=Duncan | first4=D. K. | last5=Vaughan | first5=A. H. 
+ | title=Rotation, convection, and magnetic activity in lower main-sequence stars 
+ | journal=Astrophysical Journal, Part 1
+ | volume=279 | pages=763–777 | date=April 15, 1984
+ | doi=10.1086/161945 | bibcode=1984ApJ...279..763N | postscript=. }}</ref>
+
+<ref name=Schrijver_Zwaan2008>{{citation
+ | first1=C. J. | last1=Schrijver | first2=C. | last2=Zwaan
+ | title=Solar and Stellar Magnetic Activity | year=2008
+ | volume=34 | series=Cambridge Astrophysics | page=25
+ | publisher=Cambridge University Press
+ | url=https://books.google.com/books?id=Ik0nNfABUrMC&pg=PA25&lpg=PA25
+ | isbn=978-1139425421 | postscript=. }}</ref>
+
+<ref name=sanders2015>{{citation
+ | title=Dynamics of the Milky Way: Tidal Streams and Extended Distribution Functions for the Galactic Disc
+ | series=Springer Theses | first1=Jason | last1=Sanders
+ | publisher=Springer | year=2015 | isbn=978-3319187723 | page=9
+ | url=https://books.google.com/books?id=eL3pCQAAQBAJ&pg=PA9 | postscript=. }}</ref>
+
+<ref name=Ridpath2012>{{citation
+ | title=A Dictionary of Astronomy | page=163
+ | first1=Ian | last1=Ridpath | year=2012
+ | publisher=[[OUP Oxford]] | isbn=978-0199609055
+ | url=https://books.google.com/books?id=O31j9UJ3U4oC&pg=PA163
+ | accessdate=2016-10-15 | postscript=. }}</ref>
+
+<ref name=Rodono1986>{{citation
+ | title=Rotational modulation and flares on RS CVn and BY Dra-type stars. I - Photometry and SPOT models for BY Dra, AU Mic, AR Lac, II Peg and V 711 Tau (= HR 1099)	
+ | last1=Rodono | first1=M. | last2=Cutispoto | first2=G.
+ | last3=Pazzani | first3=V. | last4=Catalano | first4=S.
+ | last5=Byrne | first5=P. B. | last6=Doyle | first6=J. G.
+ | last7=Butler | first7=C. J. | last8=Andrews | first8=A. D.
+ | last9=Blanco | first9=C. | last10=Marilli | first10=E.
+ | last11=Linsky | first11=J. L. | last12=Scaltriti | first12=F.
+ | last13=Busso | first13=M. | last14=Cellino | first14=A.
+ | last15=Hopkins | first15=J. L. | last16=Okazaki | first16=A.
+ | last17=Hayashi | first17=S. S. | last18=Zeilik | first18=M.
+ | last19=Helston | first19=R. | last20=Henson | first20=G.
+ | last21=Smith | first21=P. | last22=Simon | first22=T.
+ | journal=Astronomy and Astrophysics | display-authors=1
+ | volume=165 | issue=1–2 | date=September 1986 | pages=135–156
+ | bibcode=1986A&A...165..135R | postscript=. }}</ref>
+
+<ref name=Bychkova2009>{{citation
+ | title=Catalogue of averaged stellar effective magnetic fields - II. Re-discussion of chemically peculiar A and B stars
+ | display-authors=1 | last1=Bychkov | first1=V. D.
+ | last2=Bychkova | first2=L. V. | last3=Madej | first3=J.
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=394 | issue=3 | pages=1338–1350 | date=April 2009
+ | doi=10.1111/j.1365-2966.2008.14227.x | bibcode=2009MNRAS.394.1338B
+ | postscript=. }}</ref>
+
+<ref name=Rufener1982>{{citation
+ | title=List of 333 variable, microvariable or suspected variable stars detected in the Geneva photometry
+ | last1=Rufener | first1=F. | last2=Bartholdi | first2=P.
+ | journal=Astronomy and Astrophysics Supplement Series
+ | volume=48 | pages=503–511 | date=June 1982
+ | bibcode=1982A&AS...48..503R | postscript=. }}</ref>
+
+<ref name=Townsend2004>{{citation
+ | title=Be-star rotation: how close to critical?
+ | display-authors=1 | last1=Townsend | first1=R. H. D.
+ | last2=Owocki | first2=S. P. | last3=Howarth | first3=I. D.
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=350 | issue=1 | pages=189–195 | date=May 2004
+ | doi=10.1111/j.1365-2966.2004.07627.x | bibcode=2004MNRAS.350..189T
+ | arxiv=astro-ph/0312113 | postscript=. }}</ref>
+
+<ref name=Einasto1977>{{citation
+ | contribution=Hypergalaxies
+ | last1=Einasto | first1=J.
+ | title=The large scale structure of the universe; Proceedings of the Symposium, Tallinn, Estonian SSR, September 12-16, 1977. (A79-13511 03-90)
+ | volume=79 | publisher=Dordrecht, D. Reidel Publishing Co.
+ | year=1978 | pages=51–60
+ | bibcode=1978IAUS...79...51E | postscript=. }}</ref>
+
+<ref name=Aitken1935>{{citation
+ | title=The Binary Stars | postscript=.
+ | first1=Robert G. | last1=Aitken
+ | publisher=McGraw-Hill Book Company
+ | location=New York
+ | year=1935 | pages=70–124 }}</ref>
+
+<ref name=Hansen1999>{{citation
+ | title=Stellar Interiors: Physical Principles, Structure, and Evolution
+ | series=Astronomy and Astrophysics Library
+ | first1=Carl J. | last1=Hansen | first2=Steven D. | last2=Kawaler
+ | publisher=Springer Science & Business Media
+ | year=1999 | isbn=038794138X | page=39 | postscript=.
+ | url=https://books.google.com/books?id=m-_6LYuUbUkC&pg=PA39 }}</ref>
+
+<ref name=Yuan2004>{{citation
+ | title=On the Nature of X-Ray-Bright, Optically Normal Galaxies
+ | last1=Yuan | first1=Feng | last2=Narayan | first2=Ramesh
+ | journal=The Astrophysical Journal
+ | volume=612 | issue=2 | pages=724–728 | date=September 2004
+ | doi=10.1086/422802 | bibcode=2004ApJ...612..724Y
+ | arxiv=astro-ph/0401117 | postscript=. }}</ref>
+
+<ref name=Chebotarev1964>{{citation
+ | title=Gravitational Spheres of the Major Planets, Moon and Sun
+ | last1=Chebotarev | first1=G. A.
+ | journal=Soviet Astronomy
+ | volume=7 | page=618 | date=April 1964
+ | bibcode=1964SvA.....7..618C | postscript=. }}</ref>
+
+<ref name=Pace2003>{{citation
+ | title=The Wilson-Bappu effect: A tool to determine stellar distances
+ | display-authors=1 | last1=Pace | first1=G.
+ | last2=Pasquini | first2=L. | last3=Ortolani | first3=S.
+ | journal=Astronomy and Astrophysics
+ | volume=401 | issue=3 | pages=997–1007 | date=April 2003
+ | doi=10.1051/0004-6361:20030163 | bibcode=2003A&A...401..997P
+ | arxiv=astro-ph/0301637 | postscript=. }}</ref>
+
+<ref name=Ridpath2018>{{citation | postscript=.
+ | title=A Dictionary of Astronomy
+ | series=Oxford Quick Reference Online
+ | editor1-first=Ian | editor1-last=Ridpath
+ | edition=3 | year=2018 | isbn=978-0192542618
+ | publisher=Oxford University Press
+ | url=https://books.google.com/books?id=VmZaDwAAQBAJ&pg=PT815 }}</ref>
+
+<ref name=Andre2008>{{citation
+ | title=Physics, Formation and Evolution of Rotating Stars
+ | series=Astronomy and Astrophysics Library
+ | first1=Andre | last1=Maeder | year=2008
+ | publisher=[[Springer Science & Business Media]] | isbn=978-3540769491
+ | url=https://books.google.com/books?id=akDVteYDC1kC&pg=PA79
+ | postscript=. }}</ref>
+
+<ref name=Andersen2000>{{citation | postscript=.
+ | title=Unsolved Problems in Stellar Evolution
+ | first1=J. | last1=Andersen | page=97 | volume=12
+ | series=Space Telescope Science Institute Symposium
+ | editor1-first=Mario | editor1-last=Livio | year=2000
+ | publisher=Cambridge University Press | isbn=0521780918
+ | url=https://books.google.com/books?id=RGyraXO4F4QC&pg=RA1-PA97 }}</ref>
+
+<ref name=Schröder2009>{{citation
+ | title=Ca II HK emission in rapidly rotating stars. Evidence for an onset of the solar-type dynamo
+ | last1=Schröder | first1=C. | last2=Reiners | first2=A.
+ | last3=Schmitt | first3=J. H. M. M. | display-authors=1
+ | journal=Astronomy and Astrophysics | postscript=.
+ | volume=493 | issue=3 | pages=1099–1107 | date=January 2009
+ | doi=10.1051/0004-6361:200810377 | bibcode=2009A&A...493.1099S | doi-access=free }}</ref>
+
+<ref name=CMF>{{citation
+ | url=http://hubblesource.stsci.edu/sources/illustrations/constellations/
+ | title=HubbleSOURCE: Constellation Mythological Forms
+ | publisher=NASA | accessdate=2011-10-20 | postscript=. }}</ref>
+
+<ref name=KMSF>{{citation
+ | url=http://www.nasa.gov/mission_pages/kepler/multimedia/images/kepler-field-of-view-photo.html
+ | title=Kepler Mission Star Field
+ | publisher=NASA | accessdate=2011-10-20 | postscript=. }}</ref>
+
+}}
+
+==External links==
+{{wiktionary|Appendix:List of astronomical terms}}
+*{{citation | title=Astronomical Glossary | publisher=NASA/IPAC | work=A Knowledgebase for Extragalactic Astronomy and Cosmology | date=January 10, 2006  | url=http://ned.ipac.caltech.edu/level5/Glossary/frames.html | accessdate=2012-02-19 }}
+*{{citation | title=Astronomy Terms | publisher=Sky & Telescope Media | url=http://www.skyandtelescope.com/astronomy-terms/ | accessdate=2018-03-09 }}
+*{{citation | title=ESO Astronomical Glossary | work=Public Outreach | publisher=European Southern Observatory | url=https://www.eso.org/public/outreach/glossary/glossary_a/ | accessdate=2018-03-09 }}
+*{{citation | title=Glossary | work=HubbleSite – Reference Desk | publisher=Space Telescope Science Institute (STScI) | url=http://hubblesite.org/reference_desk/glossary/ | accessdate=2018-03-09 }}
+*{{citation | title=Glossary of (comet and) astronomical terms | work=International Comet Quarterly | publisher=Harvard University | url=http://www.icq.eps.harvard.edu/ICQGlossary.html | accessdate=2012-02-20 }}
+
+{{Astronomy navbox|state=collapsed}}
+{{Glossaries of science and engineering}}
+
+[[Category:Glossaries of science|Astronomy]]
+[[Category:Astronomy|*]]
+[[Category:Astronomy-related lists]]
+
