@@ -1,6 +1,6 @@
 # Anki Science
 
-A collection of Anki decks for advanced science topics. Some have been hand-written, and some have been scraped from Wikipedia. Currently these scrapes are simply (term, summary) question-answer pairs for every term in each subject's Wikipedia glossary.
+A collection of Anki decks for advanced science topics. Some have been hand-written, and some have been scraped from Wikipedia. Currently the Wiki scrapes are simply (term, summary) question-answer pairs for every term in each subject's Wikipedia glossary.
 
 ## Tips:
 
