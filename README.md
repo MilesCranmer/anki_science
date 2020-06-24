@@ -20,7 +20,7 @@ General:
 
 Physics/Astro:
 - physics_and_astronomy/comprehensive_astrophysics.apkg
-    - Anki deck for PhD comprehensive exam. Based on Josh Winn's "Astrophysical Literacy" document. 
+    - Anki deck I used for my PhD comprehensive exam in astrophysics. Based on Josh Winn's "Astrophysical Literacy" document. 
     - Answers pulled from COSMOS, Wikipedia, and other sources, with additional help from Eric Moseley and Oliver Philcox.
 - wiki_scrape/physics.apkg
     - Scraped from https://en.wikipedia.org/wiki/Glossary_of_physics and the summaries of each page.
